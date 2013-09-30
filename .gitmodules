@@ -1,6 +1,0 @@
-[submodule "3d_party/depot_tools"]
-	path = 3d_party/depot_tools
-	url = https://chromium.googlesource.com/chromium/tools/depot_tools.git
-[submodule "3d_party/openssl"]
-	path = 3d_party/openssl
-	url = git://git.openssl.org/openssl.git
