@@ -8,7 +8,8 @@
   },
   "scripts": {
     "preinstall": "make prepare_env",
-    "postinstall": "make build"
+    "postinstall": "make build",
+    "test": "make test"
   },
   "main": "./build/Release/rtc.node",
   "author": "Pasquale Boemio <boemianrapsodi@gmail.com>",
