@@ -3,5 +3,7 @@ node_modules/
 third_party/chromium_deps/
 third_party/depot_tools/
 third_party/trunk/
+third_party/.gclient
+third_party/.gclient_entries
 build/
 docs/
