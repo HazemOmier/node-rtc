@@ -1,0 +1,24 @@
+{
+  "name": "node-rtc",
+  "version": "0.0.3-6",
+  "description": "WebRTC stack for node.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/helloIAmPau/node-rtc.git"
+  },
+  "scripts": {
+    "preinstall": "make prepare_env",
+    "postinstall": "make build"
+  },
+  "main": "./build/Release/rtc.node",
+  "author": "Pasquale Boemio <boemianrapsodi@gmail.com>",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "node-gyp": "~0.10.10"
+  },
+  "devDependencies": {
+    "mocha": "~1.13.0",
+    "chai": "~1.8.0"
+  }
+}
