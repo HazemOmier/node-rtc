@@ -69,7 +69,7 @@
             }
           }
         ],
-      [ "OS == 'mac'", {
+      [ "OS == 'linux'", {
         'link_settings': {
         'libraries': [
           '../third_party/libjingle/trunk/out/Debug/obj.target/third_party/opus/libopus.a',
