@@ -72,6 +72,10 @@
       [ "OS == 'linux'", {
         'link_settings': {
         'libraries': [
+          '../third_party/trunk/out/Debug/obj.target/talk/libjingle.a',
+          '../third_party/trunk/out/Debug/obj.target/talk/libjingle_peerconnection.a',
+          '../third_party/trunk/out/Debug/obj.target/talk/libjingle_media.a',
+          '../third_party/trunk/out/Debug/obj.target/talk/libjingle_p2p.a',
           '../third_party/trunk/out/Debug/obj.target/third_party/opus/libopus.a',
           '../third_party/trunk/out/Debug/obj.target/third_party/libsrtp/libsrtp.a',
           '../third_party/trunk/out/Debug/obj.target/third_party/protobuf/libprotobuf_lite.a',
@@ -113,11 +117,7 @@
           '../third_party/trunk/out/Debug/obj.target/webrtc/modules/libvideo_render_module.a',
           '../third_party/trunk/out/Debug/obj.target/webrtc/modules/libwebrtc_opus.a',
           '../third_party/trunk/out/Debug/obj.target/webrtc/modules/remote_bitrate_estimator/librbe_components.a',
-          '../third_party/trunk/out/Debug/obj.target/webrtc/voice_engine/libvoice_engine.a',
-          '../third_party/trunk/out/Debug/obj.target/talk/libjingle_peerconnection.a',
-          '../third_party/trunk/out/Debug/obj.target/talk/libjingle_media.a',
-          '../third_party/trunk/out/Debug/obj.target/talk/libjingle.a',
-          '../third_party/trunk/out/Debug/obj.target/talk/libjingle_p2p.a'
+          '../third_party/trunk/out/Debug/obj.target/webrtc/voice_engine/libvoice_engine.a'
           ]
           }
         }
