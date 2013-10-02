@@ -70,7 +70,12 @@ Handle<v8::Value> PeerconnectionWrapper::AddIceCandidate(const Arguments& args) 
   String::AsciiValue candidateASCII(candidateObject->Get(String::New("candidate"))->ToString());
   std::string candidate = std::string(*candidateASCII);
 
-  webrtc::IceCandidateInterface* candidateToAdd = webrtc::CreateIceCandidate("", 0, candidate, NULL);
+  String::AsciiValue sdpMidASCII(candidateObject->Get(String::New("sdpMid"))->ToString());
+  std::string sdpMid = std::string(*sdpMidASCII);
+
+  int32_t sdpMLineIndex = candidateObject->Get(String::New("sdpMid"))->Int32Value();
+
+  webrtc::IceCandidateInterface* candidateToAdd = webrtc::CreateIceCandidate(sdpMid, sdpMLineIndex, candidate);
   thisWrapper->peerConnection->AddIceCandidate(candidateToAdd);
 
   return scope.Close(Undefined());
@@ -316,6 +321,8 @@ void PeerconnectionWrapper::peerConnectionObserverCallbackHandler(uv_async_t *ha
 
     jsCandidate->SetPrototype(String::New("RTCIceCandidate"));
     jsCandidate->Set(String::New("candidate"), String::New(data->candidate->c_str()));
+    jsCandidate->Set(String::New("sdpMLineIndex"), Integer::New(data->sdpMLineIndex));
+    jsCandidate->Set(String::New("sdpMid"), String::New(data->sdpMid->c_str()));
 
     Local<Object> jsCandidateEvent = Object::New();
     jsCandidateEvent->SetPrototype(String::New("RTCIceCandidateEvent"));

@@ -74,6 +74,8 @@ class PeerconnectionWrapper :
       struct PeerConnectionObserverData {
         v8::Persistent<v8::Object> thisPointer;
         std::string* candidate;
+        int sdpMLineIndex;
+        std::string* sdpMid;
         std::string event;
       };
 
@@ -112,6 +114,9 @@ class PeerconnectionWrapper :
             std::string* candidateAsString = new std::string();
             candidate->ToString(candidateAsString);
             data->candidate = candidateAsString;
+
+            data->sdpMid = new std::string(candidate->sdp_mid());
+            data->sdpMLineIndex = candidate->sdp_mline_index();
 
             uv_async_send(&this->wrapperObserver->peerConnectionObserverAsyncHandler);
           }
