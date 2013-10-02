@@ -5,3 +5,6 @@ node_js:
 before_install:
   - sudo apt-get update -qq
   - sudo apt-get install -qq libnss3-dev libasound2-dev libpulse-dev
+after_success:
+  - npm install npm
+  - secure: "R2kb6VieoBJHGsZ7RSECx2J2GwP7z7ta7kQd1DhapsiENpse8yKME/djCGgkYdM82ZtAcr39fUn8EwgrPzYhd11ndPKoirH68nEBQRu4PSg3cmwQeUABX30zz066DY/x1RM3GsfYUslt+EL0Vl6TPsg2J1RUREtQ5AfQBrX79HY="

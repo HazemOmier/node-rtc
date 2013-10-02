@@ -1,6 +1,6 @@
 {
   "name": "node-rtc",
-  "version": "0.0.3-6",
+  "version": "0.0.3-7",
   "description": "WebRTC stack for node.js",
   "repository": {
     "type": "git",
