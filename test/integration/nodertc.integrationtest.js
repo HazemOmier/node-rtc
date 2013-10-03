@@ -1,4 +1,4 @@
-var rtcModule = require('../../build/Release/rtc.node');
+var rtcModule = require('../../build/Debug/rtc.node');
 
 var pc1 = new rtcModule.NodeRTCPeerconnection();
 var pc2 = new rtcModule.NodeRTCPeerconnection();

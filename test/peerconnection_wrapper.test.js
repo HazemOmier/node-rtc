@@ -175,6 +175,7 @@ describe('PeerconnectionWrapper', function() {
     var pc = new rtcModule.NodeRTCPeerconnection();
     var fired = false;
     pc.onIceCandidate = function(event) {
+      console.log(event);
       if(!fired) {
         fired = true;
         done();

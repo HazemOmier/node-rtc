@@ -13,7 +13,7 @@ all: deps test
 
 prepare_env:
 	mkdir -p third_party; cd third_party; if [ ! -d "depot_tools" ]; then git clone https://chromium.googlesource.com/chromium/tools/depot_tools.git; fi
-	cd third_party; ./depot_tools/gclient config --name trunk http://webrtc.googlecode.com/svn/stable/; GYP_GENERATORS=make ./depot_tools/gclient sync
+	cd third_party; ./depot_tools/gclient config --name trunk http://webrtc.googlecode.com/svn/trunk/; GYP_GENERATORS=make ./depot_tools/gclient sync
 	cd third_party/trunk; ./build/gyp_chromium all.gyp -f make --depth=./ -Dinclude_tests=0; make libjingle_peerconnection libjingle libjingle_p2p libjingle_media webrtc protobuf_lite rbe_components opus libsrtp
 
 deps:
