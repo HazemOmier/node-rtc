@@ -1,0 +1,12 @@
+--- webrtc/build/merge_libs_old.gyp	2013-10-06 13:56:47.000000000 +0200
++++ webrtc/build/merge_libs.gyp	2013-10-06 13:57:52.000000000 +0200
+@@ -10,7 +10,8 @@
+   'includes': ['common.gypi',],
+   'variables': {
+     'merge_libs_dependencies': [
+-      '../video_engine/video_engine.gyp:video_engine_core',
++      #'../video_engine/video_engine.gyp:video_engine_core',
++      '../../talk/libjingle.gyp:libjingle_peerconnection'
+     ],
+   },
+   'targets': [
