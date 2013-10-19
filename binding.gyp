@@ -14,7 +14,7 @@
       ],
       'link_settings': {
         'libraries': [
-          '../third_party/trunk/out/Debug/libwebrtc.a'
+          '../third_party/trunk/xcodebuild/Debug/libwebrtc.a'
         ]
       },
       'conditions': [

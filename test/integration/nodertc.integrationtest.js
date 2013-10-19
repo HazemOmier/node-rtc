@@ -1,4 +1,4 @@
-var rtcModule = require('../../build/Debug/rtc.node');
+var rtcModule = require('../../build/Release/rtc.node');
 
 var pc1 = new rtcModule.NodeRTCPeerconnection();
 var pc2 = new rtcModule.NodeRTCPeerconnection();
@@ -35,5 +35,7 @@ var onOffer = function(desc) {
 
 console.log(pc1);
 console.log(pc2);
+pc1.addStream();
+pc2.addStream();
 pc1.createOffer(onOffer, function(error) { console.log(error); });
 

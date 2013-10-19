@@ -1,4 +1,5 @@
 #include "peerconnection_wrapper.h"
+#include "talk/app/webrtc/test/fakeconstraints.h"
 
 using namespace v8;
 
@@ -91,7 +92,8 @@ Handle<Value> PeerconnectionWrapper::AddStream(const Arguments& args) {
 
   PeerconnectionWrapper* thisWrapper = ObjectWrap::Unwrap<PeerconnectionWrapper>(args.This());
 
-  talk_base::scoped_refptr<webrtc::MediaStreamInterface> stream = thisWrapper->peerConnectionFactory->CreateLocalMediaStream("dumb stream");
+  talk_base::scoped_refptr<webrtc::MediaStreamInterface> stream = thisWrapper->peerConnectionFactory->CreateLocalMediaStream("dumbstream");
+
   thisWrapper->peerConnection->AddStream(stream, NULL);
 
   return scope.Close(Undefined());
@@ -243,8 +245,14 @@ PeerconnectionWrapper::PeerconnectionWrapper() {
 
   // Creating observer
   PeerConnectionObserverImpl* pcobs = new PeerConnectionObserverImpl(this);
+
   // Creating PeerConnection
-  this->peerConnection = peerConnectionFactory->CreatePeerConnection(servers, NULL, NULL, pcobs);
+  webrtc::FakeConstraints constraints;
+  constraints.AddOptional(webrtc::MediaConstraintsInterface::kEnableDtlsSrtp, false);
+  // constraints.AddOptional(webrtc::MediaConstraintsInterface::kEnableSctpDataChannels, true);
+  constraints.AddOptional(webrtc::MediaConstraintsInterface::kEnableRtpDataChannels, false);
+
+  this->peerConnection = peerConnectionFactory->CreatePeerConnection(servers, &constraints, NULL, pcobs);
 }
 
 /**
