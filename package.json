@@ -7,7 +7,7 @@
     "url": "https://github.com/helloIAmPau/node-rtc.git"
   },
   "scripts": {
-    "preinstall": "make prepare_env",
+    "preinstall": "make prepare_env build_deps",
     "postinstall": "make build",
     "test": "make test"
   },
