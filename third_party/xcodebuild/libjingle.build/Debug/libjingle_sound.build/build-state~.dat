@@ -1,240 +1,0 @@
-Tlibjingle_sound
-v6
-r1
-cCheck dependencies
-cCompileC ../xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/nullsoundsystem.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/nullsoundsystem.cc normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC ../xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/nullsoundsystemfactory.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/nullsoundsystemfactory.cc normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC ../xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/platformsoundsystem.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/platformsoundsystem.cc normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC ../xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/platformsoundsystemfactory.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/platformsoundsystemfactory.cc normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC ../xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/soundsysteminterface.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/soundsysteminterface.cc normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC ../xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/soundsystemproxy.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/soundsystemproxy.cc normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cLibtool /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../xcodebuild/Debug/libjingle_sound.a normal i386
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
-c000000005130312F00000000000000AA
-t1362112815
-s170
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/SDKSettings.plist
-c000000005261AE0C00000000000004B3
-t1382133260
-s1203
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/CoreServices/SystemVersion.plist
-c000000005261AE0C00000000000001DE
-t1382133260
-s478
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/nullsoundsystem.cc
-c0000000052514CEB000000000000120B
-t1381059819
-s4619
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/nullsoundsystemfactory.cc
-c0000000052514CEB0000000000000769
-t1381059819
-s1897
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/platformsoundsystem.cc
-c0000000052514CEB0000000000000757
-t1381059819
-s1879
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/platformsoundsystemfactory.cc
-c0000000052514CEB00000000000008A4
-t1381059819
-s2212
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/soundsysteminterface.cc
-c0000000052514CEB000000000000075F
-t1381059819
-s1887
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/soundsystemproxy.cc
-c0000000052514CEB0000000000000A40
-t1381059819
-s2624
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/Debug/libjingle_sound.a
-t2
-s0
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/jingle_sound.LinkFileList
-c000000005262268D00000000000003BE
-t1382164109
-s958
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/nullsoundsystem.o
-t1382164110
-s217076
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/nullsoundsystemfactory.o
-t1382164110
-s23076
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/platformsoundsystem.o
-t1382164110
-s9144
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/platformsoundsystemfactory.o
-t1382164111
-s40336
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/soundsysteminterface.o
-t1382164111
-s24900
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/soundsystemproxy.o
-t1382164111
-s10220
-
-CCheck dependencies
-r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesa148630d5e12b841^f163640d5e12b841^---0#1#1#--18"Check dependencies36"5D614C5E-9C3E-43CC-90D8-1F4D21F9252E-
-
-CCompileC ../xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/nullsoundsystem.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/nullsoundsystem.cc normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s403856909.392969
-e403856910.716975
-r1
-xCompileC
-x../xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/nullsoundsystem.o
-x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/nullsoundsystem.cc
-xnormal
-xi386
-xc++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/nullsoundsystem.cc
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/nullsoundsystem.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/soundsysteminterface.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/base/constructormagic.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/base/logging.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/base/basictypes.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/base/criticalsection.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/sounddevicelocator.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/soundinputstreaminterface.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/base/sigslot.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/soundoutputstreaminterface.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/nullsoundsystem.cc205"[1mCompileC[0m ../xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/nullsoundsystem.o [1msound/nullsoundsystem.cc[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compilerc3d6640d5e12b841^ea23b80e5e12b841^---0#0#1#-19%DVTDocumentLocation2@107"file://localhost/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/nullsoundsystem.cc0000000000000000^4153"[1mCompileC[0m ../xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/nullsoundsystem.o [1msound/nullsoundsystem.cc[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk    setenv LANG en_US.US-ASCII    /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../third_party/llvm-build/Release+Asserts/bin/clang -x c++ -arch i386 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu++11 -Wno-trigraphs -fno-exceptions -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wnewline-eof -Wno-c++11-extensions -DANGLE_DX11 -DEXPAT_RELATIVE_PATH -DFEATURE_ENABLE_VOICEMAIL -DGTEST_RELATIVE_PATH -DJSONCPP_RELATIVE_PATH -DLOGGING=1 -DSRTP_RELATIVE_PATH -DFEATURE_ENABLE_SSL -DFEATURE_ENABLE_PSTN -DHAVE_SRTP -DHAVE_WEBRTC_VIDEO -DHAVE_WEBRTC_VOICE -DUSE_WEBRTC_DEV_BRANCH -DCHROMIUM_BUILD -DUSE_LIBJPEG_TURBO=1 -DENABLE_ONE_CLICK_SIGNIN -DENABLE_REMOTING=1 -DENABLE_WEBRTC=1 -DENABLE_PEPPER_CDMS -DENABLE_CONFIGURATION_POLICY -DENABLE_INPUT_SPEECH -DENABLE_NOTIFICATIONS -DENABLE_HIDPI=1 -DENABLE_EGLIMAGE=1 -DENABLE_TASK_MANAGER=1 -DENABLE_EXTENSIONS=1 -DENABLE_PLUGIN_INSTALLATION=1 -DENABLE_PLUGINS=1 -DENABLE_SESSION_SERVICE=1 -DENABLE_THEMES=1 -DENABLE_AUTOFILL_DIALOG=1 -DENABLE_BACKGROUND=1 -DENABLE_AUTOMATION=1 -DENABLE_GOOGLE_NOW=1 -DENABLE_FULL_PRINTING=1 -DENABLE_PRINTING=1 -DENABLE_SPELLCHECK=1 -DENABLE_CAPTIVE_PORTAL_DETECTION=1 -DENABLE_APP_LIST=1 -DENABLE_SETTINGS_APP=1 -DENABLE_MANAGED_USERS=1 -DLIBPEERCONNECTION_LIB=1 -DOSX -DHASH_NAMESPACE=__gnu_cxx -DPOSIX -DDISABLE_DYNAMIC_CAST -DHAVE_OPENSSL_SSL_H=1 -D_REENTRANT -DXML_STATIC -DDYNAMIC_ANNOTATIONS_ENABLED=1 -DWTF_USE_DYNAMIC_ANNOTATIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.6 -g -fvisibility=hidden -fvisibility-inlines-hidden -fno-threadsafe-statics -Wno-sign-conversion -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../xcodebuild/Debug/include -I.. -I../third_party -I../third_party/webrtc -I../webrtc -I../third_party/expat/files/lib -I../third_party/jsoncpp/overrides/include -I../third_party/jsoncpp/source/include -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../xcodebuild/libjingle.build/Debug/libjingle_sound.build/DerivedSources/i386 -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../xcodebuild/libjingle.build/Debug/libjingle_sound.build/DerivedSources -Wendif-labels -Wno-unused-parameter -Wno-missing-field-initializers -Wheader-hygiene -Wno-c++11-narrowing -Wno-char-subscripts -Wno-unused-function -Wno-covered-switch-default -Wstring-conversion -Wno-deprecated-register -Wno-unused-const-variable -Wno-deprecated-declarations -F/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../xcodebuild/Debug -fno-strict-aliasing -fstack-protector-all -MMD -MT dependencies -MF /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/nullsoundsystem.d --serialize-diagnostics /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/nullsoundsystem.dia -c /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/nullsoundsystem.cc -o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/nullsoundsystem.o36"DD234B5B-68AE-4CF0-9F43-6892791C60AA-
-b41981BA3-CC45-4024-9ACE-A6EC58813C70
-
-CCompileC ../xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/nullsoundsystemfactory.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/nullsoundsystemfactory.cc normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s403856909.394142
-e403856910.403309
-r1
-xCompileC
-x../xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/nullsoundsystemfactory.o
-x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/nullsoundsystemfactory.cc
-xnormal
-xi386
-xc++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/nullsoundsystemfactory.cc
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/nullsoundsystemfactory.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/soundsystemfactory.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/base/referencecountedsingletonfactory.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/base/common.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/base/basictypes.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/base/constructormagic.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/base/criticalsection.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/base/logging.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/base/scoped_ptr.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/nullsoundsystem.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/soundsysteminterface.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/nullsoundsystemfactory.cc219"[1mCompileC[0m ../xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/nullsoundsystemfactory.o [1msound/nullsoundsystemfactory.cc[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler2920650d5e12b841^0d72670e5e12b841^---0#0#1#-19%DVTDocumentLocation2@114"file://localhost/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/nullsoundsystemfactory.cc0000000000000000^4195"[1mCompileC[0m ../xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/nullsoundsystemfactory.o [1msound/nullsoundsystemfactory.cc[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk    setenv LANG en_US.US-ASCII    /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../third_party/llvm-build/Release+Asserts/bin/clang -x c++ -arch i386 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu++11 -Wno-trigraphs -fno-exceptions -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wnewline-eof -Wno-c++11-extensions -DANGLE_DX11 -DEXPAT_RELATIVE_PATH -DFEATURE_ENABLE_VOICEMAIL -DGTEST_RELATIVE_PATH -DJSONCPP_RELATIVE_PATH -DLOGGING=1 -DSRTP_RELATIVE_PATH -DFEATURE_ENABLE_SSL -DFEATURE_ENABLE_PSTN -DHAVE_SRTP -DHAVE_WEBRTC_VIDEO -DHAVE_WEBRTC_VOICE -DUSE_WEBRTC_DEV_BRANCH -DCHROMIUM_BUILD -DUSE_LIBJPEG_TURBO=1 -DENABLE_ONE_CLICK_SIGNIN -DENABLE_REMOTING=1 -DENABLE_WEBRTC=1 -DENABLE_PEPPER_CDMS -DENABLE_CONFIGURATION_POLICY -DENABLE_INPUT_SPEECH -DENABLE_NOTIFICATIONS -DENABLE_HIDPI=1 -DENABLE_EGLIMAGE=1 -DENABLE_TASK_MANAGER=1 -DENABLE_EXTENSIONS=1 -DENABLE_PLUGIN_INSTALLATION=1 -DENABLE_PLUGINS=1 -DENABLE_SESSION_SERVICE=1 -DENABLE_THEMES=1 -DENABLE_AUTOFILL_DIALOG=1 -DENABLE_BACKGROUND=1 -DENABLE_AUTOMATION=1 -DENABLE_GOOGLE_NOW=1 -DENABLE_FULL_PRINTING=1 -DENABLE_PRINTING=1 -DENABLE_SPELLCHECK=1 -DENABLE_CAPTIVE_PORTAL_DETECTION=1 -DENABLE_APP_LIST=1 -DENABLE_SETTINGS_APP=1 -DENABLE_MANAGED_USERS=1 -DLIBPEERCONNECTION_LIB=1 -DOSX -DHASH_NAMESPACE=__gnu_cxx -DPOSIX -DDISABLE_DYNAMIC_CAST -DHAVE_OPENSSL_SSL_H=1 -D_REENTRANT -DXML_STATIC -DDYNAMIC_ANNOTATIONS_ENABLED=1 -DWTF_USE_DYNAMIC_ANNOTATIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.6 -g -fvisibility=hidden -fvisibility-inlines-hidden -fno-threadsafe-statics -Wno-sign-conversion -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../xcodebuild/Debug/include -I.. -I../third_party -I../third_party/webrtc -I../webrtc -I../third_party/expat/files/lib -I../third_party/jsoncpp/overrides/include -I../third_party/jsoncpp/source/include -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../xcodebuild/libjingle.build/Debug/libjingle_sound.build/DerivedSources/i386 -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../xcodebuild/libjingle.build/Debug/libjingle_sound.build/DerivedSources -Wendif-labels -Wno-unused-parameter -Wno-missing-field-initializers -Wheader-hygiene -Wno-c++11-narrowing -Wno-char-subscripts -Wno-unused-function -Wno-covered-switch-default -Wstring-conversion -Wno-deprecated-register -Wno-unused-const-variable -Wno-deprecated-declarations -F/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../xcodebuild/Debug -fno-strict-aliasing -fstack-protector-all -MMD -MT dependencies -MF /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/nullsoundsystemfactory.d --serialize-diagnostics /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/nullsoundsystemfactory.dia -c /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/nullsoundsystemfactory.cc -o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/nullsoundsystemfactory.o36"E728F109-8942-4D90-A50B-25D940A8C340-
-b41981BA3-CC45-4024-9ACE-A6EC58813C70
-
-CCompileC ../xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/platformsoundsystem.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/platformsoundsystem.cc normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s403856910.405054
-e403856910.657361
-r1
-xCompileC
-x../xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/platformsoundsystem.o
-x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/platformsoundsystem.cc
-xnormal
-xi386
-xc++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/platformsoundsystem.cc
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/platformsoundsystem.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/base/common.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/base/basictypes.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/base/constructormagic.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/nullsoundsystem.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/soundsysteminterface.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/platformsoundsystem.cc213"[1mCompileC[0m ../xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/platformsoundsystem.o [1msound/platformsoundsystem.cc[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compilere8f5670e5e12b841^7c48a80e5e12b841^---0#0#1#-19%DVTDocumentLocation2@111"file://localhost/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/platformsoundsystem.cc0000000000000000^4177"[1mCompileC[0m ../xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/platformsoundsystem.o [1msound/platformsoundsystem.cc[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk    setenv LANG en_US.US-ASCII    /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../third_party/llvm-build/Release+Asserts/bin/clang -x c++ -arch i386 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu++11 -Wno-trigraphs -fno-exceptions -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wnewline-eof -Wno-c++11-extensions -DANGLE_DX11 -DEXPAT_RELATIVE_PATH -DFEATURE_ENABLE_VOICEMAIL -DGTEST_RELATIVE_PATH -DJSONCPP_RELATIVE_PATH -DLOGGING=1 -DSRTP_RELATIVE_PATH -DFEATURE_ENABLE_SSL -DFEATURE_ENABLE_PSTN -DHAVE_SRTP -DHAVE_WEBRTC_VIDEO -DHAVE_WEBRTC_VOICE -DUSE_WEBRTC_DEV_BRANCH -DCHROMIUM_BUILD -DUSE_LIBJPEG_TURBO=1 -DENABLE_ONE_CLICK_SIGNIN -DENABLE_REMOTING=1 -DENABLE_WEBRTC=1 -DENABLE_PEPPER_CDMS -DENABLE_CONFIGURATION_POLICY -DENABLE_INPUT_SPEECH -DENABLE_NOTIFICATIONS -DENABLE_HIDPI=1 -DENABLE_EGLIMAGE=1 -DENABLE_TASK_MANAGER=1 -DENABLE_EXTENSIONS=1 -DENABLE_PLUGIN_INSTALLATION=1 -DENABLE_PLUGINS=1 -DENABLE_SESSION_SERVICE=1 -DENABLE_THEMES=1 -DENABLE_AUTOFILL_DIALOG=1 -DENABLE_BACKGROUND=1 -DENABLE_AUTOMATION=1 -DENABLE_GOOGLE_NOW=1 -DENABLE_FULL_PRINTING=1 -DENABLE_PRINTING=1 -DENABLE_SPELLCHECK=1 -DENABLE_CAPTIVE_PORTAL_DETECTION=1 -DENABLE_APP_LIST=1 -DENABLE_SETTINGS_APP=1 -DENABLE_MANAGED_USERS=1 -DLIBPEERCONNECTION_LIB=1 -DOSX -DHASH_NAMESPACE=__gnu_cxx -DPOSIX -DDISABLE_DYNAMIC_CAST -DHAVE_OPENSSL_SSL_H=1 -D_REENTRANT -DXML_STATIC -DDYNAMIC_ANNOTATIONS_ENABLED=1 -DWTF_USE_DYNAMIC_ANNOTATIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.6 -g -fvisibility=hidden -fvisibility-inlines-hidden -fno-threadsafe-statics -Wno-sign-conversion -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../xcodebuild/Debug/include -I.. -I../third_party -I../third_party/webrtc -I../webrtc -I../third_party/expat/files/lib -I../third_party/jsoncpp/overrides/include -I../third_party/jsoncpp/source/include -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../xcodebuild/libjingle.build/Debug/libjingle_sound.build/DerivedSources/i386 -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../xcodebuild/libjingle.build/Debug/libjingle_sound.build/DerivedSources -Wendif-labels -Wno-unused-parameter -Wno-missing-field-initializers -Wheader-hygiene -Wno-c++11-narrowing -Wno-char-subscripts -Wno-unused-function -Wno-covered-switch-default -Wstring-conversion -Wno-deprecated-register -Wno-unused-const-variable -Wno-deprecated-declarations -F/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../xcodebuild/Debug -fno-strict-aliasing -fstack-protector-all -MMD -MT dependencies -MF /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/platformsoundsystem.d --serialize-diagnostics /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/platformsoundsystem.dia -c /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/platformsoundsystem.cc -o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/platformsoundsystem.o36"1F58FE8C-D1DE-45F4-A83A-B7B387E409BC-
-b41981BA3-CC45-4024-9ACE-A6EC58813C70
-
-CCompileC ../xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/platformsoundsystemfactory.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/platformsoundsystemfactory.cc normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s403856910.658765
-e403856911.386146
-r1
-xCompileC
-x../xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/platformsoundsystemfactory.o
-x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/platformsoundsystemfactory.cc
-xnormal
-xi386
-xc++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/platformsoundsystemfactory.cc
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/platformsoundsystemfactory.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/soundsystemfactory.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/base/referencecountedsingletonfactory.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/base/common.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/base/basictypes.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/base/constructormagic.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/base/criticalsection.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/base/logging.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/base/scoped_ptr.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/platformsoundsystem.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/soundsysteminterface.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/platformsoundsystemfactory.cc227"[1mCompileC[0m ../xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/platformsoundsystemfactory.o [1msound/platformsoundsystemfactory.cc[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compilerace3a80e5e12b841^40f6620f5e12b841^---0#0#1#-19%DVTDocumentLocation2@118"file://localhost/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/platformsoundsystemfactory.cc0000000000000000^4219"[1mCompileC[0m ../xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/platformsoundsystemfactory.o [1msound/platformsoundsystemfactory.cc[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk    setenv LANG en_US.US-ASCII    /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../third_party/llvm-build/Release+Asserts/bin/clang -x c++ -arch i386 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu++11 -Wno-trigraphs -fno-exceptions -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wnewline-eof -Wno-c++11-extensions -DANGLE_DX11 -DEXPAT_RELATIVE_PATH -DFEATURE_ENABLE_VOICEMAIL -DGTEST_RELATIVE_PATH -DJSONCPP_RELATIVE_PATH -DLOGGING=1 -DSRTP_RELATIVE_PATH -DFEATURE_ENABLE_SSL -DFEATURE_ENABLE_PSTN -DHAVE_SRTP -DHAVE_WEBRTC_VIDEO -DHAVE_WEBRTC_VOICE -DUSE_WEBRTC_DEV_BRANCH -DCHROMIUM_BUILD -DUSE_LIBJPEG_TURBO=1 -DENABLE_ONE_CLICK_SIGNIN -DENABLE_REMOTING=1 -DENABLE_WEBRTC=1 -DENABLE_PEPPER_CDMS -DENABLE_CONFIGURATION_POLICY -DENABLE_INPUT_SPEECH -DENABLE_NOTIFICATIONS -DENABLE_HIDPI=1 -DENABLE_EGLIMAGE=1 -DENABLE_TASK_MANAGER=1 -DENABLE_EXTENSIONS=1 -DENABLE_PLUGIN_INSTALLATION=1 -DENABLE_PLUGINS=1 -DENABLE_SESSION_SERVICE=1 -DENABLE_THEMES=1 -DENABLE_AUTOFILL_DIALOG=1 -DENABLE_BACKGROUND=1 -DENABLE_AUTOMATION=1 -DENABLE_GOOGLE_NOW=1 -DENABLE_FULL_PRINTING=1 -DENABLE_PRINTING=1 -DENABLE_SPELLCHECK=1 -DENABLE_CAPTIVE_PORTAL_DETECTION=1 -DENABLE_APP_LIST=1 -DENABLE_SETTINGS_APP=1 -DENABLE_MANAGED_USERS=1 -DLIBPEERCONNECTION_LIB=1 -DOSX -DHASH_NAMESPACE=__gnu_cxx -DPOSIX -DDISABLE_DYNAMIC_CAST -DHAVE_OPENSSL_SSL_H=1 -D_REENTRANT -DXML_STATIC -DDYNAMIC_ANNOTATIONS_ENABLED=1 -DWTF_USE_DYNAMIC_ANNOTATIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.6 -g -fvisibility=hidden -fvisibility-inlines-hidden -fno-threadsafe-statics -Wno-sign-conversion -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../xcodebuild/Debug/include -I.. -I../third_party -I../third_party/webrtc -I../webrtc -I../third_party/expat/files/lib -I../third_party/jsoncpp/overrides/include -I../third_party/jsoncpp/source/include -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../xcodebuild/libjingle.build/Debug/libjingle_sound.build/DerivedSources/i386 -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../xcodebuild/libjingle.build/Debug/libjingle_sound.build/DerivedSources -Wendif-labels -Wno-unused-parameter -Wno-missing-field-initializers -Wheader-hygiene -Wno-c++11-narrowing -Wno-char-subscripts -Wno-unused-function -Wno-covered-switch-default -Wstring-conversion -Wno-deprecated-register -Wno-unused-const-variable -Wno-deprecated-declarations -F/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../xcodebuild/Debug -fno-strict-aliasing -fstack-protector-all -MMD -MT dependencies -MF /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/platformsoundsystemfactory.d --serialize-diagnostics /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/platformsoundsystemfactory.dia -c /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/platformsoundsystemfactory.cc -o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/platformsoundsystemfactory.o36"3530E8AA-807F-42A9-99B9-29711FF95FFA-
-b41981BA3-CC45-4024-9ACE-A6EC58813C70
-
-CCompileC ../xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/soundsysteminterface.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/soundsysteminterface.cc normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s403856910.718848
-e403856911.073196
-r1
-xCompileC
-x../xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/soundsysteminterface.o
-x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/soundsysteminterface.cc
-xnormal
-xi386
-xc++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/soundsysteminterface.cc
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/soundsysteminterface.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/base/constructormagic.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/sounddevicelocator.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/soundsysteminterface.cc215"[1mCompileC[0m ../xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/soundsysteminterface.o [1msound/soundsysteminterface.cc[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler3255b80e5e12b841^a1f3120f5e12b841^---0#0#1#-19%DVTDocumentLocation2@112"file://localhost/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/soundsysteminterface.cc0000000000000000^4183"[1mCompileC[0m ../xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/soundsysteminterface.o [1msound/soundsysteminterface.cc[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk    setenv LANG en_US.US-ASCII    /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../third_party/llvm-build/Release+Asserts/bin/clang -x c++ -arch i386 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu++11 -Wno-trigraphs -fno-exceptions -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wnewline-eof -Wno-c++11-extensions -DANGLE_DX11 -DEXPAT_RELATIVE_PATH -DFEATURE_ENABLE_VOICEMAIL -DGTEST_RELATIVE_PATH -DJSONCPP_RELATIVE_PATH -DLOGGING=1 -DSRTP_RELATIVE_PATH -DFEATURE_ENABLE_SSL -DFEATURE_ENABLE_PSTN -DHAVE_SRTP -DHAVE_WEBRTC_VIDEO -DHAVE_WEBRTC_VOICE -DUSE_WEBRTC_DEV_BRANCH -DCHROMIUM_BUILD -DUSE_LIBJPEG_TURBO=1 -DENABLE_ONE_CLICK_SIGNIN -DENABLE_REMOTING=1 -DENABLE_WEBRTC=1 -DENABLE_PEPPER_CDMS -DENABLE_CONFIGURATION_POLICY -DENABLE_INPUT_SPEECH -DENABLE_NOTIFICATIONS -DENABLE_HIDPI=1 -DENABLE_EGLIMAGE=1 -DENABLE_TASK_MANAGER=1 -DENABLE_EXTENSIONS=1 -DENABLE_PLUGIN_INSTALLATION=1 -DENABLE_PLUGINS=1 -DENABLE_SESSION_SERVICE=1 -DENABLE_THEMES=1 -DENABLE_AUTOFILL_DIALOG=1 -DENABLE_BACKGROUND=1 -DENABLE_AUTOMATION=1 -DENABLE_GOOGLE_NOW=1 -DENABLE_FULL_PRINTING=1 -DENABLE_PRINTING=1 -DENABLE_SPELLCHECK=1 -DENABLE_CAPTIVE_PORTAL_DETECTION=1 -DENABLE_APP_LIST=1 -DENABLE_SETTINGS_APP=1 -DENABLE_MANAGED_USERS=1 -DLIBPEERCONNECTION_LIB=1 -DOSX -DHASH_NAMESPACE=__gnu_cxx -DPOSIX -DDISABLE_DYNAMIC_CAST -DHAVE_OPENSSL_SSL_H=1 -D_REENTRANT -DXML_STATIC -DDYNAMIC_ANNOTATIONS_ENABLED=1 -DWTF_USE_DYNAMIC_ANNOTATIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.6 -g -fvisibility=hidden -fvisibility-inlines-hidden -fno-threadsafe-statics -Wno-sign-conversion -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../xcodebuild/Debug/include -I.. -I../third_party -I../third_party/webrtc -I../webrtc -I../third_party/expat/files/lib -I../third_party/jsoncpp/overrides/include -I../third_party/jsoncpp/source/include -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../xcodebuild/libjingle.build/Debug/libjingle_sound.build/DerivedSources/i386 -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../xcodebuild/libjingle.build/Debug/libjingle_sound.build/DerivedSources -Wendif-labels -Wno-unused-parameter -Wno-missing-field-initializers -Wheader-hygiene -Wno-c++11-narrowing -Wno-char-subscripts -Wno-unused-function -Wno-covered-switch-default -Wstring-conversion -Wno-deprecated-register -Wno-unused-const-variable -Wno-deprecated-declarations -F/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../xcodebuild/Debug -fno-strict-aliasing -fstack-protector-all -MMD -MT dependencies -MF /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/soundsysteminterface.d --serialize-diagnostics /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/soundsysteminterface.dia -c /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/soundsysteminterface.cc -o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/soundsysteminterface.o36"9CF51159-9E85-4A52-AC5B-04A42BBC7AC3-
-b41981BA3-CC45-4024-9ACE-A6EC58813C70
-
-CCompileC ../xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/soundsystemproxy.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/soundsystemproxy.cc normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s403856911.075094
-e403856911.367948
-r1
-xCompileC
-x../xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/soundsystemproxy.o
-x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/soundsystemproxy.cc
-xnormal
-xi386
-xc++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/soundsystemproxy.cc
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/soundsystemproxy.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/base/basictypes.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/base/constructormagic.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/soundsysteminterface.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/soundsystemproxy.cc207"[1mCompileC[0m ../xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/soundsystemproxy.o [1msound/soundsystemproxy.cc[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler927a130f5e12b841^09325e0f5e12b841^---0#0#1#-19%DVTDocumentLocation2@108"file://localhost/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/soundsystemproxy.cc0000000000000000^4159"[1mCompileC[0m ../xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/soundsystemproxy.o [1msound/soundsystemproxy.cc[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk    setenv LANG en_US.US-ASCII    /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../third_party/llvm-build/Release+Asserts/bin/clang -x c++ -arch i386 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu++11 -Wno-trigraphs -fno-exceptions -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wnewline-eof -Wno-c++11-extensions -DANGLE_DX11 -DEXPAT_RELATIVE_PATH -DFEATURE_ENABLE_VOICEMAIL -DGTEST_RELATIVE_PATH -DJSONCPP_RELATIVE_PATH -DLOGGING=1 -DSRTP_RELATIVE_PATH -DFEATURE_ENABLE_SSL -DFEATURE_ENABLE_PSTN -DHAVE_SRTP -DHAVE_WEBRTC_VIDEO -DHAVE_WEBRTC_VOICE -DUSE_WEBRTC_DEV_BRANCH -DCHROMIUM_BUILD -DUSE_LIBJPEG_TURBO=1 -DENABLE_ONE_CLICK_SIGNIN -DENABLE_REMOTING=1 -DENABLE_WEBRTC=1 -DENABLE_PEPPER_CDMS -DENABLE_CONFIGURATION_POLICY -DENABLE_INPUT_SPEECH -DENABLE_NOTIFICATIONS -DENABLE_HIDPI=1 -DENABLE_EGLIMAGE=1 -DENABLE_TASK_MANAGER=1 -DENABLE_EXTENSIONS=1 -DENABLE_PLUGIN_INSTALLATION=1 -DENABLE_PLUGINS=1 -DENABLE_SESSION_SERVICE=1 -DENABLE_THEMES=1 -DENABLE_AUTOFILL_DIALOG=1 -DENABLE_BACKGROUND=1 -DENABLE_AUTOMATION=1 -DENABLE_GOOGLE_NOW=1 -DENABLE_FULL_PRINTING=1 -DENABLE_PRINTING=1 -DENABLE_SPELLCHECK=1 -DENABLE_CAPTIVE_PORTAL_DETECTION=1 -DENABLE_APP_LIST=1 -DENABLE_SETTINGS_APP=1 -DENABLE_MANAGED_USERS=1 -DLIBPEERCONNECTION_LIB=1 -DOSX -DHASH_NAMESPACE=__gnu_cxx -DPOSIX -DDISABLE_DYNAMIC_CAST -DHAVE_OPENSSL_SSL_H=1 -D_REENTRANT -DXML_STATIC -DDYNAMIC_ANNOTATIONS_ENABLED=1 -DWTF_USE_DYNAMIC_ANNOTATIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.6 -g -fvisibility=hidden -fvisibility-inlines-hidden -fno-threadsafe-statics -Wno-sign-conversion -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../xcodebuild/Debug/include -I.. -I../third_party -I../third_party/webrtc -I../webrtc -I../third_party/expat/files/lib -I../third_party/jsoncpp/overrides/include -I../third_party/jsoncpp/source/include -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../xcodebuild/libjingle.build/Debug/libjingle_sound.build/DerivedSources/i386 -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../xcodebuild/libjingle.build/Debug/libjingle_sound.build/DerivedSources -Wendif-labels -Wno-unused-parameter -Wno-missing-field-initializers -Wheader-hygiene -Wno-c++11-narrowing -Wno-char-subscripts -Wno-unused-function -Wno-covered-switch-default -Wstring-conversion -Wno-deprecated-register -Wno-unused-const-variable -Wno-deprecated-declarations -F/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../xcodebuild/Debug -fno-strict-aliasing -fstack-protector-all -MMD -MT dependencies -MF /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/soundsystemproxy.d --serialize-diagnostics /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/soundsystemproxy.dia -c /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/sound/soundsystemproxy.cc -o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/soundsystemproxy.o36"38F90B70-4DB7-4421-BB66-DFF82FBBBF33-
-b41981BA3-CC45-4024-9ACE-A6EC58813C70
-
-CLibtool /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../xcodebuild/Debug/libjingle_sound.a normal i386
-s403856911.397179
-e403856911.790490
-r1
-xLibtool
-x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../xcodebuild/Debug/libjingle_sound.a
-xnormal
-xi386
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"[1mLibtool[0m ../xcodebuild/Debug/libjingle_sound.a normal i38665"[1mLibtool[0m ../xcodebuild/Debug/libjingle_sound.a normal i38612db650f5e12b841^f583ca0f5e12b841^---0#0#1#--793"[1mLibtool[0m ../xcodebuild/Debug/libjingle_sound.a normal i386    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../xcodebuild/Debug -filelist /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../xcodebuild/libjingle.build/Debug/libjingle_sound.build/Objects-normal/i386/jingle_sound.LinkFileList -o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/talk/../xcodebuild/Debug/libjingle_sound.a36"69D817ED-16AE-42D2-95CC-C0F9D354D5FD-
-b41981BA3-CC45-4024-9ACE-A6EC58813C70
-

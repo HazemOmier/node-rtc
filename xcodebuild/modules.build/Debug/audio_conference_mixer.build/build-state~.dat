@@ -1,179 +1,0 @@
-Taudio_conference_mixer
-v6
-r1
-cCheck dependencies
-cCompileC ../../xcodebuild/modules.build/Debug/audio_conference_mixer.build/Objects-normal/i386/audio_frame_manipulator.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_conference_mixer/source/audio_frame_manipulator.cc normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC ../../xcodebuild/modules.build/Debug/audio_conference_mixer.build/Objects-normal/i386/level_indicator.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_conference_mixer/source/level_indicator.cc normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC ../../xcodebuild/modules.build/Debug/audio_conference_mixer.build/Objects-normal/i386/audio_conference_mixer_impl.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_conference_mixer/source/audio_conference_mixer_impl.cc normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC ../../xcodebuild/modules.build/Debug/audio_conference_mixer.build/Objects-normal/i386/time_scheduler.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_conference_mixer/source/time_scheduler.cc normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cLibtool /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug/libaudio_conference_mixer.a normal i386
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
-c000000005130312F00000000000000AA
-t1362112815
-s170
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/SDKSettings.plist
-c000000005261AE0C00000000000004B3
-t1382133260
-s1203
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/CoreServices/SystemVersion.plist
-c000000005261AE0C00000000000001DE
-t1382133260
-s478
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_conference_mixer/source/audio_conference_mixer_impl.cc
-c00000000525149A90000000000009AFE
-t1381058985
-s39678
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_conference_mixer/source/audio_frame_manipulator.cc
-c00000000525149A90000000000000CA5
-t1381058985
-s3237
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_conference_mixer/source/level_indicator.cc
-c00000000525149A90000000000000756
-t1381058985
-s1878
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_conference_mixer/source/time_scheduler.cc
-c00000000525149A90000000000000D08
-t1381058985
-s3336
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/Debug/libaudio_conference_mixer.a
-t2
-s0
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/modules.build/Debug/audio_conference_mixer.build/Objects-normal/i386/audio_conference_mixer.LinkFileList
-c000000005262263C0000000000000293
-t1382164028
-s659
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/modules.build/Debug/audio_conference_mixer.build/Objects-normal/i386/audio_conference_mixer_impl.o
-t1382164029
-s172336
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/modules.build/Debug/audio_conference_mixer.build/Objects-normal/i386/audio_frame_manipulator.o
-t1382164029
-s10012
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/modules.build/Debug/audio_conference_mixer.build/Objects-normal/i386/level_indicator.o
-t1382164028
-s6396
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/modules.build/Debug/audio_conference_mixer.build/Objects-normal/i386/time_scheduler.o
-t1382164029
-s15368
-
-CCheck dependencies
-r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies94bdb9bc5d12b841^350abdbc5d12b841^---0#1#1#--18"Check dependencies36"AE49C793-30EB-44AC-A1AD-49FBB0F5C7C0-
-
-CCompileC ../../xcodebuild/modules.build/Debug/audio_conference_mixer.build/Objects-normal/i386/audio_conference_mixer_impl.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_conference_mixer/source/audio_conference_mixer_impl.cc normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s403856828.869272
-e403856829.928458
-r1
-xCompileC
-x../../xcodebuild/modules.build/Debug/audio_conference_mixer.build/Objects-normal/i386/audio_conference_mixer_impl.o
-x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_conference_mixer/source/audio_conference_mixer_impl.cc
-xnormal
-xi386
-xc++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_conference_mixer/source/audio_conference_mixer_impl.cc
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_conference_mixer/interface/audio_conference_mixer_defines.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/interface/module_common_types.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/common_types.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/typedefs.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/system_wrappers/interface/constructor_magic.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_conference_mixer/source/audio_conference_mixer_impl.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/engine_configurations.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_conference_mixer/interface/audio_conference_mixer.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/interface/module.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_conference_mixer/source/level_indicator.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_conference_mixer/source/memory_pool.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_conference_mixer/source/memory_pool_posix.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/system_wrappers/interface/critical_section_wrapper.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/system_wrappers/interface/list_wrapper.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_conference_mixer/source/time_scheduler.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/system_wrappers/interface/tick_util.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/system_wrappers/interface/scoped_ptr.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_conference_mixer/source/audio_frame_manipulator.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_processing/include/audio_processing.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/common.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/utility/interface/audio_frame_operations.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/system_wrappers/interface/trace.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection145"Compile /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_conference_mixer/source/audio_conference_mixer_impl.cc261"[1mCompileC[0m ../../xcodebuild/modules.build/Debug/audio_conference_mixer.build/Objects-normal/i386/audio_conference_mixer_impl.o [1maudio_conference_mixer/source/audio_conference_mixer_impl.cc[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler1dccdebc5d12b841^8049eebd5d12b841^---0#0#1#-19%DVTDocumentLocation2@153"file://localhost/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_conference_mixer/source/audio_conference_mixer_impl.cc0000000000000000^4095"[1mCompileC[0m ../../xcodebuild/modules.build/Debug/audio_conference_mixer.build/Objects-normal/i386/audio_conference_mixer_impl.o [1maudio_conference_mixer/source/audio_conference_mixer_impl.cc[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules    setenv LANG en_US.US-ASCII    /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../third_party/llvm-build/Release+Asserts/bin/clang -x c++ -arch i386 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu++11 -Wno-trigraphs -fno-exceptions -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wnewline-eof -Wno-c++11-extensions -DANGLE_DX11 -DWEBRTC_SVNREVISION=\"Unavailable(issue687)\" -DCHROMIUM_BUILD -DUSE_LIBJPEG_TURBO=1 -DENABLE_ONE_CLICK_SIGNIN -DENABLE_REMOTING=1 -DENABLE_WEBRTC=1 -DENABLE_PEPPER_CDMS -DENABLE_CONFIGURATION_POLICY -DENABLE_INPUT_SPEECH -DENABLE_NOTIFICATIONS -DENABLE_HIDPI=1 -DENABLE_EGLIMAGE=1 -DENABLE_TASK_MANAGER=1 -DENABLE_EXTENSIONS=1 -DENABLE_PLUGIN_INSTALLATION=1 -DENABLE_PLUGINS=1 -DENABLE_SESSION_SERVICE=1 -DENABLE_THEMES=1 -DENABLE_AUTOFILL_DIALOG=1 -DENABLE_BACKGROUND=1 -DENABLE_AUTOMATION=1 -DENABLE_GOOGLE_NOW=1 -DENABLE_FULL_PRINTING=1 -DENABLE_PRINTING=1 -DENABLE_SPELLCHECK=1 -DENABLE_CAPTIVE_PORTAL_DETECTION=1 -DENABLE_APP_LIST=1 -DENABLE_SETTINGS_APP=1 -DENABLE_MANAGED_USERS=1 -DWEBRTC_LOGGING -DWEBRTC_MAC -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -DDYNAMIC_ANNOTATIONS_ENABLED=1 -DWTF_USE_DYNAMIC_ANNOTATIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.6 -g -fvisibility=hidden -fvisibility-inlines-hidden -fno-threadsafe-statics -Wno-sign-conversion -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug/include -I.. -I../.. -I../.. -Iaudio_conference_mixer/interface -Iinterface -Iaudio_processing/include -I../system_wrappers/interface -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/audio_conference_mixer.build/DerivedSources/i386 -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/audio_conference_mixer.build/DerivedSources -Wall -Wendif-labels -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wheader-hygiene -Wno-c++11-narrowing -Wno-char-subscripts -Wno-unused-function -Wno-covered-switch-default -Wstring-conversion -Wno-deprecated-register -Wno-deprecated-declarations -F/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug -fno-strict-aliasing -fstack-protector-all -MMD -MT dependencies -MF /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/audio_conference_mixer.build/Objects-normal/i386/audio_conference_mixer_impl.d --serialize-diagnostics /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/audio_conference_mixer.build/Objects-normal/i386/audio_conference_mixer_impl.dia -c /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_conference_mixer/source/audio_conference_mixer_impl.cc -o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/modules.build/Debug/audio_conference_mixer.build/Objects-normal/i386/audio_conference_mixer_impl.o36"B63C2313-2A41-44B1-9EBA-1FA035CF2D5A-
-b6378A44F-69A5-4076-8E2B-D08B97E687D2
-
-CCompileC ../../xcodebuild/modules.build/Debug/audio_conference_mixer.build/Objects-normal/i386/audio_frame_manipulator.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_conference_mixer/source/audio_frame_manipulator.cc normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s403856828.740569
-e403856829.116653
-r1
-xCompileC
-x../../xcodebuild/modules.build/Debug/audio_conference_mixer.build/Objects-normal/i386/audio_frame_manipulator.o
-x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_conference_mixer/source/audio_frame_manipulator.cc
-xnormal
-xi386
-xc++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_conference_mixer/source/audio_frame_manipulator.cc
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_conference_mixer/source/audio_frame_manipulator.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/interface/module_common_types.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/common_types.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/typedefs.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/system_wrappers/interface/constructor_magic.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection141"Compile /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_conference_mixer/source/audio_frame_manipulator.cc253"[1mCompileC[0m ../../xcodebuild/modules.build/Debug/audio_conference_mixer.build/Objects-normal/i386/audio_frame_manipulator.o [1maudio_conference_mixer/source/audio_frame_manipulator.cc[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler0bd1bdbc5d12b841^94dc1dbd5d12b841^---0#0#1#-19%DVTDocumentLocation2@149"file://localhost/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_conference_mixer/source/audio_frame_manipulator.cc0000000000000000^4071"[1mCompileC[0m ../../xcodebuild/modules.build/Debug/audio_conference_mixer.build/Objects-normal/i386/audio_frame_manipulator.o [1maudio_conference_mixer/source/audio_frame_manipulator.cc[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules    setenv LANG en_US.US-ASCII    /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../third_party/llvm-build/Release+Asserts/bin/clang -x c++ -arch i386 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu++11 -Wno-trigraphs -fno-exceptions -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wnewline-eof -Wno-c++11-extensions -DANGLE_DX11 -DWEBRTC_SVNREVISION=\"Unavailable(issue687)\" -DCHROMIUM_BUILD -DUSE_LIBJPEG_TURBO=1 -DENABLE_ONE_CLICK_SIGNIN -DENABLE_REMOTING=1 -DENABLE_WEBRTC=1 -DENABLE_PEPPER_CDMS -DENABLE_CONFIGURATION_POLICY -DENABLE_INPUT_SPEECH -DENABLE_NOTIFICATIONS -DENABLE_HIDPI=1 -DENABLE_EGLIMAGE=1 -DENABLE_TASK_MANAGER=1 -DENABLE_EXTENSIONS=1 -DENABLE_PLUGIN_INSTALLATION=1 -DENABLE_PLUGINS=1 -DENABLE_SESSION_SERVICE=1 -DENABLE_THEMES=1 -DENABLE_AUTOFILL_DIALOG=1 -DENABLE_BACKGROUND=1 -DENABLE_AUTOMATION=1 -DENABLE_GOOGLE_NOW=1 -DENABLE_FULL_PRINTING=1 -DENABLE_PRINTING=1 -DENABLE_SPELLCHECK=1 -DENABLE_CAPTIVE_PORTAL_DETECTION=1 -DENABLE_APP_LIST=1 -DENABLE_SETTINGS_APP=1 -DENABLE_MANAGED_USERS=1 -DWEBRTC_LOGGING -DWEBRTC_MAC -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -DDYNAMIC_ANNOTATIONS_ENABLED=1 -DWTF_USE_DYNAMIC_ANNOTATIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.6 -g -fvisibility=hidden -fvisibility-inlines-hidden -fno-threadsafe-statics -Wno-sign-conversion -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug/include -I.. -I../.. -I../.. -Iaudio_conference_mixer/interface -Iinterface -Iaudio_processing/include -I../system_wrappers/interface -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/audio_conference_mixer.build/DerivedSources/i386 -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/audio_conference_mixer.build/DerivedSources -Wall -Wendif-labels -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wheader-hygiene -Wno-c++11-narrowing -Wno-char-subscripts -Wno-unused-function -Wno-covered-switch-default -Wstring-conversion -Wno-deprecated-register -Wno-deprecated-declarations -F/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug -fno-strict-aliasing -fstack-protector-all -MMD -MT dependencies -MF /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/audio_conference_mixer.build/Objects-normal/i386/audio_frame_manipulator.d --serialize-diagnostics /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/audio_conference_mixer.build/Objects-normal/i386/audio_frame_manipulator.dia -c /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_conference_mixer/source/audio_frame_manipulator.cc -o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/modules.build/Debug/audio_conference_mixer.build/Objects-normal/i386/audio_frame_manipulator.o36"60EBC0DF-024F-4C69-8799-4832C5163D35-
-b6378A44F-69A5-4076-8E2B-D08B97E687D2
-
-CCompileC ../../xcodebuild/modules.build/Debug/audio_conference_mixer.build/Objects-normal/i386/level_indicator.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_conference_mixer/source/level_indicator.cc normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s403856828.741970
-e403856828.867907
-r1
-xCompileC
-x../../xcodebuild/modules.build/Debug/audio_conference_mixer.build/Objects-normal/i386/level_indicator.o
-x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_conference_mixer/source/level_indicator.cc
-xnormal
-xi386
-xc++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_conference_mixer/source/level_indicator.cc
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_conference_mixer/source/level_indicator.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/typedefs.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Compile /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_conference_mixer/source/level_indicator.cc237"[1mCompileC[0m ../../xcodebuild/modules.build/Debug/audio_conference_mixer.build/Objects-normal/i386/level_indicator.o [1maudio_conference_mixer/source/level_indicator.cc[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compilerb729bebc5d12b841^3f6fdebc5d12b841^---0#0#1#-19%DVTDocumentLocation2@141"file://localhost/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_conference_mixer/source/level_indicator.cc0000000000000000^4023"[1mCompileC[0m ../../xcodebuild/modules.build/Debug/audio_conference_mixer.build/Objects-normal/i386/level_indicator.o [1maudio_conference_mixer/source/level_indicator.cc[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules    setenv LANG en_US.US-ASCII    /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../third_party/llvm-build/Release+Asserts/bin/clang -x c++ -arch i386 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu++11 -Wno-trigraphs -fno-exceptions -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wnewline-eof -Wno-c++11-extensions -DANGLE_DX11 -DWEBRTC_SVNREVISION=\"Unavailable(issue687)\" -DCHROMIUM_BUILD -DUSE_LIBJPEG_TURBO=1 -DENABLE_ONE_CLICK_SIGNIN -DENABLE_REMOTING=1 -DENABLE_WEBRTC=1 -DENABLE_PEPPER_CDMS -DENABLE_CONFIGURATION_POLICY -DENABLE_INPUT_SPEECH -DENABLE_NOTIFICATIONS -DENABLE_HIDPI=1 -DENABLE_EGLIMAGE=1 -DENABLE_TASK_MANAGER=1 -DENABLE_EXTENSIONS=1 -DENABLE_PLUGIN_INSTALLATION=1 -DENABLE_PLUGINS=1 -DENABLE_SESSION_SERVICE=1 -DENABLE_THEMES=1 -DENABLE_AUTOFILL_DIALOG=1 -DENABLE_BACKGROUND=1 -DENABLE_AUTOMATION=1 -DENABLE_GOOGLE_NOW=1 -DENABLE_FULL_PRINTING=1 -DENABLE_PRINTING=1 -DENABLE_SPELLCHECK=1 -DENABLE_CAPTIVE_PORTAL_DETECTION=1 -DENABLE_APP_LIST=1 -DENABLE_SETTINGS_APP=1 -DENABLE_MANAGED_USERS=1 -DWEBRTC_LOGGING -DWEBRTC_MAC -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -DDYNAMIC_ANNOTATIONS_ENABLED=1 -DWTF_USE_DYNAMIC_ANNOTATIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.6 -g -fvisibility=hidden -fvisibility-inlines-hidden -fno-threadsafe-statics -Wno-sign-conversion -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug/include -I.. -I../.. -I../.. -Iaudio_conference_mixer/interface -Iinterface -Iaudio_processing/include -I../system_wrappers/interface -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/audio_conference_mixer.build/DerivedSources/i386 -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/audio_conference_mixer.build/DerivedSources -Wall -Wendif-labels -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wheader-hygiene -Wno-c++11-narrowing -Wno-char-subscripts -Wno-unused-function -Wno-covered-switch-default -Wstring-conversion -Wno-deprecated-register -Wno-deprecated-declarations -F/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug -fno-strict-aliasing -fstack-protector-all -MMD -MT dependencies -MF /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/audio_conference_mixer.build/Objects-normal/i386/level_indicator.d --serialize-diagnostics /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/audio_conference_mixer.build/Objects-normal/i386/level_indicator.dia -c /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_conference_mixer/source/level_indicator.cc -o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/modules.build/Debug/audio_conference_mixer.build/Objects-normal/i386/level_indicator.o36"3CA3BB41-32E4-466E-BD2E-680D7223F633-
-b6378A44F-69A5-4076-8E2B-D08B97E687D2
-
-CCompileC ../../xcodebuild/modules.build/Debug/audio_conference_mixer.build/Objects-normal/i386/time_scheduler.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_conference_mixer/source/time_scheduler.cc normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s403856829.120617
-e403856829.287241
-r1
-xCompileC
-x../../xcodebuild/modules.build/Debug/audio_conference_mixer.build/Objects-normal/i386/time_scheduler.o
-x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_conference_mixer/source/time_scheduler.cc
-xnormal
-xi386
-xc++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_conference_mixer/source/time_scheduler.cc
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_conference_mixer/source/time_scheduler.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/system_wrappers/interface/tick_util.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/typedefs.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/system_wrappers/interface/critical_section_wrapper.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/common_types.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"Compile /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_conference_mixer/source/time_scheduler.cc235"[1mCompileC[0m ../../xcodebuild/modules.build/Debug/audio_conference_mixer.build/Objects-normal/i386/time_scheduler.o [1maudio_conference_mixer/source/time_scheduler.cc[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compilerfb201fbd5d12b841^3f8f49bd5d12b841^---0#0#1#-19%DVTDocumentLocation2@140"file://localhost/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_conference_mixer/source/time_scheduler.cc0000000000000000^4017"[1mCompileC[0m ../../xcodebuild/modules.build/Debug/audio_conference_mixer.build/Objects-normal/i386/time_scheduler.o [1maudio_conference_mixer/source/time_scheduler.cc[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules    setenv LANG en_US.US-ASCII    /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../third_party/llvm-build/Release+Asserts/bin/clang -x c++ -arch i386 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu++11 -Wno-trigraphs -fno-exceptions -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wnewline-eof -Wno-c++11-extensions -DANGLE_DX11 -DWEBRTC_SVNREVISION=\"Unavailable(issue687)\" -DCHROMIUM_BUILD -DUSE_LIBJPEG_TURBO=1 -DENABLE_ONE_CLICK_SIGNIN -DENABLE_REMOTING=1 -DENABLE_WEBRTC=1 -DENABLE_PEPPER_CDMS -DENABLE_CONFIGURATION_POLICY -DENABLE_INPUT_SPEECH -DENABLE_NOTIFICATIONS -DENABLE_HIDPI=1 -DENABLE_EGLIMAGE=1 -DENABLE_TASK_MANAGER=1 -DENABLE_EXTENSIONS=1 -DENABLE_PLUGIN_INSTALLATION=1 -DENABLE_PLUGINS=1 -DENABLE_SESSION_SERVICE=1 -DENABLE_THEMES=1 -DENABLE_AUTOFILL_DIALOG=1 -DENABLE_BACKGROUND=1 -DENABLE_AUTOMATION=1 -DENABLE_GOOGLE_NOW=1 -DENABLE_FULL_PRINTING=1 -DENABLE_PRINTING=1 -DENABLE_SPELLCHECK=1 -DENABLE_CAPTIVE_PORTAL_DETECTION=1 -DENABLE_APP_LIST=1 -DENABLE_SETTINGS_APP=1 -DENABLE_MANAGED_USERS=1 -DWEBRTC_LOGGING -DWEBRTC_MAC -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -DDYNAMIC_ANNOTATIONS_ENABLED=1 -DWTF_USE_DYNAMIC_ANNOTATIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.6 -g -fvisibility=hidden -fvisibility-inlines-hidden -fno-threadsafe-statics -Wno-sign-conversion -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug/include -I.. -I../.. -I../.. -Iaudio_conference_mixer/interface -Iinterface -Iaudio_processing/include -I../system_wrappers/interface -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/audio_conference_mixer.build/DerivedSources/i386 -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/audio_conference_mixer.build/DerivedSources -Wall -Wendif-labels -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wheader-hygiene -Wno-c++11-narrowing -Wno-char-subscripts -Wno-unused-function -Wno-covered-switch-default -Wstring-conversion -Wno-deprecated-register -Wno-deprecated-declarations -F/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug -fno-strict-aliasing -fstack-protector-all -MMD -MT dependencies -MF /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/audio_conference_mixer.build/Objects-normal/i386/time_scheduler.d --serialize-diagnostics /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/audio_conference_mixer.build/Objects-normal/i386/time_scheduler.dia -c /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_conference_mixer/source/time_scheduler.cc -o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/modules.build/Debug/audio_conference_mixer.build/Objects-normal/i386/time_scheduler.o36"7572C37D-CDD2-4D7E-ACBD-C5ACCD97CE52-
-b6378A44F-69A5-4076-8E2B-D08B97E687D2
-
-CLibtool /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug/libaudio_conference_mixer.a normal i386
-s403856829.937398
-e403856829.963135
-r1
-xLibtool
-x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug/libaudio_conference_mixer.a
-xnormal
-xi386
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"[1mLibtool[0m ../../xcodebuild/Debug/libaudio_conference_mixer.a normal i38678"[1mLibtool[0m ../../xcodebuild/Debug/libaudio_conference_mixer.a normal i3868945f0bd5d12b841^4febf6bd5d12b841^---0#0#1#--880"[1mLibtool[0m ../../xcodebuild/Debug/libaudio_conference_mixer.a normal i386    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug -filelist /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/audio_conference_mixer.build/Objects-normal/i386/audio_conference_mixer.LinkFileList -o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug/libaudio_conference_mixer.a36"6E309E8D-43FA-4287-BFE7-BE5BA5E03C0F-
-b6378A44F-69A5-4076-8E2B-D08B97E687D2
-

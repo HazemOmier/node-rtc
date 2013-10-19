@@ -1,105 +1,0 @@
-TCNG
-v6
-r1
-cCheck dependencies
-cCompileC ../../xcodebuild/modules.build/Debug/CNG.build/Objects-normal/i386/webrtc_cng.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_coding/codecs/cng/webrtc_cng.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC ../../xcodebuild/modules.build/Debug/CNG.build/Objects-normal/i386/cng_helpfuns.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_coding/codecs/cng/cng_helpfuns.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-cLibtool /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug/libCNG.a normal i386
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
-c000000005130312F00000000000000AA
-t1362112815
-s170
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/SDKSettings.plist
-c000000005261AE0C00000000000004B3
-t1382133260
-s1203
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/CoreServices/SystemVersion.plist
-c000000005261AE0C00000000000001DE
-t1382133260
-s478
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_coding/codecs/cng/cng_helpfuns.c
-c000000005251457E00000000000004E7
-t1381057918
-s1255
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_coding/codecs/cng/webrtc_cng.c
-c000000005251457E0000000000004AD2
-t1381057918
-s19154
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/Debug/libCNG.a
-t2
-s0
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/modules.build/Debug/CNG.build/Objects-normal/i386/CNG.LinkFileList
-c00000000526225AB0000000000000112
-t1382163883
-s274
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/modules.build/Debug/CNG.build/Objects-normal/i386/cng_helpfuns.o
-t1382163883
-s3232
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/modules.build/Debug/CNG.build/Objects-normal/i386/webrtc_cng.o
-t1382163883
-s16240
-
-CCheck dependencies
-r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies21cc9d2b5d12b841^61fba52b5d12b841^---0#1#1#--18"Check dependencies36"DA79A6D6-2CBD-458D-982E-332A39C2F945-
-
-CCompileC ../../xcodebuild/modules.build/Debug/CNG.build/Objects-normal/i386/cng_helpfuns.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_coding/codecs/cng/cng_helpfuns.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-s403856683.650781
-e403856683.811495
-r1
-xCompileC
-x../../xcodebuild/modules.build/Debug/CNG.build/Objects-normal/i386/cng_helpfuns.o
-x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_coding/codecs/cng/cng_helpfuns.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_coding/codecs/cng/cng_helpfuns.c
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_coding/codecs/cng/cng_helpfuns.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/typedefs.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/common_audio/signal_processing/include/signal_processing_library.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/common_audio/signal_processing/include/spl_inl.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_coding/codecs/cng/include/webrtc_cng.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Compile /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_coding/codecs/cng/cng_helpfuns.c203"[1mCompileC[0m ../../xcodebuild/modules.build/Debug/CNG.build/Objects-normal/i386/cng_helpfuns.o [1maudio_coding/codecs/cng/cng_helpfuns.c[0m normal i386 c com.apple.compilers.llvm.clang.1_0.compilerd5cca62b5d12b841^babecf2b5d12b841^---0#0#1#-19%DVTDocumentLocation2@131"file://localhost/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_coding/codecs/cng/cng_helpfuns.c0000000000000000^3741"[1mCompileC[0m ../../xcodebuild/modules.build/Debug/CNG.build/Objects-normal/i386/cng_helpfuns.o [1maudio_coding/codecs/cng/cng_helpfuns.c[0m normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules    setenv LANG en_US.US-ASCII    /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../third_party/llvm-build/Release+Asserts/bin/clang -x c -arch i386 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -DANGLE_DX11 -DWEBRTC_SVNREVISION=\"Unavailable(issue687)\" -DCHROMIUM_BUILD -DUSE_LIBJPEG_TURBO=1 -DENABLE_ONE_CLICK_SIGNIN -DENABLE_REMOTING=1 -DENABLE_WEBRTC=1 -DENABLE_PEPPER_CDMS -DENABLE_CONFIGURATION_POLICY -DENABLE_INPUT_SPEECH -DENABLE_NOTIFICATIONS -DENABLE_HIDPI=1 -DENABLE_EGLIMAGE=1 -DENABLE_TASK_MANAGER=1 -DENABLE_EXTENSIONS=1 -DENABLE_PLUGIN_INSTALLATION=1 -DENABLE_PLUGINS=1 -DENABLE_SESSION_SERVICE=1 -DENABLE_THEMES=1 -DENABLE_AUTOFILL_DIALOG=1 -DENABLE_BACKGROUND=1 -DENABLE_AUTOMATION=1 -DENABLE_GOOGLE_NOW=1 -DENABLE_FULL_PRINTING=1 -DENABLE_PRINTING=1 -DENABLE_SPELLCHECK=1 -DENABLE_CAPTIVE_PORTAL_DETECTION=1 -DENABLE_APP_LIST=1 -DENABLE_SETTINGS_APP=1 -DENABLE_MANAGED_USERS=1 -DWEBRTC_LOGGING -DWEBRTC_MAC -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -DDYNAMIC_ANNOTATIONS_ENABLED=1 -DWTF_USE_DYNAMIC_ANNOTATIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug/include -I.. -I../.. -I../.. -Iaudio_coding/codecs/cng/include -I../common_audio/resampler/include -I../common_audio/signal_processing/include -I../common_audio/vad/include -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/CNG.build/DerivedSources/i386 -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/CNG.build/DerivedSources -Wall -Wendif-labels -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wheader-hygiene -Wno-c++11-narrowing -Wno-char-subscripts -Wno-unused-function -Wno-covered-switch-default -Wstring-conversion -Wno-deprecated-register -Wno-deprecated-declarations -F/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug -fno-strict-aliasing -fstack-protector-all -MMD -MT dependencies -MF /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/CNG.build/Objects-normal/i386/cng_helpfuns.d --serialize-diagnostics /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/CNG.build/Objects-normal/i386/cng_helpfuns.dia -c /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_coding/codecs/cng/cng_helpfuns.c -o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/modules.build/Debug/CNG.build/Objects-normal/i386/cng_helpfuns.o36"6A684B5A-2D3B-4E46-8DBA-44A266C293A7-
-bA578D984-2CAB-47B1-9406-5B103D7C95EA
-
-CCompileC ../../xcodebuild/modules.build/Debug/CNG.build/Objects-normal/i386/webrtc_cng.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_coding/codecs/cng/webrtc_cng.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-s403856683.650114
-e403856683.812579
-r1
-xCompileC
-x../../xcodebuild/modules.build/Debug/CNG.build/Objects-normal/i386/webrtc_cng.o
-x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_coding/codecs/cng/webrtc_cng.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_coding/codecs/cng/webrtc_cng.c
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_coding/codecs/cng/include/webrtc_cng.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/typedefs.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_coding/codecs/cng/cng_helpfuns.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/common_audio/signal_processing/include/signal_processing_library.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/common_audio/signal_processing/include/spl_inl.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Compile /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_coding/codecs/cng/webrtc_cng.c199"[1mCompileC[0m ../../xcodebuild/modules.build/Debug/CNG.build/Objects-normal/i386/webrtc_cng.o [1maudio_coding/codecs/cng/webrtc_cng.c[0m normal i386 c com.apple.compilers.llvm.clang.1_0.compiler7ba3a62b5d12b841^2d09d02b5d12b841^---0#0#1#-19%DVTDocumentLocation2@129"file://localhost/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_coding/codecs/cng/webrtc_cng.c0000000000000000^3729"[1mCompileC[0m ../../xcodebuild/modules.build/Debug/CNG.build/Objects-normal/i386/webrtc_cng.o [1maudio_coding/codecs/cng/webrtc_cng.c[0m normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules    setenv LANG en_US.US-ASCII    /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../third_party/llvm-build/Release+Asserts/bin/clang -x c -arch i386 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -DANGLE_DX11 -DWEBRTC_SVNREVISION=\"Unavailable(issue687)\" -DCHROMIUM_BUILD -DUSE_LIBJPEG_TURBO=1 -DENABLE_ONE_CLICK_SIGNIN -DENABLE_REMOTING=1 -DENABLE_WEBRTC=1 -DENABLE_PEPPER_CDMS -DENABLE_CONFIGURATION_POLICY -DENABLE_INPUT_SPEECH -DENABLE_NOTIFICATIONS -DENABLE_HIDPI=1 -DENABLE_EGLIMAGE=1 -DENABLE_TASK_MANAGER=1 -DENABLE_EXTENSIONS=1 -DENABLE_PLUGIN_INSTALLATION=1 -DENABLE_PLUGINS=1 -DENABLE_SESSION_SERVICE=1 -DENABLE_THEMES=1 -DENABLE_AUTOFILL_DIALOG=1 -DENABLE_BACKGROUND=1 -DENABLE_AUTOMATION=1 -DENABLE_GOOGLE_NOW=1 -DENABLE_FULL_PRINTING=1 -DENABLE_PRINTING=1 -DENABLE_SPELLCHECK=1 -DENABLE_CAPTIVE_PORTAL_DETECTION=1 -DENABLE_APP_LIST=1 -DENABLE_SETTINGS_APP=1 -DENABLE_MANAGED_USERS=1 -DWEBRTC_LOGGING -DWEBRTC_MAC -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -DDYNAMIC_ANNOTATIONS_ENABLED=1 -DWTF_USE_DYNAMIC_ANNOTATIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug/include -I.. -I../.. -I../.. -Iaudio_coding/codecs/cng/include -I../common_audio/resampler/include -I../common_audio/signal_processing/include -I../common_audio/vad/include -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/CNG.build/DerivedSources/i386 -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/CNG.build/DerivedSources -Wall -Wendif-labels -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wheader-hygiene -Wno-c++11-narrowing -Wno-char-subscripts -Wno-unused-function -Wno-covered-switch-default -Wstring-conversion -Wno-deprecated-register -Wno-deprecated-declarations -F/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug -fno-strict-aliasing -fstack-protector-all -MMD -MT dependencies -MF /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/CNG.build/Objects-normal/i386/webrtc_cng.d --serialize-diagnostics /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/CNG.build/Objects-normal/i386/webrtc_cng.dia -c /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_coding/codecs/cng/webrtc_cng.c -o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/modules.build/Debug/CNG.build/Objects-normal/i386/webrtc_cng.o36"3FF26CA7-9BB4-427C-9F23-211C872C2FCA-
-bA578D984-2CAB-47B1-9406-5B103D7C95EA
-
-CLibtool /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug/libCNG.a normal i386
-s403856683.821108
-e403856683.870691
-r1
-xLibtool
-x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug/libCNG.a
-xnormal
-xi386
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"[1mLibtool[0m ../../xcodebuild/Debug/libCNG.a normal i38659"[1mLibtool[0m ../../xcodebuild/Debug/libCNG.a normal i386785ed22b5d12b841^bde5de2b5d12b841^---0#0#1#--804"[1mLibtool[0m ../../xcodebuild/Debug/libCNG.a normal i386    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug -filelist /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/CNG.build/Objects-normal/i386/CNG.LinkFileList -o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug/libCNG.a36"9DAAEE13-2E14-4646-8A7A-7F6C464AAA39-
-bA578D984-2CAB-47B1-9406-5B103D7C95EA
-

@@ -1,78 +1,0 @@
-Twebrtc_opus
-v6
-r1
-cCheck dependencies
-cCompileC ../../xcodebuild/modules.build/Debug/webrtc_opus.build/Objects-normal/i386/opus_interface.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_coding/codecs/opus/opus_interface.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-cLibtool /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug/libwebrtc_opus.a normal i386
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
-c000000005130312F00000000000000AA
-t1362112815
-s170
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/SDKSettings.plist
-c000000005261AE0C00000000000004B3
-t1382133260
-s1203
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/CoreServices/SystemVersion.plist
-c000000005261AE0C00000000000001DE
-t1382133260
-s478
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_coding/codecs/opus/opus_interface.c
-c00000000525145700000000000004EF0
-t1381057904
-s20208
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/Debug/libwebrtc_opus.a
-t2
-s0
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/modules.build/Debug/webrtc_opus.build/Objects-normal/i386/opus_interface.o
-t1382163901
-s18884
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/modules.build/Debug/webrtc_opus.build/Objects-normal/i386/webrtc_opus.LinkFileList
-c00000000526225BD0000000000000094
-t1382163901
-s148
-
-CCheck dependencies
-r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies76512c3d5d12b841^43732d3d5d12b841^---0#1#1#--18"Check dependencies36"B6421520-0073-455B-8F76-B08B92194B57-
-
-CCompileC ../../xcodebuild/modules.build/Debug/webrtc_opus.build/Objects-normal/i386/opus_interface.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_coding/codecs/opus/opus_interface.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-s403856701.178458
-e403856701.325477
-r1
-xCompileC
-x../../xcodebuild/modules.build/Debug/webrtc_opus.build/Objects-normal/i386/opus_interface.o
-x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_coding/codecs/opus/opus_interface.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_coding/codecs/opus/opus_interface.c
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_coding/codecs/opus/interface/opus_interface.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/typedefs.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/opus/src/include/opus.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/opus/src/include/opus_types.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/opus/src/include/opus_defines.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/common_audio/signal_processing/resample_by_2_internal.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/common_audio/signal_processing/include/signal_processing_library.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/common_audio/signal_processing/include/spl_inl.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Compile /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_coding/codecs/opus/opus_interface.c216"[1mCompileC[0m ../../xcodebuild/modules.build/Debug/webrtc_opus.build/Objects-normal/i386/opus_interface.o [1maudio_coding/codecs/opus/opus_interface.c[0m normal i386 c com.apple.compilers.llvm.clang.1_0.compiler39ed2d3d5d12b841^2b6b533d5d12b841^---0#0#1#-19%DVTDocumentLocation2@134"file://localhost/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_coding/codecs/opus/opus_interface.c0000000000000000^3696"[1mCompileC[0m ../../xcodebuild/modules.build/Debug/webrtc_opus.build/Objects-normal/i386/opus_interface.o [1maudio_coding/codecs/opus/opus_interface.c[0m normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules    setenv LANG en_US.US-ASCII    /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../third_party/llvm-build/Release+Asserts/bin/clang -x c -arch i386 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -DANGLE_DX11 -DWEBRTC_SVNREVISION=\"Unavailable(issue687)\" -DCHROMIUM_BUILD -DUSE_LIBJPEG_TURBO=1 -DENABLE_ONE_CLICK_SIGNIN -DENABLE_REMOTING=1 -DENABLE_WEBRTC=1 -DENABLE_PEPPER_CDMS -DENABLE_CONFIGURATION_POLICY -DENABLE_INPUT_SPEECH -DENABLE_NOTIFICATIONS -DENABLE_HIDPI=1 -DENABLE_EGLIMAGE=1 -DENABLE_TASK_MANAGER=1 -DENABLE_EXTENSIONS=1 -DENABLE_PLUGIN_INSTALLATION=1 -DENABLE_PLUGINS=1 -DENABLE_SESSION_SERVICE=1 -DENABLE_THEMES=1 -DENABLE_AUTOFILL_DIALOG=1 -DENABLE_BACKGROUND=1 -DENABLE_AUTOMATION=1 -DENABLE_GOOGLE_NOW=1 -DENABLE_FULL_PRINTING=1 -DENABLE_PRINTING=1 -DENABLE_SPELLCHECK=1 -DENABLE_CAPTIVE_PORTAL_DETECTION=1 -DENABLE_APP_LIST=1 -DENABLE_SETTINGS_APP=1 -DENABLE_MANAGED_USERS=1 -DWEBRTC_LOGGING -DWEBRTC_MAC -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -DDYNAMIC_ANNOTATIONS_ENABLED=1 -DWTF_USE_DYNAMIC_ANNOTATIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug/include -I.. -I../.. -I../.. -I../../third_party/opus/src/include -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/webrtc_opus.build/DerivedSources/i386 -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/webrtc_opus.build/DerivedSources -Wall -Wendif-labels -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wheader-hygiene -Wno-c++11-narrowing -Wno-char-subscripts -Wno-unused-function -Wno-covered-switch-default -Wstring-conversion -Wno-deprecated-register -Wno-deprecated-declarations -F/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug -fno-strict-aliasing -fstack-protector-all -MMD -MT dependencies -MF /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/webrtc_opus.build/Objects-normal/i386/opus_interface.d --serialize-diagnostics /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/webrtc_opus.build/Objects-normal/i386/opus_interface.dia -c /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_coding/codecs/opus/opus_interface.c -o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/modules.build/Debug/webrtc_opus.build/Objects-normal/i386/opus_interface.o36"2500F2D4-28BC-4B83-B090-000B73AC998C-
-b94F198BC-3816-40D3-81F9-2D4A66D1C00C
-
-CLibtool /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug/libwebrtc_opus.a normal i386
-s403856701.334746
-e403856701.348465
-r1
-xLibtool
-x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug/libwebrtc_opus.a
-xnormal
-xi386
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"[1mLibtool[0m ../../xcodebuild/Debug/libwebrtc_opus.a normal i38667"[1mLibtool[0m ../../xcodebuild/Debug/libwebrtc_opus.a normal i38629e9553d5d12b841^eb35593d5d12b841^---0#0#1#--836"[1mLibtool[0m ../../xcodebuild/Debug/libwebrtc_opus.a normal i386    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug -filelist /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/webrtc_opus.build/Objects-normal/i386/webrtc_opus.LinkFileList -o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug/libwebrtc_opus.a36"BCCC81E4-2E47-499B-8679-92DB18DC982B-
-b94F198BC-3816-40D3-81F9-2D4A66D1C00C
-

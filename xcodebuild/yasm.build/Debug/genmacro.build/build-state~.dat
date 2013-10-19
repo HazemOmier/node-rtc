@@ -1,130 +1,0 @@
-Tgenmacro
-v6
-r1
-cCheck dependencies
-cCompileC ../../xcodebuild/yasm.build/Debug/genmacro.build/Objects-normal/i386/genmacro.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/source/patched-yasm/tools/genmacro/genmacro.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-cLd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/Debug/genmacro normal i386
-cPhaseScriptExecution Postbuild\ \"Change\ Mach-O\ Flags\" /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/genmacro.build/Script-2E264C455AB662B833E78595.sh
-cPhaseScriptExecution Postbuild\ \"Strip\ If\ Needed\" /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/genmacro.build/Script-4C7889A20E677CE959D733D8.sh
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
-c000000005130312F00000000000000AA
-t1362112815
-s170
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/SDKSettings.plist
-c000000005261AE0C00000000000004B3
-t1382133260
-s1203
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/CoreServices/SystemVersion.plist
-c000000005261AE0C00000000000001DE
-t1382133260
-s478
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/source/patched-yasm/tools/genmacro/genmacro.c
-c0000000052514DCC0000000000001006
-t1381060044
-s4102
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/Debug/genmacro
-t1382163816
-s9600
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/yasm.build/Debug/genmacro.build/Objects-normal/i386/genmacro.LinkFileList
-c00000000526225680000000000000088
-t1382163816
-s136
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/yasm.build/Debug/genmacro.build/Objects-normal/i386/genmacro.o
-t1382163816
-s6784
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/yasm.build/Debug/genmacro.build/Script-2E264C455AB662B833E78595.sh
-c00000000526225680000000000000049
-t1382163816
-s73
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/yasm.build/Debug/genmacro.build/Script-4C7889A20E677CE959D733D8.sh
-c00000000526225680000000000000038
-t1382163816
-s56
-
-CCheck dependencies
-r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesf52a0ee85c12b841^7c2910e85c12b841^---0#1#1#--18"Check dependencies36"76DEA477-1D64-4A6B-9644-DCAB734B0F2C-
-
-CCompileC ../../xcodebuild/yasm.build/Debug/genmacro.build/Objects-normal/i386/genmacro.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/source/patched-yasm/tools/genmacro/genmacro.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
-s403856616.064516
-e403856616.154251
-r1
-xCompileC
-x../../xcodebuild/yasm.build/Debug/genmacro.build/Objects-normal/i386/genmacro.o
-x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/source/patched-yasm/tools/genmacro/genmacro.c
-xnormal
-xi386
-xc
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/source/patched-yasm/tools/genmacro/genmacro.c
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"Compile /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/source/patched-yasm/tools/genmacro/genmacro.c208"[1mCompileC[0m ../../xcodebuild/yasm.build/Debug/genmacro.build/Objects-normal/i386/genmacro.o [1msource/patched-yasm/tools/genmacro/genmacro.c[0m normal i386 c com.apple.compilers.llvm.clang.1_0.compilerd7be10e85c12b841^728927e85c12b841^---0#0#1#-19%DVTDocumentLocation2@140"file://localhost/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/source/patched-yasm/tools/genmacro/genmacro.c0000000000000000^3765"[1mCompileC[0m ../../xcodebuild/yasm.build/Debug/genmacro.build/Objects-normal/i386/genmacro.o [1msource/patched-yasm/tools/genmacro/genmacro.c[0m normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm    setenv LANG en_US.US-ASCII    /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../third_party/llvm-build/Release+Asserts/bin/clang -x c -arch i386 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -DANGLE_DX11 -DCHROMIUM_BUILD -DUSE_LIBJPEG_TURBO=1 -DENABLE_ONE_CLICK_SIGNIN -DENABLE_REMOTING=1 -DENABLE_WEBRTC=1 -DENABLE_PEPPER_CDMS -DENABLE_CONFIGURATION_POLICY -DENABLE_INPUT_SPEECH -DENABLE_NOTIFICATIONS -DENABLE_HIDPI=1 -DENABLE_EGLIMAGE=1 -DENABLE_TASK_MANAGER=1 -DENABLE_EXTENSIONS=1 -DENABLE_PLUGIN_INSTALLATION=1 -DENABLE_PLUGINS=1 -DENABLE_SESSION_SERVICE=1 -DENABLE_THEMES=1 -DENABLE_AUTOFILL_DIALOG=1 -DENABLE_BACKGROUND=1 -DENABLE_AUTOMATION=1 -DENABLE_GOOGLE_NOW=1 -DENABLE_FULL_PRINTING=1 -DENABLE_PRINTING=1 -DENABLE_SPELLCHECK=1 -DENABLE_CAPTIVE_PORTAL_DETECTION=1 -DENABLE_APP_LIST=1 -DENABLE_SETTINGS_APP=1 -DENABLE_MANAGED_USERS=1 -DDYNAMIC_ANNOTATIONS_ENABLED=1 -DWTF_USE_DYNAMIC_ANNOTATIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/Debug/include -Isource/config/mac -Isource/patched-yasm -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/genmacro.build/DerivedSources/i386 -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/genmacro.build/DerivedSources -Wendif-labels -Wno-unused-parameter -Wno-missing-field-initializers -Wheader-hygiene -Wno-c++11-narrowing -Wno-char-subscripts -Wno-unused-function -Wno-covered-switch-default -Wstring-conversion -Wno-deprecated-register -Wno-unused-const-variable -Wno-deprecated-declarations -F/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/Debug -Xclang -load -Xclang /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/tools/clang/scripts/../../../third_party/llvm-build/Release+Asserts/lib/libFindBadConstructs.dylib -Xclang -add-plugin -Xclang find-bad-constructs -fno-strict-aliasing -fstack-protector-all -MMD -MT dependencies -MF /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/genmacro.build/Objects-normal/i386/genmacro.d --serialize-diagnostics /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/genmacro.build/Objects-normal/i386/genmacro.dia -c /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/source/patched-yasm/tools/genmacro/genmacro.c -o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/yasm.build/Debug/genmacro.build/Objects-normal/i386/genmacro.o36"6C4C7182-B13F-4F59-9AA9-C8749AA4D771-
-bA4FE6A7E-FE42-44B1-9E00-3C14CA027B61
-
-CLd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/Debug/genmacro normal i386
-s403856616.162253
-e403856616.387476
-r1
-xLd
-x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/Debug/genmacro
-xnormal
-xi386
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/yasm.build/Debug/genmacro.build/Objects-normal/i386/genmacro.LinkFileList
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/crt1.10.6.o
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/yasm.build/Debug/genmacro.build/Objects-normal/i386/genmacro.o
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/libSystem.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcache.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcommonCrypto.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcompiler_rt.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libcopyfile.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdispatch.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdnsinfo.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libdyld.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libkeymgr.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/liblaunch.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libmacho.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libquarantine.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libremovefile.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_blocks.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_c.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_dnssd.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_info.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_kernel.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_m.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_network.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_notify.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libsystem_sandbox.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunc.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libunwind.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/lib/system/libxpc.dylib
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Link /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/Debug/genmacro54"[1mLd[0m ../../xcodebuild/Debug/genmacro normal i386aebb29e85c12b841^013363e85c12b841^---0#0#1#--1213"[1mLd[0m ../../xcodebuild/Debug/genmacro normal i386    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../third_party/llvm-build/Release+Asserts/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/Debug -F/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/Debug -filelist /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/genmacro.build/Objects-normal/i386/genmacro.LinkFileList -mmacosx-version-min=10.6 -Wl,-search_paths_first -Wl,-pie -Xlinker -dependency_info -Xlinker /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/genmacro.build/Objects-normal/i386/genmacro_dependency_info.dat -o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/Debug/genmacro36"0D1A8A5D-5493-438E-8BD4-1C6EA980F7E8-
-bA4FE6A7E-FE42-44B1-9E00-3C14CA027B61
-
-CPhaseScriptExecution Postbuild\ \"Change\ Mach-O\ Flags\" /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/genmacro.build/Script-2E264C455AB662B833E78595.sh
-s403856616.397222
-e403856616.624468
-r1
-xPhaseScriptExecution
-xPostbuild "Change Mach-O Flags"
-x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/genmacro.build/Script-2E264C455AB662B833E78595.sh
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Run custom shell script 'Postbuild "Change Mach-O Flags"'149"[1mPhaseScriptExecution[0m Postbuild\ \"Change\ Mach-O\ Flags\" ../../xcodebuild/yasm.build/Debug/genmacro.build/Script-2E264C455AB662B833E78595.sh683f66e85c12b841^8be09fe85c12b841^---0#0#1#--414"[1mPhaseScriptExecution[0m Postbuild\ \"Change\ Mach-O\ Flags\" ../../xcodebuild/yasm.build/Debug/genmacro.build/Script-2E264C455AB662B833E78595.sh    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm    /bin/sh -c /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/genmacro.build/Script-2E264C455AB662B833E78595.sh36"E918ACDD-4267-45BE-A317-13D5285F8FD4-
-bA4FE6A7E-FE42-44B1-9E00-3C14CA027B61
-
-CPhaseScriptExecution Postbuild\ \"Strip\ If\ Needed\" /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/genmacro.build/Script-4C7889A20E677CE959D733D8.sh
-s403856616.633787
-e403856616.694193
-r1
-xPhaseScriptExecution
-xPostbuild "Strip If Needed"
-x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/genmacro.build/Script-4C7889A20E677CE959D733D8.sh
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Run custom shell script 'Postbuild "Strip If Needed"'145"[1mPhaseScriptExecution[0m Postbuild\ \"Strip\ If\ Needed\" ../../xcodebuild/yasm.build/Debug/genmacro.build/Script-4C7889A20E677CE959D733D8.shcd04a3e85c12b841^88b8b1e85c12b841^---0#0#1#--410"[1mPhaseScriptExecution[0m Postbuild\ \"Strip\ If\ Needed\" ../../xcodebuild/yasm.build/Debug/genmacro.build/Script-4C7889A20E677CE959D733D8.sh    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm    /bin/sh -c /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/genmacro.build/Script-4C7889A20E677CE959D733D8.sh36"CD20BAD4-6474-4D6C-9946-0462317251AF-
-bA4FE6A7E-FE42-44B1-9E00-3C14CA027B61
-

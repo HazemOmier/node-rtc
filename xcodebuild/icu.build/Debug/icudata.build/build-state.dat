@@ -1,70 +1,0 @@
-Ticudata
-v6
-r1
-cCheck dependencies
-cCompileC ../../xcodebuild/icu.build/Debug/icudata.build/Objects-normal/i386/icudt46l_dat.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/icu/mac/icudt46l_dat.S normal i386 assembler-with-cpp com.apple.compilers.llvm.clang.1_0.compiler
-cLibtool /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/icu/../../xcodebuild/Debug/libicudata.a normal i386
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
-c000000005130312F00000000000000AA
-t1362112815
-s170
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/SDKSettings.plist
-c000000005261AE0C00000000000004B3
-t1382133260
-s1203
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/CoreServices/SystemVersion.plist
-c000000005261AE0C00000000000001DE
-t1382133260
-s478
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/icu/mac/icudt46l_dat.S
-c0000000052514E2C00000000016CEFB0
-t1381060140
-s23916464
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/Debug/libicudata.a
-t1382163786
-s9962128
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/icu.build/Debug/icudata.build/Objects-normal/i386/icudata.LinkFileList
-c0000000052622547000000000000008A
-t1382163783
-s138
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/icu.build/Debug/icudata.build/Objects-normal/i386/icudt46l_dat.o
-t1382163786
-s9961928
-
-CCheck dependencies
-r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies4355f4128812b841^5073fe128812b841^---0#1#1#--18"Check dependencies36"572417D0-E09D-4FD9-911F-235BB756386F-
-
-CCompileC ../../xcodebuild/icu.build/Debug/icudata.build/Objects-normal/i386/icudt46l_dat.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/icu/mac/icudt46l_dat.S normal i386 assembler-with-cpp com.apple.compilers.llvm.clang.1_0.compiler
-s403856583.227347
-e403856586.193162
-r1
-xCompileC
-x../../xcodebuild/icu.build/Debug/icudata.build/Objects-normal/i386/icudt46l_dat.o
-x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/icu/mac/icudt46l_dat.S
-xnormal
-xi386
-xassembler-with-cpp
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/icu/mac/icudt46l_dat.S
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/icu/mac/icudt46l_dat.S200"[1mCompileC[0m ../../xcodebuild/icu.build/Debug/icudata.build/Objects-normal/i386/icudt46l_dat.o [1mmac/icudt46l_dat.S[0m normal i386 assembler-with-cpp com.apple.compilers.llvm.clang.1_0.compiler0da93ac75c12b841^b98e31ca5c12b841^---0#0#1#-19%DVTDocumentLocation2@112"file://localhost/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/icu/mac/icudt46l_dat.S0000000000000000^3777"[1mCompileC[0m ../../xcodebuild/icu.build/Debug/icudata.build/Objects-normal/i386/icudt46l_dat.o [1mmac/icudt46l_dat.S[0m normal i386 assembler-with-cpp com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/icu    setenv LANG en_US.US-ASCII    /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/icu/../../third_party/llvm-build/Release+Asserts/bin/clang -x assembler-with-cpp -arch i386 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -Wno-trigraphs -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wnewline-eof -DU_USING_ICU_NAMESPACE=0 -DANGLE_DX11 -DU_STATIC_IMPLEMENTATION -DCHROMIUM_BUILD -DUSE_LIBJPEG_TURBO=1 -DENABLE_ONE_CLICK_SIGNIN -DENABLE_REMOTING=1 -DENABLE_WEBRTC=1 -DENABLE_PEPPER_CDMS -DENABLE_CONFIGURATION_POLICY -DENABLE_INPUT_SPEECH -DENABLE_NOTIFICATIONS -DENABLE_HIDPI=1 -DENABLE_EGLIMAGE=1 -DENABLE_TASK_MANAGER=1 -DENABLE_EXTENSIONS=1 -DENABLE_PLUGIN_INSTALLATION=1 -DENABLE_PLUGINS=1 -DENABLE_SESSION_SERVICE=1 -DENABLE_THEMES=1 -DENABLE_AUTOFILL_DIALOG=1 -DENABLE_BACKGROUND=1 -DENABLE_AUTOMATION=1 -DENABLE_GOOGLE_NOW=1 -DENABLE_FULL_PRINTING=1 -DENABLE_PRINTING=1 -DENABLE_SPELLCHECK=1 -DENABLE_CAPTIVE_PORTAL_DETECTION=1 -DENABLE_APP_LIST=1 -DENABLE_SETTINGS_APP=1 -DENABLE_MANAGED_USERS=1 -DU_HIDE_DATA_SYMBOL -DDYNAMIC_ANNOTATIONS_ENABLED=1 -DWTF_USE_DYNAMIC_ANNOTATIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/icu/../../xcodebuild/Debug/include -Isource/common -Isource/i18n -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/icu/../../xcodebuild/icu.build/Debug/icudata.build/DerivedSources/i386 -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/icu/../../xcodebuild/icu.build/Debug/icudata.build/DerivedSources -Wendif-labels -Wno-unused-parameter -Wno-missing-field-initializers -Wheader-hygiene -Wno-c++11-narrowing -Wno-char-subscripts -Wno-unused-function -Wno-covered-switch-default -Wstring-conversion -Wno-deprecated-register -Wno-unused-const-variable -Wno-deprecated-declarations -F/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/icu/../../xcodebuild/Debug -Xclang -load -Xclang /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/tools/clang/scripts/../../../third_party/llvm-build/Release+Asserts/lib/libFindBadConstructs.dylib -Xclang -add-plugin -Xclang find-bad-constructs -fno-strict-aliasing -fstack-protector-all -MMD -MT dependencies -MF /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/icu/../../xcodebuild/icu.build/Debug/icudata.build/Objects-normal/i386/icudt46l_dat.d --serialize-diagnostics /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/icu/../../xcodebuild/icu.build/Debug/icudata.build/Objects-normal/i386/icudt46l_dat.dia -c /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/icu/mac/icudt46l_dat.S -o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/icu.build/Debug/icudata.build/Objects-normal/i386/icudt46l_dat.o36"340D5E00-5EC0-4BEB-852B-358CC996E772-
-b0BD37132-A188-45CB-B475-7C4FC50D59E1
-
-CLibtool /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/icu/../../xcodebuild/Debug/libicudata.a normal i386
-s403856586.205411
-e403856586.411423
-r1
-xLibtool
-x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/icu/../../xcodebuild/Debug/libicudata.a
-xnormal
-xi386
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"[1mLibtool[0m ../../xcodebuild/Debug/libicudata.a normal i38663"[1mLibtool[0m ../../xcodebuild/Debug/libicudata.a normal i386f0c434ca5c12b841^f65d69ca5c12b841^---0#0#1#--820"[1mLibtool[0m ../../xcodebuild/Debug/libicudata.a normal i386    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/icu    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/icu/../../xcodebuild/Debug -filelist /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/icu/../../xcodebuild/icu.build/Debug/icudata.build/Objects-normal/i386/icudata.LinkFileList -o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/icu/../../xcodebuild/Debug/libicudata.a36"2E20AA67-1875-47CE-8524-C4CBFF0296D8-
-b0BD37132-A188-45CB-B475-7C4FC50D59E1
-

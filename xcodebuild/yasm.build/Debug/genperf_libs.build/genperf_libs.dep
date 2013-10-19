@@ -1,4 +1,0 @@
-430d81656672936edf6c5186cbdce769 47c693bd3dcf2e84d6a280a8288d4389 ffffffffffffffffffffffffffffffff 18040 /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/Debug/libgenperf_libs.a
-0000000052514dca0000000000000c3f 6629181a72fe36d2d16f6b1018f4c855 ffffffffffffffffffffffffffffffff 4192 /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/yasm.build/Debug/genperf_libs.build/Objects-normal/i386/xstrdup.o
-0000000052514dca00000000000009b7 95f7751ea638b6aabcd65cfd1f78dd38 ffffffffffffffffffffffffffffffff 4820 /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/yasm.build/Debug/genperf_libs.build/Objects-normal/i386/xmalloc.o
-0000000052514dca0000000000002054 b0d3ec61e3b74a9ab2d5666bcc50d6ed ffffffffffffffffffffffffffffffff 8508 /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/yasm.build/Debug/genperf_libs.build/Objects-normal/i386/phash.o

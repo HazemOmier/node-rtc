@@ -1,76 +1,0 @@
-Tcommon_audio_sse2
-v6
-r1
-cCheck dependencies
-cCompileC ../../xcodebuild/common_audio.build/Debug/common_audio_sse2.build/Objects-normal/i386/sinc_resampler_sse.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/common_audio/resampler/sinc_resampler_sse.cc normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-cLibtool /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/common_audio/../../xcodebuild/Debug/libcommon_audio_sse2.a normal i386
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
-c000000005130312F00000000000000AA
-t1362112815
-s170
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/SDKSettings.plist
-c000000005261AE0C00000000000004B3
-t1382133260
-s1203
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/CoreServices/SystemVersion.plist
-c000000005261AE0C00000000000001DE
-t1382133260
-s478
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/common_audio/resampler/sinc_resampler_sse.cc
-c0000000052514C880000000000000835
-t1381059720
-s2101
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/Debug/libcommon_audio_sse2.a
-t2
-s0
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/common_audio.build/Debug/common_audio_sse2.build/Objects-normal/i386/common_audio_sse2.LinkFileList
-c00000000526225B300000000000000A3
-t1382163891
-s163
-
-N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/common_audio.build/Debug/common_audio_sse2.build/Objects-normal/i386/sinc_resampler_sse.o
-t1382163891
-s6296
-
-CCheck dependencies
-r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies082174335d12b841^a91675335d12b841^---0#1#1#--18"Check dependencies36"156D6DC0-60D4-4A3D-890E-8C18E7FEC25E-
-
-CCompileC ../../xcodebuild/common_audio.build/Debug/common_audio_sse2.build/Objects-normal/i386/sinc_resampler_sse.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/common_audio/resampler/sinc_resampler_sse.cc normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s403856691.459020
-e403856691.597063
-r1
-xCompileC
-x../../xcodebuild/common_audio.build/Debug/common_audio_sse2.build/Objects-normal/i386/sinc_resampler_sse.o
-x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/common_audio/resampler/sinc_resampler_sse.cc
-xnormal
-xi386
-xc++
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/common_audio/resampler/sinc_resampler_sse.cc
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/common_audio/resampler/sinc_resampler.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/system_wrappers/interface/aligned_malloc.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/system_wrappers/interface/scoped_ptr.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/system_wrappers/interface/constructor_magic.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/test/testsupport/gtest_prod_util.h
-d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/typedefs.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Compile /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/common_audio/resampler/sinc_resampler_sse.cc223"[1mCompileC[0m ../../xcodebuild/common_audio.build/Debug/common_audio_sse2.build/Objects-normal/i386/sinc_resampler_sse.o [1mresampler/sinc_resampler_sse.cc[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler9cbf75335d12b841^bad898335d12b841^---0#0#1#-19%DVTDocumentLocation2@129"file://localhost/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/common_audio/resampler/sinc_resampler_sse.cc0000000000000000^3948"[1mCompileC[0m ../../xcodebuild/common_audio.build/Debug/common_audio_sse2.build/Objects-normal/i386/sinc_resampler_sse.o [1mresampler/sinc_resampler_sse.cc[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/common_audio    setenv LANG en_US.US-ASCII    /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/common_audio/../../third_party/llvm-build/Release+Asserts/bin/clang -x c++ -arch i386 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu++11 -Wno-trigraphs -fno-exceptions -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wnewline-eof -Wno-c++11-extensions -DANGLE_DX11 -DWEBRTC_SVNREVISION=\"Unavailable(issue687)\" -DCHROMIUM_BUILD -DUSE_LIBJPEG_TURBO=1 -DENABLE_ONE_CLICK_SIGNIN -DENABLE_REMOTING=1 -DENABLE_WEBRTC=1 -DENABLE_PEPPER_CDMS -DENABLE_CONFIGURATION_POLICY -DENABLE_INPUT_SPEECH -DENABLE_NOTIFICATIONS -DENABLE_HIDPI=1 -DENABLE_EGLIMAGE=1 -DENABLE_TASK_MANAGER=1 -DENABLE_EXTENSIONS=1 -DENABLE_PLUGIN_INSTALLATION=1 -DENABLE_PLUGINS=1 -DENABLE_SESSION_SERVICE=1 -DENABLE_THEMES=1 -DENABLE_AUTOFILL_DIALOG=1 -DENABLE_BACKGROUND=1 -DENABLE_AUTOMATION=1 -DENABLE_GOOGLE_NOW=1 -DENABLE_FULL_PRINTING=1 -DENABLE_PRINTING=1 -DENABLE_SPELLCHECK=1 -DENABLE_CAPTIVE_PORTAL_DETECTION=1 -DENABLE_APP_LIST=1 -DENABLE_SETTINGS_APP=1 -DENABLE_MANAGED_USERS=1 -DWEBRTC_LOGGING -DWEBRTC_MAC -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -DDYNAMIC_ANNOTATIONS_ENABLED=1 -DWTF_USE_DYNAMIC_ANNOTATIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.6 -g -fvisibility=hidden -fvisibility-inlines-hidden -fno-threadsafe-statics -Wno-sign-conversion -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/common_audio/../../xcodebuild/Debug/include -I.. -I../.. -I../.. -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/common_audio/../../xcodebuild/common_audio.build/Debug/common_audio_sse2.build/DerivedSources/i386 -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/common_audio/../../xcodebuild/common_audio.build/Debug/common_audio_sse2.build/DerivedSources -Wall -Wendif-labels -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wheader-hygiene -Wno-c++11-narrowing -Wno-char-subscripts -Wno-unused-function -Wno-covered-switch-default -Wstring-conversion -Wno-deprecated-register -Wno-deprecated-declarations -F/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/common_audio/../../xcodebuild/Debug -fno-strict-aliasing -msse2 -fstack-protector-all -MMD -MT dependencies -MF /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/common_audio/../../xcodebuild/common_audio.build/Debug/common_audio_sse2.build/Objects-normal/i386/sinc_resampler_sse.d --serialize-diagnostics /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/common_audio/../../xcodebuild/common_audio.build/Debug/common_audio_sse2.build/Objects-normal/i386/sinc_resampler_sse.dia -c /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/common_audio/resampler/sinc_resampler_sse.cc -o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/common_audio.build/Debug/common_audio_sse2.build/Objects-normal/i386/sinc_resampler_sse.o36"5CFD4005-782D-4265-BC59-545AF8B33BA3-
-b797BF132-BCFC-4ED1-82C3-43B65EFBEC38
-
-CLibtool /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/common_audio/../../xcodebuild/Debug/libcommon_audio_sse2.a normal i386
-s403856691.606579
-e403856691.618413
-r1
-xLibtool
-x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/common_audio/../../xcodebuild/Debug/libcommon_audio_sse2.a
-xnormal
-xi386
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"[1mLibtool[0m ../../xcodebuild/Debug/libcommon_audio_sse2.a normal i38673"[1mLibtool[0m ../../xcodebuild/Debug/libcommon_audio_sse2.a normal i3865f7a9b335d12b841^ef759e335d12b841^---0#0#1#--885"[1mLibtool[0m ../../xcodebuild/Debug/libcommon_audio_sse2.a normal i386    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/common_audio    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/common_audio/../../xcodebuild/Debug -filelist /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/common_audio/../../xcodebuild/common_audio.build/Debug/common_audio_sse2.build/Objects-normal/i386/common_audio_sse2.LinkFileList -o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/common_audio/../../xcodebuild/Debug/libcommon_audio_sse2.a36"BE2BD531-86F9-4901-8A5E-D455D7454A66-
-b797BF132-BCFC-4ED1-82C3-43B65EFBEC38
-
