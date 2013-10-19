@@ -1,0 +1,256 @@
+Tyasm Support
+v6
+r1
+cCheck dependencies
+cPhaseScriptExecution Action\ \"generate_nasm_macros\" /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/yasm\ Support.build/Script-A2F567F018DD204B8BCFA437.sh
+cPhaseScriptExecution Action\ \"generate_nasm_version\" /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/yasm\ Support.build/Script-3937A11BD5C42257B7C9B154.sh
+cPhaseScriptExecution Action\ \"generate_win64_gas\" /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/yasm\ Support.build/Script-4A871E15A1D6E4BDBBE87924.sh
+cPhaseScriptExecution Action\ \"generate_win64_nasm\" /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/yasm\ Support.build/Script-2A19B1011740A2642F60EA3E.sh
+cPhaseScriptExecution Action\ \"generate_license\" /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/yasm\ Support.build/Script-EA7C9BA8C1F7FF267024E4E8.sh
+cPhaseScriptExecution Action\ \"generate_lc3b_token\" /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/yasm\ Support.build/Script-DEA25709CE70D4B845C2C262.sh
+cPhaseScriptExecution Action\ \"generate_module\" /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/yasm\ Support.build/Script-B81CB52F3E1AEFB26D03FCAC.sh
+cPhaseScriptExecution Rule\ \"generate_gperf\" /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/yasm\ Support.build/Script-01D2B874063C3CD35D7BB021.sh
+cPhaseScriptExecution Rule\ \"generate_re2c\" /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/yasm\ Support.build/Script-78F98A3A8E7B6F2F3A9E27E4.sh
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/source/config/mac/Makefile
+c0000000052514DC20000000000036D43
+t1381060034
+s224579
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/source/patched-yasm/COPYING
+c0000000052514DF5000000000000083A
+t1381060085
+s2106
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/source/patched-yasm/libyasm/module.in
+c0000000052514DCA0000000000001536
+t1381060042
+s5430
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/source/patched-yasm/modules/arch/lc3b/lc3bid.re
+c0000000052514DCE0000000000003F65
+t1381060046
+s16229
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/source/patched-yasm/modules/objfmts/coff/win64-gas.mac
+c0000000052514DEE00000000000003E7
+t1381060078
+s999
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/source/patched-yasm/modules/objfmts/coff/win64-nasm.mac
+c0000000052514DEE0000000000000624
+t1381060078
+s1572
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/source/patched-yasm/modules/parsers/nasm/nasm-std.mac
+c0000000052514DE70000000000000797
+t1381060071
+s1943
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/Debug/genmacro
+c00000000526225680000000000002580
+t1382163816
+s9600
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/Debug/genmodule
+c00000000526225680000000000003874
+t1382163816
+s14452
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/Debug/genstring
+c000000005262256B0000000000002520
+t1382163819
+s9504
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/Debug/re2c
+c000000005262256C00000000000139C0
+t1382163820
+s80320
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/DerivedSources/Debug/third_party/yasm/version.mac
+c000000005262256B0000000000000104
+t1382163819
+s260
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/yasm.build/Debug/yasm Support.build/Script-01D2B874063C3CD35D7BB021.sh
+c000000005262256C00000000000000D6
+t1382163820
+s214
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/yasm.build/Debug/yasm Support.build/Script-2A19B1011740A2642F60EA3E.sh
+c000000005262256C000000000000010E
+t1382163820
+s270
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/yasm.build/Debug/yasm Support.build/Script-3937A11BD5C42257B7C9B154.sh
+c000000005262256C0000000000000111
+t1382163820
+s273
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/yasm.build/Debug/yasm Support.build/Script-4A871E15A1D6E4BDBBE87924.sh
+c000000005262256C000000000000010A
+t1382163820
+s266
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/yasm.build/Debug/yasm Support.build/Script-78F98A3A8E7B6F2F3A9E27E4.sh
+c000000005262256C00000000000000D5
+t1382163820
+s213
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/yasm.build/Debug/yasm Support.build/Script-A2F567F018DD204B8BCFA437.sh
+c000000005262256C000000000000010B
+t1382163820
+s267
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/yasm.build/Debug/yasm Support.build/Script-B81CB52F3E1AEFB26D03FCAC.sh
+c000000005262256C00000000000000DB
+t1382163820
+s219
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/yasm.build/Debug/yasm Support.build/Script-DEA25709CE70D4B845C2C262.sh
+c000000005262256C00000000000000C8
+t1382163820
+s200
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/yasm.build/Debug/yasm Support.build/Script-EA7C9BA8C1F7FF267024E4E8.sh
+c000000005262256C00000000000000C3
+t1382163820
+s195
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/yasm.build/DerivedSources/Debug/third_party/yasm/lc3bid.c
+t2
+s0
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/yasm.build/DerivedSources/Debug/third_party/yasm/license.c
+t2
+s0
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/yasm.build/DerivedSources/Debug/third_party/yasm/module.c
+t2
+s0
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/yasm.build/DerivedSources/Debug/third_party/yasm/nasm-macros.c
+t2
+s0
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/yasm.build/DerivedSources/Debug/third_party/yasm/nasm-version.c
+t2
+s0
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/yasm.build/DerivedSources/Debug/third_party/yasm/win64-gas.c
+t2
+s0
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/yasm.build/DerivedSources/Debug/third_party/yasm/win64-nasm.c
+t2
+s0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesf6b368ec5c12b841^4f576bec5c12b841^---0#1#1#--18"Check dependencies36"466D3633-E2E2-4B0F-ACE7-D6D3529C04E6-
+
+CPhaseScriptExecution Action\ \"generate_lc3b_token\" /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/yasm\ Support.build/Script-DEA25709CE70D4B845C2C262.sh
+s403856620.642739
+e403856620.691220
+r1
+xPhaseScriptExecution
+xAction "generate_lc3b_token"
+x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/yasm Support.build/Script-DEA25709CE70D4B845C2C262.sh
+onote: Generating yasm tokens for lc3b.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Run custom shell script 'Action "generate_lc3b_token"'149"[1mPhaseScriptExecution[0m Action\ \"generate_lc3b_token\" ../../xcodebuild/yasm.build/Debug/yasm\ Support.build/Script-DEA25709CE70D4B845C2C262.sh909fa5ec5c12b841^ee76b1ec5c12b841^-39"note: Generating yasm tokens for lc3b.1(21%IDEActivityLogMessage2@32"Generating yasm tokens for lc3b.-403856620#0#39#-0#--30"Shell Script Invocation Notice--0#0#1#--423"[1mPhaseScriptExecution[0m Action\ \"generate_lc3b_token\" ../../xcodebuild/yasm.build/Debug/yasm\ Support.build/Script-DEA25709CE70D4B845C2C262.sh    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm    /bin/sh -c \"/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/yasm\ Support.build/Script-DEA25709CE70D4B845C2C262.sh\"36"D32190AD-D17A-417F-8528-C3A1A9B73178-
+b6C462DCC-6355-4614-8F31-5A3119B5DBB5
+
+CPhaseScriptExecution Action\ \"generate_license\" /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/yasm\ Support.build/Script-EA7C9BA8C1F7FF267024E4E8.sh
+s403856620.591262
+e403856620.633149
+r1
+xPhaseScriptExecution
+xAction "generate_license"
+x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/yasm Support.build/Script-EA7C9BA8C1F7FF267024E4E8.sh
+onote: Generating yasm embeddable license.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Run custom shell script 'Action "generate_license"'146"[1mPhaseScriptExecution[0m Action\ \"generate_license\" ../../xcodebuild/yasm.build/Debug/yasm\ Support.build/Script-EA7C9BA8C1F7FF267024E4E8.sh05dc97ec5c12b841^691ca2ec5c12b841^-42"note: Generating yasm embeddable license.1(21%IDEActivityLogMessage2@35"Generating yasm embeddable license.-403856620#0#42#-0#--30"Shell Script Invocation Notice--0#0#1#--420"[1mPhaseScriptExecution[0m Action\ \"generate_license\" ../../xcodebuild/yasm.build/Debug/yasm\ Support.build/Script-EA7C9BA8C1F7FF267024E4E8.sh    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm    /bin/sh -c \"/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/yasm\ Support.build/Script-EA7C9BA8C1F7FF267024E4E8.sh\"36"49E4FF8E-CE58-4D3D-9ACE-09B789E8AEEE-
+b6C462DCC-6355-4614-8F31-5A3119B5DBB5
+
+CPhaseScriptExecution Action\ \"generate_module\" /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/yasm\ Support.build/Script-B81CB52F3E1AEFB26D03FCAC.sh
+s403856620.702551
+e403856620.776471
+r1
+xPhaseScriptExecution
+xAction "generate_module"
+x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/yasm Support.build/Script-B81CB52F3E1AEFB26D03FCAC.sh
+onote: Generating yasm module information.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Run custom shell script 'Action "generate_module"'145"[1mPhaseScriptExecution[0m Action\ \"generate_module\" ../../xcodebuild/yasm.build/Debug/yasm\ Support.build/Script-B81CB52F3E1AEFB26D03FCAC.shb859b4ec5c12b841^dac7c6ec5c12b841^-42"note: Generating yasm module information.1(21%IDEActivityLogMessage2@35"Generating yasm module information.-403856620#0#42#-0#--30"Shell Script Invocation Notice--0#0#1#--419"[1mPhaseScriptExecution[0m Action\ \"generate_module\" ../../xcodebuild/yasm.build/Debug/yasm\ Support.build/Script-B81CB52F3E1AEFB26D03FCAC.sh    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm    /bin/sh -c \"/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/yasm\ Support.build/Script-B81CB52F3E1AEFB26D03FCAC.sh\"36"0DFDB162-4C23-4B1A-9D23-F71C9AC1D8DB-
+b6C462DCC-6355-4614-8F31-5A3119B5DBB5
+
+CPhaseScriptExecution Action\ \"generate_nasm_macros\" /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/yasm\ Support.build/Script-A2F567F018DD204B8BCFA437.sh
+s403856620.421703
+e403856620.457930
+r1
+xPhaseScriptExecution
+xAction "generate_nasm_macros"
+x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/yasm Support.build/Script-A2F567F018DD204B8BCFA437.sh
+onote: yasm genmacro for source/patched-yasm/modules/parsers/nasm/nasm-std.mac.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Run custom shell script 'Action "generate_nasm_macros"'150"[1mPhaseScriptExecution[0m Action\ \"generate_nasm_macros\" ../../xcodebuild/yasm.build/Debug/yasm\ Support.build/Script-A2F567F018DD204B8BCFA437.sh43746cec5c12b841^d13b75ec5c12b841^-79"note: yasm genmacro for source/patched-yasm/modules/parsers/nasm/nasm-std.mac.1(21%IDEActivityLogMessage2@72"Yasm genmacro for source/patched-yasm/modules/parsers/nasm/nasm-std.mac.-403856620#0#79#-0#--30"Shell Script Invocation Notice--0#0#1#--424"[1mPhaseScriptExecution[0m Action\ \"generate_nasm_macros\" ../../xcodebuild/yasm.build/Debug/yasm\ Support.build/Script-A2F567F018DD204B8BCFA437.sh    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm    /bin/sh -c \"/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/yasm\ Support.build/Script-A2F567F018DD204B8BCFA437.sh\"36"5945D0CB-939F-4115-B632-A5718EE07AB0-
+b6C462DCC-6355-4614-8F31-5A3119B5DBB5
+
+CPhaseScriptExecution Action\ \"generate_nasm_version\" /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/yasm\ Support.build/Script-3937A11BD5C42257B7C9B154.sh
+s403856620.467789
+e403856620.493835
+r1
+xPhaseScriptExecution
+xAction "generate_nasm_version"
+x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/yasm Support.build/Script-3937A11BD5C42257B7C9B154.sh
+onote: yasm genmacro for /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/DerivedSources/Debug/third_party/yasm/version.mac.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Run custom shell script 'Action "generate_nasm_version"'151"[1mPhaseScriptExecution[0m Action\ \"generate_nasm_version\" ../../xcodebuild/yasm.build/Debug/yasm\ Support.build/Script-3937A11BD5C42257B7C9B154.sh6f4b78ec5c12b841^376d7eec5c12b841^-171"note: yasm genmacro for /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/DerivedSources/Debug/third_party/yasm/version.mac.1(21%IDEActivityLogMessage2@164"Yasm genmacro for /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/DerivedSources/Debug/third_party/yasm/version.mac.-403856620#0#171#-0#--30"Shell Script Invocation Notice--0#0#1#--425"[1mPhaseScriptExecution[0m Action\ \"generate_nasm_version\" ../../xcodebuild/yasm.build/Debug/yasm\ Support.build/Script-3937A11BD5C42257B7C9B154.sh    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm    /bin/sh -c \"/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/yasm\ Support.build/Script-3937A11BD5C42257B7C9B154.sh\"36"7D95CE64-B5C0-405A-B889-A8A1F7ECE396-
+b6C462DCC-6355-4614-8F31-5A3119B5DBB5
+
+CPhaseScriptExecution Action\ \"generate_win64_gas\" /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/yasm\ Support.build/Script-4A871E15A1D6E4BDBBE87924.sh
+s403856620.503353
+e403856620.539520
+r1
+xPhaseScriptExecution
+xAction "generate_win64_gas"
+x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/yasm Support.build/Script-4A871E15A1D6E4BDBBE87924.sh
+onote: yasm genmacro for source/patched-yasm/modules/objfmts/coff/win64-gas.mac.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Run custom shell script 'Action "generate_win64_gas"'148"[1mPhaseScriptExecution[0m Action\ \"generate_win64_gas\" ../../xcodebuild/yasm.build/Debug/yasm\ Support.build/Script-4A871E15A1D6E4BDBBE87924.shc86081ec5c12b841^b01f8aec5c12b841^-80"note: yasm genmacro for source/patched-yasm/modules/objfmts/coff/win64-gas.mac.1(21%IDEActivityLogMessage2@73"Yasm genmacro for source/patched-yasm/modules/objfmts/coff/win64-gas.mac.-403856620#0#80#-0#--30"Shell Script Invocation Notice--0#0#1#--422"[1mPhaseScriptExecution[0m Action\ \"generate_win64_gas\" ../../xcodebuild/yasm.build/Debug/yasm\ Support.build/Script-4A871E15A1D6E4BDBBE87924.sh    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm    /bin/sh -c \"/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/yasm\ Support.build/Script-4A871E15A1D6E4BDBBE87924.sh\"36"7FFFB576-D806-43BB-8EE4-F783F28F59C6-
+b6C462DCC-6355-4614-8F31-5A3119B5DBB5
+
+CPhaseScriptExecution Action\ \"generate_win64_nasm\" /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/yasm\ Support.build/Script-2A19B1011740A2642F60EA3E.sh
+s403856620.549999
+e403856620.581633
+r1
+xPhaseScriptExecution
+xAction "generate_win64_nasm"
+x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/yasm Support.build/Script-2A19B1011740A2642F60EA3E.sh
+onote: yasm genmacro for source/patched-yasm/modules/objfmts/coff/win64-nasm.mac.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Run custom shell script 'Action "generate_win64_nasm"'149"[1mPhaseScriptExecution[0m Action\ \"generate_win64_nasm\" ../../xcodebuild/yasm.build/Debug/yasm\ Support.build/Script-2A19B1011740A2642F60EA3E.sh0b9b8dec5c12b841^47e794ec5c12b841^-81"note: yasm genmacro for source/patched-yasm/modules/objfmts/coff/win64-nasm.mac.1(21%IDEActivityLogMessage2@74"Yasm genmacro for source/patched-yasm/modules/objfmts/coff/win64-nasm.mac.-403856620#0#81#-0#--30"Shell Script Invocation Notice--0#0#1#--423"[1mPhaseScriptExecution[0m Action\ \"generate_win64_nasm\" ../../xcodebuild/yasm.build/Debug/yasm\ Support.build/Script-2A19B1011740A2642F60EA3E.sh    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm    /bin/sh -c \"/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/yasm\ Support.build/Script-2A19B1011740A2642F60EA3E.sh\"36"EF7E67F8-42A3-42E8-9A79-8E8E7537CE57-
+b6C462DCC-6355-4614-8F31-5A3119B5DBB5
+
+CPhaseScriptExecution Rule\ \"generate_gperf\" /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/yasm\ Support.build/Script-01D2B874063C3CD35D7BB021.sh
+s403856620.785299
+e403856621.365488
+r1
+xPhaseScriptExecution
+xRule "generate_gperf"
+x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/yasm Support.build/Script-01D2B874063C3CD35D7BB021.sh
+onote: yasm gperf for /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/DerivedSources/Debug/third_party/yasm/x86insn_nasm.gperf.
+o"/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/Debug/genperf" "/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/DerivedSources/Debug/third_party/yasm/x86insn_nasm.gperf" "/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/DerivedSources/Debug/third_party/yasm/x86insn_nasm.c"
+onote: yasm gperf for /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/DerivedSources/Debug/third_party/yasm/x86insn_gas.gperf.
+o"/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/Debug/genperf" "/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/DerivedSources/Debug/third_party/yasm/x86insn_gas.gperf" "/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/DerivedSources/Debug/third_party/yasm/x86insn_gas.c"
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Run custom shell script 'Rule "generate_gperf"'142"[1mPhaseScriptExecution[0m Rule\ \"generate_gperf\" ../../xcodebuild/yasm.build/Debug/yasm\ Support.build/Script-01D2B874063C3CD35D7BB021.sh7991c9ec5c12b841^8e905ded5c12b841^-1205"note: yasm gperf for /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/DerivedSources/Debug/third_party/yasm/x86insn_nasm.gperf."/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/Debug/genperf" "/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/DerivedSources/Debug/third_party/yasm/x86insn_nasm.gperf" "/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/DerivedSources/Debug/third_party/yasm/x86insn_nasm.c"note: yasm gperf for /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/DerivedSources/Debug/third_party/yasm/x86insn_gas.gperf."/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/Debug/genperf" "/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/DerivedSources/Debug/third_party/yasm/x86insn_gas.gperf" "/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/DerivedSources/Debug/third_party/yasm/x86insn_gas.c"4(21%IDEActivityLogMessage2@168"Yasm gperf for /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/DerivedSources/Debug/third_party/yasm/x86insn_nasm.gperf.-403856620#0#175#-0#--30"Shell Script Invocation Notice--2@429""/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/Debug/genperf" "/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/DerivedSources/Debug/third_party/yasm/x86insn_nasm.gperf" "/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/DerivedSources/Debug/third_party/yasm/x86insn_nasm.c"-403856620#175#429#-0#-----2@167"Yasm gperf for /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/DerivedSources/Debug/third_party/yasm/x86insn_gas.gperf.-403856620#604#174#-0#--30"Shell Script Invocation Notice--2@427""/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/Debug/genperf" "/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/DerivedSources/Debug/third_party/yasm/x86insn_gas.gperf" "/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/DerivedSources/Debug/third_party/yasm/x86insn_gas.c"-403856620#778#427#-0#-----0#0#1#--416"[1mPhaseScriptExecution[0m Rule\ \"generate_gperf\" ../../xcodebuild/yasm.build/Debug/yasm\ Support.build/Script-01D2B874063C3CD35D7BB021.sh    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm    /bin/sh -c \"/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/yasm\ Support.build/Script-01D2B874063C3CD35D7BB021.sh\"36"F7518FCD-D481-4F39-B032-20CB6F8E5756-
+b6C462DCC-6355-4614-8F31-5A3119B5DBB5
+
+CPhaseScriptExecution Rule\ \"generate_re2c\" /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/yasm\ Support.build/Script-78F98A3A8E7B6F2F3A9E27E4.sh
+s403856621.374975
+e403856621.463699
+r1
+xPhaseScriptExecution
+xRule "generate_re2c"
+x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/yasm Support.build/Script-78F98A3A8E7B6F2F3A9E27E4.sh
+onote: yasm re2c for source/patched-yasm/modules/parsers/nasm/nasm-token.re.
+onote: yasm re2c for source/patched-yasm/modules/parsers/gas/gas-token.re.
+o"/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/Debug/re2c" -b -o "/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/DerivedSources/Debug/third_party/yasm/nasm-token.c" "source/patched-yasm/modules/parsers/nasm/nasm-token.re"
+o"/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/Debug/re2c" -b -o "/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/DerivedSources/Debug/third_party/yasm/gas-token.c" "source/patched-yasm/modules/parsers/gas/gas-token.re"
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Run custom shell script 'Rule "generate_re2c"'141"[1mPhaseScriptExecution[0m Rule\ \"generate_re2c\" ../../xcodebuild/yasm.build/Debug/yasm\ Support.build/Script-78F98A3A8E7B6F2F3A9E27E4.sh397e60ed5c12b841^08c976ed5c12b841^-811"note: yasm re2c for source/patched-yasm/modules/parsers/nasm/nasm-token.re.note: yasm re2c for source/patched-yasm/modules/parsers/gas/gas-token.re."/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/Debug/re2c" -b -o "/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/DerivedSources/Debug/third_party/yasm/nasm-token.c" "source/patched-yasm/modules/parsers/nasm/nasm-token.re""/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/Debug/re2c" -b -o "/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/DerivedSources/Debug/third_party/yasm/gas-token.c" "source/patched-yasm/modules/parsers/gas/gas-token.re"4(21%IDEActivityLogMessage2@69"Yasm re2c for source/patched-yasm/modules/parsers/nasm/nasm-token.re.-403856621#0#76#-0#--30"Shell Script Invocation Notice--2@67"Yasm re2c for source/patched-yasm/modules/parsers/gas/gas-token.re.-403856621#76#74#-0#--30"Shell Script Invocation Notice--2@332""/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/Debug/re2c" -b -o "/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/DerivedSources/Debug/third_party/yasm/nasm-token.c" "source/patched-yasm/modules/parsers/nasm/nasm-token.re"-403856621#150#332#-0#-----2@329""/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/Debug/re2c" -b -o "/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/DerivedSources/Debug/third_party/yasm/gas-token.c" "source/patched-yasm/modules/parsers/gas/gas-token.re"-403856621#482#329#-0#-----0#0#1#--415"[1mPhaseScriptExecution[0m Rule\ \"generate_re2c\" ../../xcodebuild/yasm.build/Debug/yasm\ Support.build/Script-78F98A3A8E7B6F2F3A9E27E4.sh    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm    /bin/sh -c \"/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/yasm/../../xcodebuild/yasm.build/Debug/yasm\ Support.build/Script-78F98A3A8E7B6F2F3A9E27E4.sh\"36"CE8BAF7D-ABA8-4DB2-9AEC-8EA61DE668AE-
+b6C462DCC-6355-4614-8F31-5A3119B5DBB5
+

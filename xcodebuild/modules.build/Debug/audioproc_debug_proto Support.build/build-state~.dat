@@ -1,0 +1,27 @@
+Taudioproc_debug_proto Support
+v6
+r1
+cCheck dependencies
+cPhaseScriptExecution Rule\ \"genproto\" /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/audioproc_debug_proto\ Support.build/Script-F676289D7085F533B3D2F5B6.sh
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/modules.build/Debug/audioproc_debug_proto Support.build/Script-F676289D7085F533B3D2F5B6.sh
+c000000005262267B00000000000000E1
+t1382164091
+s225
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies446ee2fb5d12b841^5a68e3fb5d12b841^---0#1#1#--18"Check dependencies36"B78B9D96-74FC-42FE-BCC9-0090FE7E7212-
+
+CPhaseScriptExecution Rule\ \"genproto\" /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/audioproc_debug_proto\ Support.build/Script-F676289D7085F533B3D2F5B6.sh
+s403856891.889543
+e403856893.123145
+r1
+xPhaseScriptExecution
+xRule "genproto"
+x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/audioproc_debug_proto Support.build/Script-F676289D7085F533B3D2F5B6.sh
+onote: Generating C++ and Python code from audio_processing/debug.proto
+opython ../../tools/protoc_wrapper/protoc_wrapper.py --include "" --protobuf "/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/DerivedSources/Debug/protoc_out/webrtc/audio_processing/debug.pb.h" --proto-in-dir audio_processing --proto-in-file "debug.proto" "--use-system-protobuf=0" -- "/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug/protoc" --cpp_out "/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/DerivedSources/Debug/protoc_out/webrtc/audio_processing" --python_out "/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug/pyproto/webrtc/audio_processing"
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Run custom shell script 'Rule "genproto"'156"[1mPhaseScriptExecution[0m Rule\ \"genproto\" ../../xcodebuild/modules.build/Debug/audioproc_debug_proto\ Support.build/Script-F676289D7085F533B3D2F5B6.sh103ee4fb5d12b841^f2b51ffd5d12b841^-819"note: Generating C++ and Python code from audio_processing/debug.protopython ../../tools/protoc_wrapper/protoc_wrapper.py --include "" --protobuf "/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/DerivedSources/Debug/protoc_out/webrtc/audio_processing/debug.pb.h" --proto-in-dir audio_processing --proto-in-file "debug.proto" "--use-system-protobuf=0" -- "/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug/protoc" --cpp_out "/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/DerivedSources/Debug/protoc_out/webrtc/audio_processing" --python_out "/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug/pyproto/webrtc/audio_processing"2(21%IDEActivityLogMessage2@64"Generating C++ and Python code from audio_processing/debug.proto-403856892#0#71#-0#--30"Shell Script Invocation Notice--2@748"python ../../tools/protoc_wrapper/protoc_wrapper.py --include "" --protobuf "/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/DerivedSources/Debug/protoc_out/webrtc/audio_processing/debug.pb.h" --proto-in-dir audio_processing --proto-in-file "debug.proto" "--use-system-protobuf=0" -- "/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug/protoc" --cpp_out "/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/DerivedSources/Debug/protoc_out/webrtc/audio_processing" --python_out "/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug/pyproto/webrtc/audio_processing"-403856892#71#748#-0#-----0#0#1#--446"[1mPhaseScriptExecution[0m Rule\ \"genproto\" ../../xcodebuild/modules.build/Debug/audioproc_debug_proto\ Support.build/Script-F676289D7085F533B3D2F5B6.sh    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules    /bin/sh -c \"/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/audioproc_debug_proto\ Support.build/Script-F676289D7085F533B3D2F5B6.sh\"36"6920E5DD-37EE-4721-A8C4-EFFC97FE8BDE-
+bB408DEC3-931A-4AC2-95C9-4A0ADDA19A29
+

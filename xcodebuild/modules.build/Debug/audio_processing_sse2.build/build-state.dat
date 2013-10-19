@@ -1,0 +1,126 @@
+Taudio_processing_sse2
+v6
+r1
+cCheck dependencies
+cCompileC ../../xcodebuild/modules.build/Debug/audio_processing_sse2.build/Objects-normal/i386/aec_core_sse2.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_processing/aec/aec_core_sse2.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../xcodebuild/modules.build/Debug/audio_processing_sse2.build/Objects-normal/i386/aec_rdft_sse2.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_processing/aec/aec_rdft_sse2.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug/libaudio_processing_sse2.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c000000005130312F00000000000000AA
+t1362112815
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/SDKSettings.plist
+c000000005261AE0C00000000000004B3
+t1382133260
+s1203
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005261AE0C00000000000001DE
+t1382133260
+s478
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_processing/aec/aec_core.h
+c00000000526222570000000000001083
+t1382163031
+s4227
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_processing/aec/aec_core_internal.h
+c0000000052622256000000000000124C
+t1382163030
+s4684
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_processing/aec/aec_core_sse2.c
+c000000005262225700000000000046B0
+t1382163031
+s18096
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_processing/aec/aec_rdft.h
+c00000000526222570000000000000784
+t1382163031
+s1924
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_processing/aec/aec_rdft_sse2.c
+c00000000526222570000000000004B3B
+t1382163031
+s19259
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_processing/utility/ring_buffer.h
+c0000000052514A0500000000000009EF
+t1381059077
+s2543
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/typedefs.h
+c0000000052514CC30000000000000D09
+t1381059779
+s3337
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/Debug/libaudio_processing_sse2.a
+t1382164106
+s57064
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/modules.build/Debug/audio_processing_sse2.build/Objects-normal/i386/aec_core_sse2.o
+t1382164106
+s28648
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/modules.build/Debug/audio_processing_sse2.build/Objects-normal/i386/aec_rdft_sse2.o
+t1382164106
+s28096
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/modules.build/Debug/audio_processing_sse2.build/Objects-normal/i386/audio_processing_sse2.LinkFileList
+c0000000052622689000000000000013A
+t1382164105
+s314
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesd3f8d13c8812b841^f67bda3c8812b841^---0#1#1#--18"Check dependencies36"636399B9-B65F-469D-9391-C6E96614919C-
+
+CCompileC ../../xcodebuild/modules.build/Debug/audio_processing_sse2.build/Objects-normal/i386/aec_core_sse2.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_processing/aec/aec_core_sse2.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s403856905.877952
+e403856906.255582
+r1
+xCompileC
+x../../xcodebuild/modules.build/Debug/audio_processing_sse2.build/Objects-normal/i386/aec_core_sse2.o
+x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_processing/aec/aec_core_sse2.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_processing/aec/aec_core_sse2.c
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_processing/aec/aec_core.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/typedefs.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_processing/aec/aec_core_internal.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_processing/utility/ring_buffer.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_processing/aec/aec_rdft.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Compile /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_processing/aec/aec_core_sse2.c220"[1mCompileC[0m ../../xcodebuild/modules.build/Debug/audio_processing_sse2.build/Objects-normal/i386/aec_core_sse2.o [1maudio_processing/aec/aec_core_sse2.c[0m normal i386 c com.apple.compilers.llvm.clang.1_0.compilerfcfbe0095e12b841^c26d410a5e12b841^---0#0#1#-19%DVTDocumentLocation2@129"file://localhost/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_processing/aec/aec_core_sse2.c0000000000000000^3712"[1mCompileC[0m ../../xcodebuild/modules.build/Debug/audio_processing_sse2.build/Objects-normal/i386/aec_core_sse2.o [1maudio_processing/aec/aec_core_sse2.c[0m normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules    setenv LANG en_US.US-ASCII    /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../third_party/llvm-build/Release+Asserts/bin/clang -x c -arch i386 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -DANGLE_DX11 -DWEBRTC_SVNREVISION=\"Unavailable(issue687)\" -DCHROMIUM_BUILD -DUSE_LIBJPEG_TURBO=1 -DENABLE_ONE_CLICK_SIGNIN -DENABLE_REMOTING=1 -DENABLE_WEBRTC=1 -DENABLE_PEPPER_CDMS -DENABLE_CONFIGURATION_POLICY -DENABLE_INPUT_SPEECH -DENABLE_NOTIFICATIONS -DENABLE_HIDPI=1 -DENABLE_EGLIMAGE=1 -DENABLE_TASK_MANAGER=1 -DENABLE_EXTENSIONS=1 -DENABLE_PLUGIN_INSTALLATION=1 -DENABLE_PLUGINS=1 -DENABLE_SESSION_SERVICE=1 -DENABLE_THEMES=1 -DENABLE_AUTOFILL_DIALOG=1 -DENABLE_BACKGROUND=1 -DENABLE_AUTOMATION=1 -DENABLE_GOOGLE_NOW=1 -DENABLE_FULL_PRINTING=1 -DENABLE_PRINTING=1 -DENABLE_SPELLCHECK=1 -DENABLE_CAPTIVE_PORTAL_DETECTION=1 -DENABLE_APP_LIST=1 -DENABLE_SETTINGS_APP=1 -DENABLE_MANAGED_USERS=1 -DWEBRTC_LOGGING -DWEBRTC_MAC -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -DDYNAMIC_ANNOTATIONS_ENABLED=1 -DWTF_USE_DYNAMIC_ANNOTATIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug/include -I.. -I../.. -I../.. -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/audio_processing_sse2.build/DerivedSources/i386 -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/audio_processing_sse2.build/DerivedSources -Wall -Wendif-labels -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wheader-hygiene -Wno-c++11-narrowing -Wno-char-subscripts -Wno-unused-function -Wno-covered-switch-default -Wstring-conversion -Wno-deprecated-register -Wno-deprecated-declarations -F/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug -fno-strict-aliasing -msse2 -fstack-protector-all -MMD -MT dependencies -MF /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/audio_processing_sse2.build/Objects-normal/i386/aec_core_sse2.d --serialize-diagnostics /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/audio_processing_sse2.build/Objects-normal/i386/aec_core_sse2.dia -c /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_processing/aec/aec_core_sse2.c -o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/modules.build/Debug/audio_processing_sse2.build/Objects-normal/i386/aec_core_sse2.o36"01BFEEDA-E632-4B9B-BF9F-D6A8673244A8-
+b37A7B87B-1844-460C-9D02-EC42046F1BE1
+
+CCompileC ../../xcodebuild/modules.build/Debug/audio_processing_sse2.build/Objects-normal/i386/aec_rdft_sse2.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_processing/aec/aec_rdft_sse2.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s403856905.878417
+e403856906.190409
+r1
+xCompileC
+x../../xcodebuild/modules.build/Debug/audio_processing_sse2.build/Objects-normal/i386/aec_rdft_sse2.o
+x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_processing/aec/aec_rdft_sse2.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_processing/aec/aec_rdft_sse2.c
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_processing/aec/aec_rdft.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Compile /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_processing/aec/aec_rdft_sse2.c220"[1mCompileC[0m ../../xcodebuild/modules.build/Debug/audio_processing_sse2.build/Objects-normal/i386/aec_rdft_sse2.o [1maudio_processing/aec/aec_rdft_sse2.c[0m normal i386 c com.apple.compilers.llvm.clang.1_0.compiler4512e1095e12b841^faec300a5e12b841^---0#0#1#-19%DVTDocumentLocation2@129"file://localhost/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_processing/aec/aec_rdft_sse2.c0000000000000000^3712"[1mCompileC[0m ../../xcodebuild/modules.build/Debug/audio_processing_sse2.build/Objects-normal/i386/aec_rdft_sse2.o [1maudio_processing/aec/aec_rdft_sse2.c[0m normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules    setenv LANG en_US.US-ASCII    /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../third_party/llvm-build/Release+Asserts/bin/clang -x c -arch i386 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -DANGLE_DX11 -DWEBRTC_SVNREVISION=\"Unavailable(issue687)\" -DCHROMIUM_BUILD -DUSE_LIBJPEG_TURBO=1 -DENABLE_ONE_CLICK_SIGNIN -DENABLE_REMOTING=1 -DENABLE_WEBRTC=1 -DENABLE_PEPPER_CDMS -DENABLE_CONFIGURATION_POLICY -DENABLE_INPUT_SPEECH -DENABLE_NOTIFICATIONS -DENABLE_HIDPI=1 -DENABLE_EGLIMAGE=1 -DENABLE_TASK_MANAGER=1 -DENABLE_EXTENSIONS=1 -DENABLE_PLUGIN_INSTALLATION=1 -DENABLE_PLUGINS=1 -DENABLE_SESSION_SERVICE=1 -DENABLE_THEMES=1 -DENABLE_AUTOFILL_DIALOG=1 -DENABLE_BACKGROUND=1 -DENABLE_AUTOMATION=1 -DENABLE_GOOGLE_NOW=1 -DENABLE_FULL_PRINTING=1 -DENABLE_PRINTING=1 -DENABLE_SPELLCHECK=1 -DENABLE_CAPTIVE_PORTAL_DETECTION=1 -DENABLE_APP_LIST=1 -DENABLE_SETTINGS_APP=1 -DENABLE_MANAGED_USERS=1 -DWEBRTC_LOGGING -DWEBRTC_MAC -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -DDYNAMIC_ANNOTATIONS_ENABLED=1 -DWTF_USE_DYNAMIC_ANNOTATIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug/include -I.. -I../.. -I../.. -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/audio_processing_sse2.build/DerivedSources/i386 -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/audio_processing_sse2.build/DerivedSources -Wall -Wendif-labels -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wheader-hygiene -Wno-c++11-narrowing -Wno-char-subscripts -Wno-unused-function -Wno-covered-switch-default -Wstring-conversion -Wno-deprecated-register -Wno-deprecated-declarations -F/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug -fno-strict-aliasing -msse2 -fstack-protector-all -MMD -MT dependencies -MF /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/audio_processing_sse2.build/Objects-normal/i386/aec_rdft_sse2.d --serialize-diagnostics /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/audio_processing_sse2.build/Objects-normal/i386/aec_rdft_sse2.dia -c /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/audio_processing/aec/aec_rdft_sse2.c -o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/modules.build/Debug/audio_processing_sse2.build/Objects-normal/i386/aec_rdft_sse2.o36"EFAF0710-60A8-494B-AFA9-CF79D3A8E7E8-
+b37A7B87B-1844-460C-9D02-EC42046F1BE1
+
+CLibtool /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug/libaudio_processing_sse2.a normal i386
+s403856906.264621
+e403856906.275161
+r1
+xLibtool
+x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug/libaudio_processing_sse2.a
+xnormal
+xi386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"[1mLibtool[0m ../../xcodebuild/Debug/libaudio_processing_sse2.a normal i38677"[1mLibtool[0m ../../xcodebuild/Debug/libaudio_processing_sse2.a normal i3860fed430a5e12b841^8b71460a5e12b841^---0#0#1#--876"[1mLibtool[0m ../../xcodebuild/Debug/libaudio_processing_sse2.a normal i386    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug -filelist /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/audio_processing_sse2.build/Objects-normal/i386/audio_processing_sse2.LinkFileList -o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug/libaudio_processing_sse2.a36"9B469C10-7CCA-48A2-AF95-21EFF6B33169-
+b37A7B87B-1844-460C-9D02-EC42046F1BE1
+

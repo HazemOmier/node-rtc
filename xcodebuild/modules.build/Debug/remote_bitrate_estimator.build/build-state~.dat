@@ -1,0 +1,100 @@
+Tremote_bitrate_estimator
+v6
+r1
+cCheck dependencies
+cCompileC ../../xcodebuild/modules.build/Debug/remote_bitrate_estimator.build/Objects-normal/i386/bitrate_estimator.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/remote_bitrate_estimator/bitrate_estimator.cc normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../xcodebuild/modules.build/Debug/remote_bitrate_estimator.build/Objects-normal/i386/rtp_to_ntp.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/remote_bitrate_estimator/rtp_to_ntp.cc normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug/libremote_bitrate_estimator.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c000000005130312F00000000000000AA
+t1362112815
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/SDKSettings.plist
+c000000005261AE0C00000000000004B3
+t1382133260
+s1203
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005261AE0C00000000000001DE
+t1382133260
+s478
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/remote_bitrate_estimator/bitrate_estimator.cc
+c00000000525149C6000000000000074E
+t1381059014
+s1870
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/remote_bitrate_estimator/rtp_to_ntp.cc
+c00000000525149C600000000000011A6
+t1381059014
+s4518
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/Debug/libremote_bitrate_estimator.a
+t2
+s0
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/modules.build/Debug/remote_bitrate_estimator.build/Objects-normal/i386/bitrate_estimator.o
+t1382163989
+s53228
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/modules.build/Debug/remote_bitrate_estimator.build/Objects-normal/i386/remote_bitrate_estimator.LinkFileList
+c00000000526226150000000000000141
+t1382163989
+s321
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/modules.build/Debug/remote_bitrate_estimator.build/Objects-normal/i386/rtp_to_ntp.o
+t1382163989
+s32952
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesc7f222955d12b841^68cd23955d12b841^---0#1#1#--18"Check dependencies36"0A8F862E-109D-4C17-BC7B-B9CCAAD6E3F3-
+
+CCompileC ../../xcodebuild/modules.build/Debug/remote_bitrate_estimator.build/Objects-normal/i386/bitrate_estimator.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/remote_bitrate_estimator/bitrate_estimator.cc normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s403856789.140650
+e403856789.525184
+r1
+xCompileC
+x../../xcodebuild/modules.build/Debug/remote_bitrate_estimator.build/Objects-normal/i386/bitrate_estimator.o
+x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/remote_bitrate_estimator/bitrate_estimator.cc
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/remote_bitrate_estimator/bitrate_estimator.cc
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/remote_bitrate_estimator/bitrate_estimator.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/typedefs.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Compile /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/remote_bitrate_estimator/bitrate_estimator.cc238"[1mCompileC[0m ../../xcodebuild/modules.build/Debug/remote_bitrate_estimator.build/Objects-normal/i386/bitrate_estimator.o [1mremote_bitrate_estimator/bitrate_estimator.cc[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compilerea3e24955d12b841^977286955d12b841^---0#0#1#-19%DVTDocumentLocation2@138"file://localhost/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/remote_bitrate_estimator/bitrate_estimator.cc0000000000000000^3963"[1mCompileC[0m ../../xcodebuild/modules.build/Debug/remote_bitrate_estimator.build/Objects-normal/i386/bitrate_estimator.o [1mremote_bitrate_estimator/bitrate_estimator.cc[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules    setenv LANG en_US.US-ASCII    /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../third_party/llvm-build/Release+Asserts/bin/clang -x c++ -arch i386 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu++11 -Wno-trigraphs -fno-exceptions -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wnewline-eof -Wno-c++11-extensions -DANGLE_DX11 -DWEBRTC_SVNREVISION=\"Unavailable(issue687)\" -DCHROMIUM_BUILD -DUSE_LIBJPEG_TURBO=1 -DENABLE_ONE_CLICK_SIGNIN -DENABLE_REMOTING=1 -DENABLE_WEBRTC=1 -DENABLE_PEPPER_CDMS -DENABLE_CONFIGURATION_POLICY -DENABLE_INPUT_SPEECH -DENABLE_NOTIFICATIONS -DENABLE_HIDPI=1 -DENABLE_EGLIMAGE=1 -DENABLE_TASK_MANAGER=1 -DENABLE_EXTENSIONS=1 -DENABLE_PLUGIN_INSTALLATION=1 -DENABLE_PLUGINS=1 -DENABLE_SESSION_SERVICE=1 -DENABLE_THEMES=1 -DENABLE_AUTOFILL_DIALOG=1 -DENABLE_BACKGROUND=1 -DENABLE_AUTOMATION=1 -DENABLE_GOOGLE_NOW=1 -DENABLE_FULL_PRINTING=1 -DENABLE_PRINTING=1 -DENABLE_SPELLCHECK=1 -DENABLE_CAPTIVE_PORTAL_DETECTION=1 -DENABLE_APP_LIST=1 -DENABLE_SETTINGS_APP=1 -DENABLE_MANAGED_USERS=1 -DWEBRTC_LOGGING -DWEBRTC_MAC -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -DDYNAMIC_ANNOTATIONS_ENABLED=1 -DWTF_USE_DYNAMIC_ANNOTATIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.6 -g -fvisibility=hidden -fvisibility-inlines-hidden -fno-threadsafe-statics -Wno-sign-conversion -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug/include -I.. -I../.. -I../.. -I../system_wrappers/interface -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/remote_bitrate_estimator.build/DerivedSources/i386 -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/remote_bitrate_estimator.build/DerivedSources -Wall -Wendif-labels -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wheader-hygiene -Wno-c++11-narrowing -Wno-char-subscripts -Wno-unused-function -Wno-covered-switch-default -Wstring-conversion -Wno-deprecated-register -Wno-deprecated-declarations -F/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug -fno-strict-aliasing -fstack-protector-all -MMD -MT dependencies -MF /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/remote_bitrate_estimator.build/Objects-normal/i386/bitrate_estimator.d --serialize-diagnostics /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/remote_bitrate_estimator.build/Objects-normal/i386/bitrate_estimator.dia -c /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/remote_bitrate_estimator/bitrate_estimator.cc -o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/modules.build/Debug/remote_bitrate_estimator.build/Objects-normal/i386/bitrate_estimator.o36"755E333B-3F80-4455-BDAD-6763A6672384-
+b6894A8C3-E312-445B-A440-AE214A58944A
+
+CCompileC ../../xcodebuild/modules.build/Debug/remote_bitrate_estimator.build/Objects-normal/i386/rtp_to_ntp.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/remote_bitrate_estimator/rtp_to_ntp.cc normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s403856789.141797
+e403856789.482307
+r1
+xCompileC
+x../../xcodebuild/modules.build/Debug/remote_bitrate_estimator.build/Objects-normal/i386/rtp_to_ntp.o
+x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/remote_bitrate_estimator/rtp_to_ntp.cc
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/remote_bitrate_estimator/rtp_to_ntp.cc
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/remote_bitrate_estimator/include/rtp_to_ntp.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/typedefs.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/system_wrappers/interface/clock.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Compile /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/remote_bitrate_estimator/rtp_to_ntp.cc224"[1mCompileC[0m ../../xcodebuild/modules.build/Debug/remote_bitrate_estimator.build/Objects-normal/i386/rtp_to_ntp.o [1mremote_bitrate_estimator/rtp_to_ntp.cc[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler238324955d12b841^57787b955d12b841^---0#0#1#-19%DVTDocumentLocation2@131"file://localhost/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/remote_bitrate_estimator/rtp_to_ntp.cc0000000000000000^3921"[1mCompileC[0m ../../xcodebuild/modules.build/Debug/remote_bitrate_estimator.build/Objects-normal/i386/rtp_to_ntp.o [1mremote_bitrate_estimator/rtp_to_ntp.cc[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules    setenv LANG en_US.US-ASCII    /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../third_party/llvm-build/Release+Asserts/bin/clang -x c++ -arch i386 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu++11 -Wno-trigraphs -fno-exceptions -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wnewline-eof -Wno-c++11-extensions -DANGLE_DX11 -DWEBRTC_SVNREVISION=\"Unavailable(issue687)\" -DCHROMIUM_BUILD -DUSE_LIBJPEG_TURBO=1 -DENABLE_ONE_CLICK_SIGNIN -DENABLE_REMOTING=1 -DENABLE_WEBRTC=1 -DENABLE_PEPPER_CDMS -DENABLE_CONFIGURATION_POLICY -DENABLE_INPUT_SPEECH -DENABLE_NOTIFICATIONS -DENABLE_HIDPI=1 -DENABLE_EGLIMAGE=1 -DENABLE_TASK_MANAGER=1 -DENABLE_EXTENSIONS=1 -DENABLE_PLUGIN_INSTALLATION=1 -DENABLE_PLUGINS=1 -DENABLE_SESSION_SERVICE=1 -DENABLE_THEMES=1 -DENABLE_AUTOFILL_DIALOG=1 -DENABLE_BACKGROUND=1 -DENABLE_AUTOMATION=1 -DENABLE_GOOGLE_NOW=1 -DENABLE_FULL_PRINTING=1 -DENABLE_PRINTING=1 -DENABLE_SPELLCHECK=1 -DENABLE_CAPTIVE_PORTAL_DETECTION=1 -DENABLE_APP_LIST=1 -DENABLE_SETTINGS_APP=1 -DENABLE_MANAGED_USERS=1 -DWEBRTC_LOGGING -DWEBRTC_MAC -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -DDYNAMIC_ANNOTATIONS_ENABLED=1 -DWTF_USE_DYNAMIC_ANNOTATIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.6 -g -fvisibility=hidden -fvisibility-inlines-hidden -fno-threadsafe-statics -Wno-sign-conversion -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug/include -I.. -I../.. -I../.. -I../system_wrappers/interface -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/remote_bitrate_estimator.build/DerivedSources/i386 -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/remote_bitrate_estimator.build/DerivedSources -Wall -Wendif-labels -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wheader-hygiene -Wno-c++11-narrowing -Wno-char-subscripts -Wno-unused-function -Wno-covered-switch-default -Wstring-conversion -Wno-deprecated-register -Wno-deprecated-declarations -F/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug -fno-strict-aliasing -fstack-protector-all -MMD -MT dependencies -MF /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/remote_bitrate_estimator.build/Objects-normal/i386/rtp_to_ntp.d --serialize-diagnostics /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/remote_bitrate_estimator.build/Objects-normal/i386/rtp_to_ntp.dia -c /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/remote_bitrate_estimator/rtp_to_ntp.cc -o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/modules.build/Debug/remote_bitrate_estimator.build/Objects-normal/i386/rtp_to_ntp.o36"62F9625E-516F-4E72-BF7E-2EC34C0966C1-
+b6894A8C3-E312-445B-A440-AE214A58944A
+
+CLibtool /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug/libremote_bitrate_estimator.a normal i386
+s403856789.535032
+e403856789.547274
+r1
+xLibtool
+x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug/libremote_bitrate_estimator.a
+xnormal
+xi386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"[1mLibtool[0m ../../xcodebuild/Debug/libremote_bitrate_estimator.a normal i38680"[1mLibtool[0m ../../xcodebuild/Debug/libremote_bitrate_estimator.a normal i386682589955d12b841^691a8c955d12b841^---0#0#1#--888"[1mLibtool[0m ../../xcodebuild/Debug/libremote_bitrate_estimator.a normal i386    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug -filelist /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/modules.build/Debug/remote_bitrate_estimator.build/Objects-normal/i386/remote_bitrate_estimator.LinkFileList -o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/webrtc/modules/../../xcodebuild/Debug/libremote_bitrate_estimator.a36"F63DDA19-7C17-4CC6-B42D-47BDE76BAB70-
+b6894A8C3-E312-445B-A440-AE214A58944A
+

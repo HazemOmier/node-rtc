@@ -1,0 +1,4 @@
+ae7c86e42696806a864f6cd4e23fbb56 f8e827b17b689fa3f20afbfe20bba92c ffffffffffffffffffffffffffffffff 237016 /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/Debug/libmedia_file.a
+0000000052514c380000000000011b08 ff2b5630e8c4825e93677db6b37b80b1 ffffffffffffffffffffffffffffffff 80400 /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/modules.build/Debug/media_file.build/Objects-normal/i386/media_file_utility.o
+0000000052514c380000000000009d8b 9bc1f39005bd786e0e127bd5abc92c74 ffffffffffffffffffffffffffffffff 74560 /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/modules.build/Debug/media_file.build/Objects-normal/i386/media_file_impl.o
+0000000052514c38000000000000bb8a ca9623449aec229b1b3a6ab7fa8c2b88 ffffffffffffffffffffffffffffffff 71812 /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/modules.build/Debug/media_file.build/Objects-normal/i386/avi_file.o

@@ -1,0 +1,52 @@
+Tgen_asm_offsets_vp8
+v6
+r1
+cCheck dependencies
+cPhaseScriptExecution Action\ \"unpack_lib_posix\" /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/Debug/gen_asm_offsets_vp8.build/Script-3DD0ACBD0E79980E10E431BC.sh
+cPhaseScriptExecution Rule\ \"obj_int_extract\" /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/Debug/gen_asm_offsets_vp8.build/Script-69F4129ED78BADF875E75801.sh
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/unpack_lib_posix.sh
+c0000000052514DF4000000000000050C
+t1381060084
+s1292
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/libvpx.build/Debug/gen_asm_offsets_vp8.build/Script-3DD0ACBD0E79980E10E431BC.sh
+c00000000526225E1000000000000014F
+t1382163937
+s335
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/libvpx.build/Debug/gen_asm_offsets_vp8.build/Script-69F4129ED78BADF875E75801.sh
+c00000000526225E100000000000000E6
+t1382163937
+s230
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/libvpx.build/DerivedSources/Debug/vp8_asm_enc_offsets.o
+t1382163937
+s7344
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies944a14398812b841^20ec14398812b841^---0#1#1#--18"Check dependencies36"0FA1DFDC-F124-4891-B5D1-73DDECCE5B68-
+
+CPhaseScriptExecution Action\ \"unpack_lib_posix\" /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/Debug/gen_asm_offsets_vp8.build/Script-3DD0ACBD0E79980E10E431BC.sh
+s403867705.084050
+e403867705.177977
+r1
+xPhaseScriptExecution
+xAction "unpack_lib_posix"
+x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/Debug/gen_asm_offsets_vp8.build/Script-3DD0ACBD0E79980E10E431BC.sh
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Run custom shell script 'Action "unpack_lib_posix"'154"[1mPhaseScriptExecution[0m Action\ \"unpack_lib_posix\" ../../xcodebuild/libvpx.build/Debug/gen_asm_offsets_vp8.build/Script-3DD0ACBD0E79980E10E431BC.shaa2c16398812b841^6ebe2d398812b841^---0#0#1#--436"[1mPhaseScriptExecution[0m Action\ \"unpack_lib_posix\" ../../xcodebuild/libvpx.build/Debug/gen_asm_offsets_vp8.build/Script-3DD0ACBD0E79980E10E431BC.sh    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx    /bin/sh -c /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/Debug/gen_asm_offsets_vp8.build/Script-3DD0ACBD0E79980E10E431BC.sh36"71D7B16A-07AC-4D6F-A133-898FDCDD4E7A-
+b6EF709DB-1B2B-47A4-96B6-7BE4DEAAAF37
+
+CPhaseScriptExecution Rule\ \"obj_int_extract\" /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/Debug/gen_asm_offsets_vp8.build/Script-69F4129ED78BADF875E75801.sh
+s403867705.187779
+e403867705.279559
+r1
+xPhaseScriptExecution
+xRule "obj_int_extract"
+x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/Debug/gen_asm_offsets_vp8.build/Script-69F4129ED78BADF875E75801.sh
+onote: Generate assembly offsets /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/DerivedSources/Debug/vp8_asm_enc_offsets.o.
+o../../third_party/libvpx/obj_int_extract.sh -e "/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/Debug/libvpx_obj_int_extract" -f rvds -b "/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/DerivedSources/Debug/vp8_asm_enc_offsets.o" -o "/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/DerivedSources/Debug/third_party/libvpx/vp8_asm_enc_offsets.asm"
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Run custom shell script 'Rule "obj_int_extract"'151"[1mPhaseScriptExecution[0m Rule\ \"obj_int_extract\" ../../xcodebuild/libvpx.build/Debug/gen_asm_offsets_vp8.build/Script-69F4129ED78BADF875E75801.shcd9230398812b841^2ba147398812b841^-697"note: Generate assembly offsets /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/DerivedSources/Debug/vp8_asm_enc_offsets.o.../../third_party/libvpx/obj_int_extract.sh -e "/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/Debug/libvpx_obj_int_extract" -f rvds -b "/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/DerivedSources/Debug/vp8_asm_enc_offsets.o" -o "/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/DerivedSources/Debug/third_party/libvpx/vp8_asm_enc_offsets.asm"2(21%IDEActivityLogMessage2@180"Generate assembly offsets /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/DerivedSources/Debug/vp8_asm_enc_offsets.o.-403867705#0#187#-0#--30"Shell Script Invocation Notice--2@510"../../third_party/libvpx/obj_int_extract.sh -e "/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/Debug/libvpx_obj_int_extract" -f rvds -b "/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/DerivedSources/Debug/vp8_asm_enc_offsets.o" -o "/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/DerivedSources/Debug/third_party/libvpx/vp8_asm_enc_offsets.asm"-403867705#187#510#-0#-----0#0#1#--433"[1mPhaseScriptExecution[0m Rule\ \"obj_int_extract\" ../../xcodebuild/libvpx.build/Debug/gen_asm_offsets_vp8.build/Script-69F4129ED78BADF875E75801.sh    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx    /bin/sh -c /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/Debug/gen_asm_offsets_vp8.build/Script-69F4129ED78BADF875E75801.sh36"E8C97E36-37BF-439C-AF71-A868C779BC3A-
+b6EF709DB-1B2B-47A4-96B6-7BE4DEAAAF37
+

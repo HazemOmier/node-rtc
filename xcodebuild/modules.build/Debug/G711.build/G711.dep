@@ -1,0 +1,3 @@
+1025a09238adc40e86ec4b4e801bd316 0739db9536dca8118250030bfce710f7 ffffffffffffffffffffffffffffffff 13840 /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/Debug/libG711.a
+00000000525145590000000000000baf 1be39bc4d5bebfd49a05e9d09ffca02d ffffffffffffffffffffffffffffffff 3696 /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/modules.build/Debug/G711.build/Objects-normal/i386/g711.o
+000000005251455900000000000015ad 0bc63b56ee416f461ce9a29e1fe76c83 ffffffffffffffffffffffffffffffff 9680 /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/modules.build/Debug/G711.build/Objects-normal/i386/g711_interface.o

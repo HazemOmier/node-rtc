@@ -1,0 +1,146 @@
+Texpat
+v6
+r1
+cCheck dependencies
+cCompileC ../../xcodebuild/expat.build/Debug/expat.build/Objects-normal/i386/xmlparse.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/xmlparse.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../xcodebuild/expat.build/Debug/expat.build/Objects-normal/i386/xmlrole.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/xmlrole.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../xcodebuild/expat.build/Debug/expat.build/Objects-normal/i386/xmltok.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/xmltok.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/../../xcodebuild/Debug/libexpat.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c000000005130312F00000000000000AA
+t1362112815
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/SDKSettings.plist
+c000000005261AE0C00000000000004B3
+t1382133260
+s1203
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005261AE0C00000000000001DE
+t1382133260
+s478
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/xmlparse.c
+c0000000052514DAB000000000002F58E
+t1381060011
+s193934
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/xmlrole.c
+c0000000052514DAB0000000000007EDC
+t1381060011
+s32476
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/xmltok.c
+c0000000052514DAB000000000000A1C0
+t1381060011
+s41408
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/Debug/libexpat.a
+t2
+s0
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/expat.build/Debug/expat.build/Objects-normal/i386/expat.LinkFileList
+c00000000526224DC000000000000018F
+t1382163676
+s399
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/expat.build/Debug/expat.build/Objects-normal/i386/xmlparse.o
+t1382163677
+s156660
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/expat.build/Debug/expat.build/Objects-normal/i386/xmlrole.o
+t1382163676
+s42852
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/expat.build/Debug/expat.build/Objects-normal/i386/xmltok.o
+t1382163677
+s184536
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciese7c4565c5c12b841^f8f9575c5c12b841^---0#1#1#--18"Check dependencies36"9886F4CC-395C-4385-A97E-D0AAAE828091-
+
+CCompileC ../../xcodebuild/expat.build/Debug/expat.build/Objects-normal/i386/xmlparse.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/xmlparse.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s403856476.346905
+e403856477.112337
+r1
+xCompileC
+x../../xcodebuild/expat.build/Debug/expat.build/Objects-normal/i386/xmlparse.o
+x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/xmlparse.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/xmlparse.c
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/expat_config.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/ascii.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/expat.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/expat_external.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/internal.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/xmltok.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/xmlrole.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/xmlparse.c181"[1mCompileC[0m ../../xcodebuild/expat.build/Debug/expat.build/Objects-normal/i386/xmlparse.o [1mfiles/lib/xmlparse.c[0m normal i386 c com.apple.compilers.llvm.clang.1_0.compiler4207595c5c12b841^fdc11c5d5c12b841^---0#0#1#-19%DVTDocumentLocation2@116"file://localhost/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/xmlparse.c0000000000000000^3724"[1mCompileC[0m ../../xcodebuild/expat.build/Debug/expat.build/Objects-normal/i386/xmlparse.o [1mfiles/lib/xmlparse.c[0m normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat    setenv LANG en_US.US-ASCII    /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/../../third_party/llvm-build/Release+Asserts/bin/clang -x c -arch i386 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -D_LIB -DXML_STATIC -DANGLE_DX11 -DCHROMIUM_BUILD -DUSE_LIBJPEG_TURBO=1 -DENABLE_ONE_CLICK_SIGNIN -DENABLE_REMOTING=1 -DENABLE_WEBRTC=1 -DENABLE_PEPPER_CDMS -DENABLE_CONFIGURATION_POLICY -DENABLE_INPUT_SPEECH -DENABLE_NOTIFICATIONS -DENABLE_HIDPI=1 -DENABLE_EGLIMAGE=1 -DENABLE_TASK_MANAGER=1 -DENABLE_EXTENSIONS=1 -DENABLE_PLUGIN_INSTALLATION=1 -DENABLE_PLUGINS=1 -DENABLE_SESSION_SERVICE=1 -DENABLE_THEMES=1 -DENABLE_AUTOFILL_DIALOG=1 -DENABLE_BACKGROUND=1 -DENABLE_AUTOMATION=1 -DENABLE_GOOGLE_NOW=1 -DENABLE_FULL_PRINTING=1 -DENABLE_PRINTING=1 -DENABLE_SPELLCHECK=1 -DENABLE_CAPTIVE_PORTAL_DETECTION=1 -DENABLE_APP_LIST=1 -DENABLE_SETTINGS_APP=1 -DENABLE_MANAGED_USERS=1 -DHAVE_EXPAT_CONFIG_H -DDYNAMIC_ANNOTATIONS_ENABLED=1 -DWTF_USE_DYNAMIC_ANNOTATIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/../../xcodebuild/Debug/include -Ifiles/lib -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/../../xcodebuild/expat.build/Debug/expat.build/DerivedSources/i386 -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/../../xcodebuild/expat.build/Debug/expat.build/DerivedSources -Wendif-labels -Wno-unused-parameter -Wno-missing-field-initializers -Wheader-hygiene -Wno-c++11-narrowing -Wno-char-subscripts -Wno-unused-function -Wno-covered-switch-default -Wstring-conversion -Wno-deprecated-register -Wno-unused-const-variable -Wno-deprecated-declarations -F/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/../../xcodebuild/Debug -Xclang -load -Xclang /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/tools/clang/scripts/../../../third_party/llvm-build/Release+Asserts/lib/libFindBadConstructs.dylib -Xclang -add-plugin -Xclang find-bad-constructs -fno-strict-aliasing -fstack-protector-all -MMD -MT dependencies -MF /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/../../xcodebuild/expat.build/Debug/expat.build/Objects-normal/i386/xmlparse.d --serialize-diagnostics /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/../../xcodebuild/expat.build/Debug/expat.build/Objects-normal/i386/xmlparse.dia -c /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/xmlparse.c -o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/expat.build/Debug/expat.build/Objects-normal/i386/xmlparse.o36"74FB4CEA-C8CD-493C-B7D2-A8C09C39E040-
+b96F82FCE-8B61-45AF-A55D-6B4BC3B9C72F
+
+CCompileC ../../xcodebuild/expat.build/Debug/expat.build/Objects-normal/i386/xmlrole.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/xmlrole.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s403856476.348721
+e403856476.666242
+r1
+xCompileC
+x../../xcodebuild/expat.build/Debug/expat.build/Objects-normal/i386/xmlrole.o
+x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/xmlrole.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/xmlrole.c
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/expat_config.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/expat_external.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/internal.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/xmlrole.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/xmltok.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/ascii.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/xmlrole.c179"[1mCompileC[0m ../../xcodebuild/expat.build/Debug/expat.build/Objects-normal/i386/xmlrole.o [1mfiles/lib/xmlrole.c[0m normal i386 c com.apple.compilers.llvm.clang.1_0.compilerfa7b595c5c12b841^1cd0aa5c5c12b841^---0#0#1#-19%DVTDocumentLocation2@115"file://localhost/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/xmlrole.c0000000000000000^3718"[1mCompileC[0m ../../xcodebuild/expat.build/Debug/expat.build/Objects-normal/i386/xmlrole.o [1mfiles/lib/xmlrole.c[0m normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat    setenv LANG en_US.US-ASCII    /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/../../third_party/llvm-build/Release+Asserts/bin/clang -x c -arch i386 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -D_LIB -DXML_STATIC -DANGLE_DX11 -DCHROMIUM_BUILD -DUSE_LIBJPEG_TURBO=1 -DENABLE_ONE_CLICK_SIGNIN -DENABLE_REMOTING=1 -DENABLE_WEBRTC=1 -DENABLE_PEPPER_CDMS -DENABLE_CONFIGURATION_POLICY -DENABLE_INPUT_SPEECH -DENABLE_NOTIFICATIONS -DENABLE_HIDPI=1 -DENABLE_EGLIMAGE=1 -DENABLE_TASK_MANAGER=1 -DENABLE_EXTENSIONS=1 -DENABLE_PLUGIN_INSTALLATION=1 -DENABLE_PLUGINS=1 -DENABLE_SESSION_SERVICE=1 -DENABLE_THEMES=1 -DENABLE_AUTOFILL_DIALOG=1 -DENABLE_BACKGROUND=1 -DENABLE_AUTOMATION=1 -DENABLE_GOOGLE_NOW=1 -DENABLE_FULL_PRINTING=1 -DENABLE_PRINTING=1 -DENABLE_SPELLCHECK=1 -DENABLE_CAPTIVE_PORTAL_DETECTION=1 -DENABLE_APP_LIST=1 -DENABLE_SETTINGS_APP=1 -DENABLE_MANAGED_USERS=1 -DHAVE_EXPAT_CONFIG_H -DDYNAMIC_ANNOTATIONS_ENABLED=1 -DWTF_USE_DYNAMIC_ANNOTATIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/../../xcodebuild/Debug/include -Ifiles/lib -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/../../xcodebuild/expat.build/Debug/expat.build/DerivedSources/i386 -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/../../xcodebuild/expat.build/Debug/expat.build/DerivedSources -Wendif-labels -Wno-unused-parameter -Wno-missing-field-initializers -Wheader-hygiene -Wno-c++11-narrowing -Wno-char-subscripts -Wno-unused-function -Wno-covered-switch-default -Wstring-conversion -Wno-deprecated-register -Wno-unused-const-variable -Wno-deprecated-declarations -F/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/../../xcodebuild/Debug -Xclang -load -Xclang /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/tools/clang/scripts/../../../third_party/llvm-build/Release+Asserts/lib/libFindBadConstructs.dylib -Xclang -add-plugin -Xclang find-bad-constructs -fno-strict-aliasing -fstack-protector-all -MMD -MT dependencies -MF /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/../../xcodebuild/expat.build/Debug/expat.build/Objects-normal/i386/xmlrole.d --serialize-diagnostics /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/../../xcodebuild/expat.build/Debug/expat.build/Objects-normal/i386/xmlrole.dia -c /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/xmlrole.c -o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/expat.build/Debug/expat.build/Objects-normal/i386/xmlrole.o36"9628CC6C-CEDB-4A11-AFEB-D07DD671CF3A-
+b96F82FCE-8B61-45AF-A55D-6B4BC3B9C72F
+
+CCompileC ../../xcodebuild/expat.build/Debug/expat.build/Objects-normal/i386/xmltok.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/xmltok.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s403856476.668756
+e403856477.379547
+r1
+xCompileC
+x../../xcodebuild/expat.build/Debug/expat.build/Objects-normal/i386/xmltok.o
+x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/xmltok.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/xmltok.c
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/expat_config.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/expat_external.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/internal.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/xmltok.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/nametab.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/xmltok_impl.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/ascii.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/xmltok_impl.c
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/asciitab.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/utf8tab.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/iasciitab.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/latin1tab.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/xmltok_ns.c
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/xmltok.c177"[1mCompileC[0m ../../xcodebuild/expat.build/Debug/expat.build/Objects-normal/i386/xmltok.o [1mfiles/lib/xmltok.c[0m normal i386 c com.apple.compilers.llvm.clang.1_0.compilerd0b9ab5c5c12b841^d82a615d5c12b841^---0#0#1#-19%DVTDocumentLocation2@114"file://localhost/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/xmltok.c0000000000000000^3712"[1mCompileC[0m ../../xcodebuild/expat.build/Debug/expat.build/Objects-normal/i386/xmltok.o [1mfiles/lib/xmltok.c[0m normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat    setenv LANG en_US.US-ASCII    /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/../../third_party/llvm-build/Release+Asserts/bin/clang -x c -arch i386 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -D_LIB -DXML_STATIC -DANGLE_DX11 -DCHROMIUM_BUILD -DUSE_LIBJPEG_TURBO=1 -DENABLE_ONE_CLICK_SIGNIN -DENABLE_REMOTING=1 -DENABLE_WEBRTC=1 -DENABLE_PEPPER_CDMS -DENABLE_CONFIGURATION_POLICY -DENABLE_INPUT_SPEECH -DENABLE_NOTIFICATIONS -DENABLE_HIDPI=1 -DENABLE_EGLIMAGE=1 -DENABLE_TASK_MANAGER=1 -DENABLE_EXTENSIONS=1 -DENABLE_PLUGIN_INSTALLATION=1 -DENABLE_PLUGINS=1 -DENABLE_SESSION_SERVICE=1 -DENABLE_THEMES=1 -DENABLE_AUTOFILL_DIALOG=1 -DENABLE_BACKGROUND=1 -DENABLE_AUTOMATION=1 -DENABLE_GOOGLE_NOW=1 -DENABLE_FULL_PRINTING=1 -DENABLE_PRINTING=1 -DENABLE_SPELLCHECK=1 -DENABLE_CAPTIVE_PORTAL_DETECTION=1 -DENABLE_APP_LIST=1 -DENABLE_SETTINGS_APP=1 -DENABLE_MANAGED_USERS=1 -DHAVE_EXPAT_CONFIG_H -DDYNAMIC_ANNOTATIONS_ENABLED=1 -DWTF_USE_DYNAMIC_ANNOTATIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/../../xcodebuild/Debug/include -Ifiles/lib -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/../../xcodebuild/expat.build/Debug/expat.build/DerivedSources/i386 -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/../../xcodebuild/expat.build/Debug/expat.build/DerivedSources -Wendif-labels -Wno-unused-parameter -Wno-missing-field-initializers -Wheader-hygiene -Wno-c++11-narrowing -Wno-char-subscripts -Wno-unused-function -Wno-covered-switch-default -Wstring-conversion -Wno-deprecated-register -Wno-unused-const-variable -Wno-deprecated-declarations -F/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/../../xcodebuild/Debug -Xclang -load -Xclang /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/tools/clang/scripts/../../../third_party/llvm-build/Release+Asserts/lib/libFindBadConstructs.dylib -Xclang -add-plugin -Xclang find-bad-constructs -fno-strict-aliasing -fstack-protector-all -MMD -MT dependencies -MF /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/../../xcodebuild/expat.build/Debug/expat.build/Objects-normal/i386/xmltok.d --serialize-diagnostics /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/../../xcodebuild/expat.build/Debug/expat.build/Objects-normal/i386/xmltok.dia -c /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/files/lib/xmltok.c -o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/expat.build/Debug/expat.build/Objects-normal/i386/xmltok.o36"EB6E0508-80BA-4C8E-AE74-FF1FE80EB8BE-
+b96F82FCE-8B61-45AF-A55D-6B4BC3B9C72F
+
+CLibtool /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/../../xcodebuild/Debug/libexpat.a normal i386
+s403856477.388498
+e403856477.403386
+r1
+xLibtool
+x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/../../xcodebuild/Debug/libexpat.a
+xnormal
+xi386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"[1mLibtool[0m ../../xcodebuild/Debug/libexpat.a normal i38661"[1mLibtool[0m ../../xcodebuild/Debug/libexpat.a normal i386cf9e635d5c12b841^4e44675d5c12b841^---0#0#1#--822"[1mLibtool[0m ../../xcodebuild/Debug/libexpat.a normal i386    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/../../xcodebuild/Debug -filelist /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/../../xcodebuild/expat.build/Debug/expat.build/Objects-normal/i386/expat.LinkFileList -o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/expat/../../xcodebuild/Debug/libexpat.a36"1AA30FCD-21DF-40D2-9448-CA958CF8902B-
+b96F82FCE-8B61-45AF-A55D-6B4BC3B9C72F
+

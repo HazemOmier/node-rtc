@@ -1,0 +1,4 @@
+000000000000000300000000000024a8 073b9a1d6f20fea67d84802f10aab9a0 ffffffffffffffffffffffffffffffff 0 /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/DerivedSources/Debug/third_party/yasm/version.mac
+00000000003368b700000000000476cb dc077e0f01e454fc7cfab659b2cb78f5 ffffffffffffffffffffffffffffffff 0 /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/DerivedSources/Debug/third_party/yasm/x86insn_nasm.gperf
+00000000003368b700000000000476cb dc077e0f01e454fc7cfab659b2cb78f5 ffffffffffffffffffffffffffffffff 0 /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/DerivedSources/Debug/third_party/yasm/x86insn_gas.gperf
+00000000003368b700000000000476cb dc077e0f01e454fc7cfab659b2cb78f5 ffffffffffffffffffffffffffffffff 0 /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/DerivedSources/Debug/third_party/yasm/x86insns.c

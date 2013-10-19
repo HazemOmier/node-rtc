@@ -1,0 +1,4 @@
+ea1061fd0fabb93f4757be8c539ca494 581806f448079d6cefa395403fe1c82a ffffffffffffffffffffffffffffffff 0 /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/Debug/libjsoncpp.a
+0000000052514db10000000000005460 dc5b70422967f6a64e12b9fd30225cb0 ffffffffffffffffffffffffffffffff 147136 /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/jsoncpp.build/Debug/jsoncpp.build/Objects-normal/i386/json_writer.o
+0000000052514daa000000000000a922 19229c9c4df1e3192330763f9bc5efd8 ffffffffffffffffffffffffffffffff 336908 /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/jsoncpp.build/Debug/jsoncpp.build/Objects-normal/i386/json_value.o
+0000000052514db10000000000005315 2f698d233a3ef4d82a75714ef87bb8a7 ffffffffffffffffffffffffffffffff 266372 /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/jsoncpp.build/Debug/jsoncpp.build/Objects-normal/i386/json_reader.o

@@ -1,0 +1,386 @@
+Tlibvpx_intrinsics_sse2
+v6
+r1
+cCheck dependencies
+cCompileC ../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/idct_blk_sse2.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/x86/idct_blk_sse2.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/recon_wrapper_sse2.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/x86/recon_wrapper_sse2.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/variance_sse2.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/x86/variance_sse2.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/denoising_sse2.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/encoder/x86/denoising_sse2.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/quantize_sse2.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/encoder/x86/quantize_sse2.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/vp8_enc_stubs_sse2.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/encoder/x86/vp8_enc_stubs_sse2.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/vp9_idct_intrin_sse2.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp9/common/x86/vp9_idct_intrin_sse2.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/vp9_loopfilter_intrin_sse2.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp9/common/x86/vp9_loopfilter_intrin_sse2.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/vp9_dequantize_sse2.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp9/decoder/x86/vp9_dequantize_sse2.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/Debug/libvpx_intrinsics_sse2.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c000000005130312F00000000000000AA
+t1362112815
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/SDKSettings.plist
+c000000005261AE0C00000000000004B3
+t1382133260
+s1203
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005261AE0C00000000000001DE
+t1382133260
+s478
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/x86/idct_blk_sse2.c
+c0000000052514DB50000000000000A2D
+t1381060021
+s2605
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/x86/recon_wrapper_sse2.c
+c0000000052514DB5000000000000225F
+t1381060021
+s8799
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/x86/variance_sse2.c
+c0000000052514DB50000000000003884
+t1381060021
+s14468
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/encoder/x86/denoising_sse2.c
+c0000000052514DBB00000000000012FB
+t1381060027
+s4859
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/encoder/x86/quantize_sse2.c
+c0000000052514DBB0000000000001CAF
+t1381060027
+s7343
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/encoder/x86/vp8_enc_stubs_sse2.c
+c0000000052514DBB00000000000005F7
+t1381060027
+s1527
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp9/common/x86/vp9_idct_intrin_sse2.c
+c0000000052514DBF0000000000022BDC
+t1381060031
+s142300
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp9/common/x86/vp9_loopfilter_intrin_sse2.c
+c0000000052514DBF000000000000D98A
+t1381060031
+s55690
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp9/decoder/x86/vp9_dequantize_sse2.c
+c0000000052514DBE0000000000002195
+t1381060030
+s8597
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/Debug/libvpx_intrinsics_sse2.a
+t2
+s0
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/denoising_sse2.o
+t1382163950
+s15032
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/idct_blk_sse2.o
+t1382163949
+s4332
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/quantize_sse2.o
+t1382163950
+s14792
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/recon_wrapper_sse2.o
+t1382163949
+s12868
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/variance_sse2.o
+t1382163949
+s13680
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/vp8_enc_stubs_sse2.o
+t1382163950
+s12620
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/vp9_dequantize_sse2.o
+t1382163951
+s12124
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/vp9_idct_intrin_sse2.o
+t1382163952
+s302868
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/vp9_loopfilter_intrin_sse2.o
+t1382163950
+s69648
+
+N/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/vpx_intrinsics_sse2.LinkFileList
+c00000000526225ED00000000000005AA
+t1382163949
+s1450
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies59dab56d5d12b841^a60db76d5d12b841^---0#1#1#--18"Check dependencies36"760A6481-3C9A-43E7-B71F-EC0D825F3CCD-
+
+CCompileC ../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/denoising_sse2.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/encoder/x86/denoising_sse2.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s403856749.866972
+e403856750.094534
+r1
+xCompileC
+x../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/denoising_sse2.o
+x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/encoder/x86/denoising_sse2.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/encoder/x86/denoising_sse2.c
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/encoder/denoising.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/encoder/block.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/onyx.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/config/mac/ia32/vpx_config.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx/internal/vpx_codec_internal.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx/vpx_decoder.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx/vpx_codec.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx/vpx_integer.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx/vpx_image.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx/vpx_encoder.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx/vp8cx.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx/vp8.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx/vpx_codec_impl_top.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx/vpx_codec_impl_bottom.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx_scale/yv12config.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/ppflags.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/blockd.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/mv.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/treecoder.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx_ports/mem.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/entropymv.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/entropy.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/reconinter.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx_mem/vpx_mem.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/config/mac/ia32/vp8_rtcd.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx_ports/emmintrin_compat.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection135"Compile /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/encoder/x86/denoising_sse2.c231"[1mCompileC[0m ../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/denoising_sse2.o [1msource/libvpx/vp8/encoder/x86/denoising_sse2.c[0m normal i386 c com.apple.compilers.llvm.clang.1_0.compiler672cde6d5d12b841^5133186e5d12b841^---0#0#1#-19%DVTDocumentLocation2@143"file://localhost/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/encoder/x86/denoising_sse2.c0000000000000000^3911"[1mCompileC[0m ../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/denoising_sse2.o [1msource/libvpx/vp8/encoder/x86/denoising_sse2.c[0m normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx    setenv LANG en_US.US-ASCII    /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../third_party/llvm-build/Release+Asserts/bin/clang -x c -arch i386 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -DANGLE_DX11 -DCHROMIUM_BUILD -DUSE_LIBJPEG_TURBO=1 -DENABLE_ONE_CLICK_SIGNIN -DENABLE_REMOTING=1 -DENABLE_WEBRTC=1 -DENABLE_PEPPER_CDMS -DENABLE_CONFIGURATION_POLICY -DENABLE_INPUT_SPEECH -DENABLE_NOTIFICATIONS -DENABLE_HIDPI=1 -DENABLE_EGLIMAGE=1 -DENABLE_TASK_MANAGER=1 -DENABLE_EXTENSIONS=1 -DENABLE_PLUGIN_INSTALLATION=1 -DENABLE_PLUGINS=1 -DENABLE_SESSION_SERVICE=1 -DENABLE_THEMES=1 -DENABLE_AUTOFILL_DIALOG=1 -DENABLE_BACKGROUND=1 -DENABLE_AUTOMATION=1 -DENABLE_GOOGLE_NOW=1 -DENABLE_FULL_PRINTING=1 -DENABLE_PRINTING=1 -DENABLE_SPELLCHECK=1 -DENABLE_CAPTIVE_PORTAL_DETECTION=1 -DENABLE_APP_LIST=1 -DENABLE_SETTINGS_APP=1 -DENABLE_MANAGED_USERS=1 -DDYNAMIC_ANNOTATIONS_ENABLED=1 -DWTF_USE_DYNAMIC_ANNOTATIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/Debug/include -Isource/config/mac/ia32 -Isource/libvpx -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/DerivedSources/i386 -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/DerivedSources -Wendif-labels -Wno-unused-parameter -Wno-missing-field-initializers -Wheader-hygiene -Wno-c++11-narrowing -Wno-char-subscripts -Wno-unused-function -Wno-covered-switch-default -Wstring-conversion -Wno-deprecated-register -Wno-unused-const-variable -Wno-deprecated-declarations -F/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/Debug -Xclang -load -Xclang /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/tools/clang/scripts/../../../third_party/llvm-build/Release+Asserts/lib/libFindBadConstructs.dylib -Xclang -add-plugin -Xclang find-bad-constructs -fno-strict-aliasing -msse2 -fstack-protector-all -MMD -MT dependencies -MF /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/denoising_sse2.d --serialize-diagnostics /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/denoising_sse2.dia -c /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/encoder/x86/denoising_sse2.c -o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/denoising_sse2.o36"EA1959A9-33A6-46BD-A744-1796216715BF-
+b9CE75D2A-3426-4D53-B3CE-853EB3643503
+
+CCompileC ../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/idct_blk_sse2.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/x86/idct_blk_sse2.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s403856749.715488
+e403856749.784937
+r1
+xCompileC
+x../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/idct_blk_sse2.o
+x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/x86/idct_blk_sse2.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/x86/idct_blk_sse2.c
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/config/mac/ia32/vpx_config.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/config/mac/ia32/vp8_rtcd.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Compile /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/x86/idct_blk_sse2.c228"[1mCompileC[0m ../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/idct_blk_sse2.o [1msource/libvpx/vp8/common/x86/idct_blk_sse2.c[0m normal i386 c com.apple.compilers.llvm.clang.1_0.compiler9d68b76d5d12b841^abcfc96d5d12b841^---0#0#1#-19%DVTDocumentLocation2@141"file://localhost/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/x86/idct_blk_sse2.c0000000000000000^3903"[1mCompileC[0m ../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/idct_blk_sse2.o [1msource/libvpx/vp8/common/x86/idct_blk_sse2.c[0m normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx    setenv LANG en_US.US-ASCII    /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../third_party/llvm-build/Release+Asserts/bin/clang -x c -arch i386 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -DANGLE_DX11 -DCHROMIUM_BUILD -DUSE_LIBJPEG_TURBO=1 -DENABLE_ONE_CLICK_SIGNIN -DENABLE_REMOTING=1 -DENABLE_WEBRTC=1 -DENABLE_PEPPER_CDMS -DENABLE_CONFIGURATION_POLICY -DENABLE_INPUT_SPEECH -DENABLE_NOTIFICATIONS -DENABLE_HIDPI=1 -DENABLE_EGLIMAGE=1 -DENABLE_TASK_MANAGER=1 -DENABLE_EXTENSIONS=1 -DENABLE_PLUGIN_INSTALLATION=1 -DENABLE_PLUGINS=1 -DENABLE_SESSION_SERVICE=1 -DENABLE_THEMES=1 -DENABLE_AUTOFILL_DIALOG=1 -DENABLE_BACKGROUND=1 -DENABLE_AUTOMATION=1 -DENABLE_GOOGLE_NOW=1 -DENABLE_FULL_PRINTING=1 -DENABLE_PRINTING=1 -DENABLE_SPELLCHECK=1 -DENABLE_CAPTIVE_PORTAL_DETECTION=1 -DENABLE_APP_LIST=1 -DENABLE_SETTINGS_APP=1 -DENABLE_MANAGED_USERS=1 -DDYNAMIC_ANNOTATIONS_ENABLED=1 -DWTF_USE_DYNAMIC_ANNOTATIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/Debug/include -Isource/config/mac/ia32 -Isource/libvpx -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/DerivedSources/i386 -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/DerivedSources -Wendif-labels -Wno-unused-parameter -Wno-missing-field-initializers -Wheader-hygiene -Wno-c++11-narrowing -Wno-char-subscripts -Wno-unused-function -Wno-covered-switch-default -Wstring-conversion -Wno-deprecated-register -Wno-unused-const-variable -Wno-deprecated-declarations -F/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/Debug -Xclang -load -Xclang /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/tools/clang/scripts/../../../third_party/llvm-build/Release+Asserts/lib/libFindBadConstructs.dylib -Xclang -add-plugin -Xclang find-bad-constructs -fno-strict-aliasing -msse2 -fstack-protector-all -MMD -MT dependencies -MF /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/idct_blk_sse2.d --serialize-diagnostics /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/idct_blk_sse2.dia -c /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/x86/idct_blk_sse2.c -o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/idct_blk_sse2.o36"3666499A-5500-4E89-8E23-09004D95614E-
+b9CE75D2A-3426-4D53-B3CE-853EB3643503
+
+CCompileC ../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/quantize_sse2.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/encoder/x86/quantize_sse2.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s403856749.897815
+e403856750.222928
+r1
+xCompileC
+x../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/quantize_sse2.o
+x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/encoder/x86/quantize_sse2.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/encoder/x86/quantize_sse2.c
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/config/mac/ia32/vpx_config.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/config/mac/ia32/vp8_rtcd.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx_ports/x86.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx_mem/vpx_mem.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/encoder/block.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/onyx.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx/internal/vpx_codec_internal.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx/vpx_decoder.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx/vpx_codec.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx/vpx_integer.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx/vpx_image.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx/vpx_encoder.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx/vp8cx.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx/vp8.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx/vpx_codec_impl_top.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx/vpx_codec_impl_bottom.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx_scale/yv12config.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/ppflags.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/blockd.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/mv.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/treecoder.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx_ports/mem.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/entropymv.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/entropy.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Compile /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/encoder/x86/quantize_sse2.c229"[1mCompileC[0m ../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/quantize_sse2.o [1msource/libvpx/vp8/encoder/x86/quantize_sse2.c[0m normal i386 c com.apple.compilers.llvm.clang.1_0.compilercb11e66d5d12b841^1c42396e5d12b841^---0#0#1#-19%DVTDocumentLocation2@142"file://localhost/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/encoder/x86/quantize_sse2.c0000000000000000^3905"[1mCompileC[0m ../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/quantize_sse2.o [1msource/libvpx/vp8/encoder/x86/quantize_sse2.c[0m normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx    setenv LANG en_US.US-ASCII    /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../third_party/llvm-build/Release+Asserts/bin/clang -x c -arch i386 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -DANGLE_DX11 -DCHROMIUM_BUILD -DUSE_LIBJPEG_TURBO=1 -DENABLE_ONE_CLICK_SIGNIN -DENABLE_REMOTING=1 -DENABLE_WEBRTC=1 -DENABLE_PEPPER_CDMS -DENABLE_CONFIGURATION_POLICY -DENABLE_INPUT_SPEECH -DENABLE_NOTIFICATIONS -DENABLE_HIDPI=1 -DENABLE_EGLIMAGE=1 -DENABLE_TASK_MANAGER=1 -DENABLE_EXTENSIONS=1 -DENABLE_PLUGIN_INSTALLATION=1 -DENABLE_PLUGINS=1 -DENABLE_SESSION_SERVICE=1 -DENABLE_THEMES=1 -DENABLE_AUTOFILL_DIALOG=1 -DENABLE_BACKGROUND=1 -DENABLE_AUTOMATION=1 -DENABLE_GOOGLE_NOW=1 -DENABLE_FULL_PRINTING=1 -DENABLE_PRINTING=1 -DENABLE_SPELLCHECK=1 -DENABLE_CAPTIVE_PORTAL_DETECTION=1 -DENABLE_APP_LIST=1 -DENABLE_SETTINGS_APP=1 -DENABLE_MANAGED_USERS=1 -DDYNAMIC_ANNOTATIONS_ENABLED=1 -DWTF_USE_DYNAMIC_ANNOTATIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/Debug/include -Isource/config/mac/ia32 -Isource/libvpx -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/DerivedSources/i386 -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/DerivedSources -Wendif-labels -Wno-unused-parameter -Wno-missing-field-initializers -Wheader-hygiene -Wno-c++11-narrowing -Wno-char-subscripts -Wno-unused-function -Wno-covered-switch-default -Wstring-conversion -Wno-deprecated-register -Wno-unused-const-variable -Wno-deprecated-declarations -F/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/Debug -Xclang -load -Xclang /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/tools/clang/scripts/../../../third_party/llvm-build/Release+Asserts/lib/libFindBadConstructs.dylib -Xclang -add-plugin -Xclang find-bad-constructs -fno-strict-aliasing -msse2 -fstack-protector-all -MMD -MT dependencies -MF /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/quantize_sse2.d --serialize-diagnostics /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/quantize_sse2.dia -c /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/encoder/x86/quantize_sse2.c -o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/quantize_sse2.o36"0A45A57A-AF8A-49DE-A47F-AE5EF4CBAB9D-
+b9CE75D2A-3426-4D53-B3CE-853EB3643503
+
+CCompileC ../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/recon_wrapper_sse2.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/x86/recon_wrapper_sse2.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s403856749.716727
+e403856749.865219
+r1
+xCompileC
+x../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/recon_wrapper_sse2.o
+x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/x86/recon_wrapper_sse2.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/x86/recon_wrapper_sse2.c
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/config/mac/ia32/vpx_config.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/config/mac/ia32/vp8_rtcd.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx_mem/vpx_mem.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/blockd.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx_scale/yv12config.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx/vpx_integer.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/mv.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/treecoder.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx_ports/mem.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection138"Compile /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/x86/recon_wrapper_sse2.c238"[1mCompileC[0m ../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/recon_wrapper_sse2.o [1msource/libvpx/vp8/common/x86/recon_wrapper_sse2.c[0m normal i386 c com.apple.compilers.llvm.clang.1_0.compiler58aeb76d5d12b841^aa7edd6d5d12b841^---0#0#1#-19%DVTDocumentLocation2@146"file://localhost/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/x86/recon_wrapper_sse2.c0000000000000000^3933"[1mCompileC[0m ../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/recon_wrapper_sse2.o [1msource/libvpx/vp8/common/x86/recon_wrapper_sse2.c[0m normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx    setenv LANG en_US.US-ASCII    /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../third_party/llvm-build/Release+Asserts/bin/clang -x c -arch i386 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -DANGLE_DX11 -DCHROMIUM_BUILD -DUSE_LIBJPEG_TURBO=1 -DENABLE_ONE_CLICK_SIGNIN -DENABLE_REMOTING=1 -DENABLE_WEBRTC=1 -DENABLE_PEPPER_CDMS -DENABLE_CONFIGURATION_POLICY -DENABLE_INPUT_SPEECH -DENABLE_NOTIFICATIONS -DENABLE_HIDPI=1 -DENABLE_EGLIMAGE=1 -DENABLE_TASK_MANAGER=1 -DENABLE_EXTENSIONS=1 -DENABLE_PLUGIN_INSTALLATION=1 -DENABLE_PLUGINS=1 -DENABLE_SESSION_SERVICE=1 -DENABLE_THEMES=1 -DENABLE_AUTOFILL_DIALOG=1 -DENABLE_BACKGROUND=1 -DENABLE_AUTOMATION=1 -DENABLE_GOOGLE_NOW=1 -DENABLE_FULL_PRINTING=1 -DENABLE_PRINTING=1 -DENABLE_SPELLCHECK=1 -DENABLE_CAPTIVE_PORTAL_DETECTION=1 -DENABLE_APP_LIST=1 -DENABLE_SETTINGS_APP=1 -DENABLE_MANAGED_USERS=1 -DDYNAMIC_ANNOTATIONS_ENABLED=1 -DWTF_USE_DYNAMIC_ANNOTATIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/Debug/include -Isource/config/mac/ia32 -Isource/libvpx -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/DerivedSources/i386 -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/DerivedSources -Wendif-labels -Wno-unused-parameter -Wno-missing-field-initializers -Wheader-hygiene -Wno-c++11-narrowing -Wno-char-subscripts -Wno-unused-function -Wno-covered-switch-default -Wstring-conversion -Wno-deprecated-register -Wno-unused-const-variable -Wno-deprecated-declarations -F/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/Debug -Xclang -load -Xclang /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/tools/clang/scripts/../../../third_party/llvm-build/Release+Asserts/lib/libFindBadConstructs.dylib -Xclang -add-plugin -Xclang find-bad-constructs -fno-strict-aliasing -msse2 -fstack-protector-all -MMD -MT dependencies -MF /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/recon_wrapper_sse2.d --serialize-diagnostics /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/recon_wrapper_sse2.dia -c /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/x86/recon_wrapper_sse2.c -o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/recon_wrapper_sse2.o36"DBA436B8-4EA9-407C-A2F9-DC42B75BA33E-
+b9CE75D2A-3426-4D53-B3CE-853EB3643503
+
+CCompileC ../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/variance_sse2.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/x86/variance_sse2.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s403856749.786491
+e403856749.895220
+r1
+xCompileC
+x../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/variance_sse2.o
+x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/x86/variance_sse2.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/x86/variance_sse2.c
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/config/mac/ia32/vpx_config.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/variance.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/pragmas.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx_ports/mem.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx/vpx_integer.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/x86/filter_x86.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Compile /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/x86/variance_sse2.c228"[1mCompileC[0m ../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/variance_sse2.o [1msource/libvpx/vp8/common/x86/variance_sse2.c[0m normal i386 c com.apple.compilers.llvm.clang.1_0.compiler3292c96d5d12b841^5b43e56d5d12b841^---0#0#1#-19%DVTDocumentLocation2@141"file://localhost/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/x86/variance_sse2.c0000000000000000^3903"[1mCompileC[0m ../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/variance_sse2.o [1msource/libvpx/vp8/common/x86/variance_sse2.c[0m normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx    setenv LANG en_US.US-ASCII    /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../third_party/llvm-build/Release+Asserts/bin/clang -x c -arch i386 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -DANGLE_DX11 -DCHROMIUM_BUILD -DUSE_LIBJPEG_TURBO=1 -DENABLE_ONE_CLICK_SIGNIN -DENABLE_REMOTING=1 -DENABLE_WEBRTC=1 -DENABLE_PEPPER_CDMS -DENABLE_CONFIGURATION_POLICY -DENABLE_INPUT_SPEECH -DENABLE_NOTIFICATIONS -DENABLE_HIDPI=1 -DENABLE_EGLIMAGE=1 -DENABLE_TASK_MANAGER=1 -DENABLE_EXTENSIONS=1 -DENABLE_PLUGIN_INSTALLATION=1 -DENABLE_PLUGINS=1 -DENABLE_SESSION_SERVICE=1 -DENABLE_THEMES=1 -DENABLE_AUTOFILL_DIALOG=1 -DENABLE_BACKGROUND=1 -DENABLE_AUTOMATION=1 -DENABLE_GOOGLE_NOW=1 -DENABLE_FULL_PRINTING=1 -DENABLE_PRINTING=1 -DENABLE_SPELLCHECK=1 -DENABLE_CAPTIVE_PORTAL_DETECTION=1 -DENABLE_APP_LIST=1 -DENABLE_SETTINGS_APP=1 -DENABLE_MANAGED_USERS=1 -DDYNAMIC_ANNOTATIONS_ENABLED=1 -DWTF_USE_DYNAMIC_ANNOTATIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/Debug/include -Isource/config/mac/ia32 -Isource/libvpx -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/DerivedSources/i386 -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/DerivedSources -Wendif-labels -Wno-unused-parameter -Wno-missing-field-initializers -Wheader-hygiene -Wno-c++11-narrowing -Wno-char-subscripts -Wno-unused-function -Wno-covered-switch-default -Wstring-conversion -Wno-deprecated-register -Wno-unused-const-variable -Wno-deprecated-declarations -F/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/Debug -Xclang -load -Xclang /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/tools/clang/scripts/../../../third_party/llvm-build/Release+Asserts/lib/libFindBadConstructs.dylib -Xclang -add-plugin -Xclang find-bad-constructs -fno-strict-aliasing -msse2 -fstack-protector-all -MMD -MT dependencies -MF /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/variance_sse2.d --serialize-diagnostics /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/variance_sse2.dia -c /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/x86/variance_sse2.c -o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/variance_sse2.o36"F9E4422C-EC3D-4028-8E62-FCB32F27857B-
+b9CE75D2A-3426-4D53-B3CE-853EB3643503
+
+CCompileC ../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/vp8_enc_stubs_sse2.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/encoder/x86/vp8_enc_stubs_sse2.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s403856750.096209
+e403856750.203393
+r1
+xCompileC
+x../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/vp8_enc_stubs_sse2.o
+x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/encoder/x86/vp8_enc_stubs_sse2.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/encoder/x86/vp8_enc_stubs_sse2.c
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/config/mac/ia32/vpx_config.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/config/mac/ia32/vp8_rtcd.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx_ports/x86.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/encoder/block.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/onyx.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx/internal/vpx_codec_internal.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx/vpx_decoder.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx/vpx_codec.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx/vpx_integer.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx/vpx_image.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx/vpx_encoder.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx/vp8cx.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx/vp8.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx/vpx_codec_impl_top.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx/vpx_codec_impl_bottom.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx_scale/yv12config.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/ppflags.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/blockd.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/mv.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/treecoder.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx_ports/mem.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/entropymv.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/common/entropy.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection139"Compile /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/encoder/x86/vp8_enc_stubs_sse2.c239"[1mCompileC[0m ../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/vp8_enc_stubs_sse2.o [1msource/libvpx/vp8/encoder/x86/vp8_enc_stubs_sse2.c[0m normal i386 c com.apple.compilers.llvm.clang.1_0.compilerb2da186e5d12b841^5e11346e5d12b841^---0#0#1#-19%DVTDocumentLocation2@147"file://localhost/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/encoder/x86/vp8_enc_stubs_sse2.c0000000000000000^3935"[1mCompileC[0m ../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/vp8_enc_stubs_sse2.o [1msource/libvpx/vp8/encoder/x86/vp8_enc_stubs_sse2.c[0m normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx    setenv LANG en_US.US-ASCII    /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../third_party/llvm-build/Release+Asserts/bin/clang -x c -arch i386 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -DANGLE_DX11 -DCHROMIUM_BUILD -DUSE_LIBJPEG_TURBO=1 -DENABLE_ONE_CLICK_SIGNIN -DENABLE_REMOTING=1 -DENABLE_WEBRTC=1 -DENABLE_PEPPER_CDMS -DENABLE_CONFIGURATION_POLICY -DENABLE_INPUT_SPEECH -DENABLE_NOTIFICATIONS -DENABLE_HIDPI=1 -DENABLE_EGLIMAGE=1 -DENABLE_TASK_MANAGER=1 -DENABLE_EXTENSIONS=1 -DENABLE_PLUGIN_INSTALLATION=1 -DENABLE_PLUGINS=1 -DENABLE_SESSION_SERVICE=1 -DENABLE_THEMES=1 -DENABLE_AUTOFILL_DIALOG=1 -DENABLE_BACKGROUND=1 -DENABLE_AUTOMATION=1 -DENABLE_GOOGLE_NOW=1 -DENABLE_FULL_PRINTING=1 -DENABLE_PRINTING=1 -DENABLE_SPELLCHECK=1 -DENABLE_CAPTIVE_PORTAL_DETECTION=1 -DENABLE_APP_LIST=1 -DENABLE_SETTINGS_APP=1 -DENABLE_MANAGED_USERS=1 -DDYNAMIC_ANNOTATIONS_ENABLED=1 -DWTF_USE_DYNAMIC_ANNOTATIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/Debug/include -Isource/config/mac/ia32 -Isource/libvpx -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/DerivedSources/i386 -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/DerivedSources -Wendif-labels -Wno-unused-parameter -Wno-missing-field-initializers -Wheader-hygiene -Wno-c++11-narrowing -Wno-char-subscripts -Wno-unused-function -Wno-covered-switch-default -Wstring-conversion -Wno-deprecated-register -Wno-unused-const-variable -Wno-deprecated-declarations -F/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/Debug -Xclang -load -Xclang /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/tools/clang/scripts/../../../third_party/llvm-build/Release+Asserts/lib/libFindBadConstructs.dylib -Xclang -add-plugin -Xclang find-bad-constructs -fno-strict-aliasing -msse2 -fstack-protector-all -MMD -MT dependencies -MF /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/vp8_enc_stubs_sse2.d --serialize-diagnostics /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/vp8_enc_stubs_sse2.dia -c /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp8/encoder/x86/vp8_enc_stubs_sse2.c -o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/vp8_enc_stubs_sse2.o36"4C5B6D1B-5560-4F9A-9748-A440F9AA559A-
+b9CE75D2A-3426-4D53-B3CE-853EB3643503
+
+CCompileC ../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/vp9_dequantize_sse2.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp9/decoder/x86/vp9_dequantize_sse2.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s403856751.154140
+e403856751.323974
+r1
+xCompileC
+x../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/vp9_dequantize_sse2.o
+x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp9/decoder/x86/vp9_dequantize_sse2.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp9/decoder/x86/vp9_dequantize_sse2.c
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/config/mac/ia32/vpx_config.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx/vpx_integer.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp9/common/vp9_common.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx_mem/vpx_mem.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp9/common/vp9_idct.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection140"Compile /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp9/decoder/x86/vp9_dequantize_sse2.c241"[1mCompileC[0m ../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/vp9_dequantize_sse2.o [1msource/libvpx/vp9/decoder/x86/vp9_dequantize_sse2.c[0m normal i386 c com.apple.compilers.llvm.clang.1_0.compiler14ae276f5d12b841^d4ef526f5d12b841^---0#0#1#-19%DVTDocumentLocation2@148"file://localhost/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp9/decoder/x86/vp9_dequantize_sse2.c0000000000000000^3941"[1mCompileC[0m ../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/vp9_dequantize_sse2.o [1msource/libvpx/vp9/decoder/x86/vp9_dequantize_sse2.c[0m normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx    setenv LANG en_US.US-ASCII    /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../third_party/llvm-build/Release+Asserts/bin/clang -x c -arch i386 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -DANGLE_DX11 -DCHROMIUM_BUILD -DUSE_LIBJPEG_TURBO=1 -DENABLE_ONE_CLICK_SIGNIN -DENABLE_REMOTING=1 -DENABLE_WEBRTC=1 -DENABLE_PEPPER_CDMS -DENABLE_CONFIGURATION_POLICY -DENABLE_INPUT_SPEECH -DENABLE_NOTIFICATIONS -DENABLE_HIDPI=1 -DENABLE_EGLIMAGE=1 -DENABLE_TASK_MANAGER=1 -DENABLE_EXTENSIONS=1 -DENABLE_PLUGIN_INSTALLATION=1 -DENABLE_PLUGINS=1 -DENABLE_SESSION_SERVICE=1 -DENABLE_THEMES=1 -DENABLE_AUTOFILL_DIALOG=1 -DENABLE_BACKGROUND=1 -DENABLE_AUTOMATION=1 -DENABLE_GOOGLE_NOW=1 -DENABLE_FULL_PRINTING=1 -DENABLE_PRINTING=1 -DENABLE_SPELLCHECK=1 -DENABLE_CAPTIVE_PORTAL_DETECTION=1 -DENABLE_APP_LIST=1 -DENABLE_SETTINGS_APP=1 -DENABLE_MANAGED_USERS=1 -DDYNAMIC_ANNOTATIONS_ENABLED=1 -DWTF_USE_DYNAMIC_ANNOTATIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/Debug/include -Isource/config/mac/ia32 -Isource/libvpx -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/DerivedSources/i386 -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/DerivedSources -Wendif-labels -Wno-unused-parameter -Wno-missing-field-initializers -Wheader-hygiene -Wno-c++11-narrowing -Wno-char-subscripts -Wno-unused-function -Wno-covered-switch-default -Wstring-conversion -Wno-deprecated-register -Wno-unused-const-variable -Wno-deprecated-declarations -F/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/Debug -Xclang -load -Xclang /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/tools/clang/scripts/../../../third_party/llvm-build/Release+Asserts/lib/libFindBadConstructs.dylib -Xclang -add-plugin -Xclang find-bad-constructs -fno-strict-aliasing -msse2 -fstack-protector-all -MMD -MT dependencies -MF /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/vp9_dequantize_sse2.d --serialize-diagnostics /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/vp9_dequantize_sse2.dia -c /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp9/decoder/x86/vp9_dequantize_sse2.c -o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/vp9_dequantize_sse2.o36"A351D123-69B1-4FB5-9953-3CBC2A878191-
+b9CE75D2A-3426-4D53-B3CE-853EB3643503
+
+CCompileC ../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/vp9_idct_intrin_sse2.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp9/common/x86/vp9_idct_intrin_sse2.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s403856750.205260
+e403856752.306418
+r1
+xCompileC
+x../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/vp9_idct_intrin_sse2.o
+x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp9/common/x86/vp9_idct_intrin_sse2.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp9/common/x86/vp9_idct_intrin_sse2.c
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/config/mac/ia32/vpx_config.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx/vpx_integer.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp9/common/vp9_common.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx_mem/vpx_mem.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp9/common/vp9_idct.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection140"Compile /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp9/common/x86/vp9_idct_intrin_sse2.c242"[1mCompileC[0m ../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/vp9_idct_intrin_sse2.o [1msource/libvpx/vp9/common/x86/vp9_idct_intrin_sse2.c[0m normal i386 c com.apple.compilers.llvm.clang.1_0.compiler3657356e5d12b841^3b704e705d12b841^---0#0#1#-19%DVTDocumentLocation2@148"file://localhost/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp9/common/x86/vp9_idct_intrin_sse2.c0000000000000000^3945"[1mCompileC[0m ../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/vp9_idct_intrin_sse2.o [1msource/libvpx/vp9/common/x86/vp9_idct_intrin_sse2.c[0m normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx    setenv LANG en_US.US-ASCII    /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../third_party/llvm-build/Release+Asserts/bin/clang -x c -arch i386 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -DANGLE_DX11 -DCHROMIUM_BUILD -DUSE_LIBJPEG_TURBO=1 -DENABLE_ONE_CLICK_SIGNIN -DENABLE_REMOTING=1 -DENABLE_WEBRTC=1 -DENABLE_PEPPER_CDMS -DENABLE_CONFIGURATION_POLICY -DENABLE_INPUT_SPEECH -DENABLE_NOTIFICATIONS -DENABLE_HIDPI=1 -DENABLE_EGLIMAGE=1 -DENABLE_TASK_MANAGER=1 -DENABLE_EXTENSIONS=1 -DENABLE_PLUGIN_INSTALLATION=1 -DENABLE_PLUGINS=1 -DENABLE_SESSION_SERVICE=1 -DENABLE_THEMES=1 -DENABLE_AUTOFILL_DIALOG=1 -DENABLE_BACKGROUND=1 -DENABLE_AUTOMATION=1 -DENABLE_GOOGLE_NOW=1 -DENABLE_FULL_PRINTING=1 -DENABLE_PRINTING=1 -DENABLE_SPELLCHECK=1 -DENABLE_CAPTIVE_PORTAL_DETECTION=1 -DENABLE_APP_LIST=1 -DENABLE_SETTINGS_APP=1 -DENABLE_MANAGED_USERS=1 -DDYNAMIC_ANNOTATIONS_ENABLED=1 -DWTF_USE_DYNAMIC_ANNOTATIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/Debug/include -Isource/config/mac/ia32 -Isource/libvpx -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/DerivedSources/i386 -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/DerivedSources -Wendif-labels -Wno-unused-parameter -Wno-missing-field-initializers -Wheader-hygiene -Wno-c++11-narrowing -Wno-char-subscripts -Wno-unused-function -Wno-covered-switch-default -Wstring-conversion -Wno-deprecated-register -Wno-unused-const-variable -Wno-deprecated-declarations -F/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/Debug -Xclang -load -Xclang /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/tools/clang/scripts/../../../third_party/llvm-build/Release+Asserts/lib/libFindBadConstructs.dylib -Xclang -add-plugin -Xclang find-bad-constructs -fno-strict-aliasing -msse2 -fstack-protector-all -MMD -MT dependencies -MF /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/vp9_idct_intrin_sse2.d --serialize-diagnostics /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/vp9_idct_intrin_sse2.dia -c /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp9/common/x86/vp9_idct_intrin_sse2.c -o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/vp9_idct_intrin_sse2.o36"30DC3492-C3E1-446F-8D43-13E27FF733EE-
+b9CE75D2A-3426-4D53-B3CE-853EB3643503
+
+CCompileC ../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/vp9_loopfilter_intrin_sse2.o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp9/common/x86/vp9_loopfilter_intrin_sse2.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s403856750.224485
+e403856751.152685
+r1
+xCompileC
+x../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/vp9_loopfilter_intrin_sse2.o
+x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp9/common/x86/vp9_loopfilter_intrin_sse2.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp9/common/x86/vp9_loopfilter_intrin_sse2.c
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp9/common/vp9_loopfilter.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx_ports/mem.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/config/mac/ia32/vpx_config.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx/vpx_integer.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp9/common/vp9_blockd.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx_scale/yv12config.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp9/common/vp9_common.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx_mem/vpx_mem.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp9/common/vp9_common_data.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp9/common/vp9_enums.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp9/common/vp9_mv.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp9/common/vp9_scale.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp9/common/vp9_convolve.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp9/common/vp9_seg_common.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp9/common/vp9_treecoder.h
+d/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vpx_ports/emmintrin_compat.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection146"Compile /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp9/common/x86/vp9_loopfilter_intrin_sse2.c254"[1mCompileC[0m ../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/vp9_loopfilter_intrin_sse2.o [1msource/libvpx/vp9/common/x86/vp9_loopfilter_intrin_sse2.c[0m normal i386 c com.apple.compilers.llvm.clang.1_0.compiler39b3396e5d12b841^b515276f5d12b841^---0#0#1#-19%DVTDocumentLocation2@154"file://localhost/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp9/common/x86/vp9_loopfilter_intrin_sse2.c0000000000000000^3981"[1mCompileC[0m ../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/vp9_loopfilter_intrin_sse2.o [1msource/libvpx/vp9/common/x86/vp9_loopfilter_intrin_sse2.c[0m normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx    setenv LANG en_US.US-ASCII    /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../third_party/llvm-build/Release+Asserts/bin/clang -x c -arch i386 -fmessage-length=181 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -O0 -Werror -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -DANGLE_DX11 -DCHROMIUM_BUILD -DUSE_LIBJPEG_TURBO=1 -DENABLE_ONE_CLICK_SIGNIN -DENABLE_REMOTING=1 -DENABLE_WEBRTC=1 -DENABLE_PEPPER_CDMS -DENABLE_CONFIGURATION_POLICY -DENABLE_INPUT_SPEECH -DENABLE_NOTIFICATIONS -DENABLE_HIDPI=1 -DENABLE_EGLIMAGE=1 -DENABLE_TASK_MANAGER=1 -DENABLE_EXTENSIONS=1 -DENABLE_PLUGIN_INSTALLATION=1 -DENABLE_PLUGINS=1 -DENABLE_SESSION_SERVICE=1 -DENABLE_THEMES=1 -DENABLE_AUTOFILL_DIALOG=1 -DENABLE_BACKGROUND=1 -DENABLE_AUTOMATION=1 -DENABLE_GOOGLE_NOW=1 -DENABLE_FULL_PRINTING=1 -DENABLE_PRINTING=1 -DENABLE_SPELLCHECK=1 -DENABLE_CAPTIVE_PORTAL_DETECTION=1 -DENABLE_APP_LIST=1 -DENABLE_SETTINGS_APP=1 -DENABLE_MANAGED_USERS=1 -DDYNAMIC_ANNOTATIONS_ENABLED=1 -DWTF_USE_DYNAMIC_ANNOTATIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/Debug/include -Isource/config/mac/ia32 -Isource/libvpx -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/DerivedSources/i386 -I/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/DerivedSources -Wendif-labels -Wno-unused-parameter -Wno-missing-field-initializers -Wheader-hygiene -Wno-c++11-narrowing -Wno-char-subscripts -Wno-unused-function -Wno-covered-switch-default -Wstring-conversion -Wno-deprecated-register -Wno-unused-const-variable -Wno-deprecated-declarations -F/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/Debug -Xclang -load -Xclang /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/tools/clang/scripts/../../../third_party/llvm-build/Release+Asserts/lib/libFindBadConstructs.dylib -Xclang -add-plugin -Xclang find-bad-constructs -fno-strict-aliasing -msse2 -fstack-protector-all -MMD -MT dependencies -MF /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/vp9_loopfilter_intrin_sse2.d --serialize-diagnostics /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/vp9_loopfilter_intrin_sse2.dia -c /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/source/libvpx/vp9/common/x86/vp9_loopfilter_intrin_sse2.c -o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/vp9_loopfilter_intrin_sse2.o36"532F3254-2A96-4F27-B31E-9B21EB31686C-
+b9CE75D2A-3426-4D53-B3CE-853EB3643503
+
+CLibtool /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/Debug/libvpx_intrinsics_sse2.a normal i386
+s403856752.315843
+e403856752.338194
+r1
+xLibtool
+x/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/Debug/libvpx_intrinsics_sse2.a
+xnormal
+xi386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"[1mLibtool[0m ../../xcodebuild/Debug/libvpx_intrinsics_sse2.a normal i38675"[1mLibtool[0m ../../xcodebuild/Debug/libvpx_intrinsics_sse2.a normal i386f32051705d12b841^f39356705d12b841^---0#0#1#--886"[1mLibtool[0m ../../xcodebuild/Debug/libvpx_intrinsics_sse2.a normal i386    cd /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/Debug -filelist /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/libvpx.build/Debug/libvpx_intrinsics_sse2.build/Objects-normal/i386/vpx_intrinsics_sse2.LinkFileList -o /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/third_party/libvpx/../../xcodebuild/Debug/libvpx_intrinsics_sse2.a36"3045A162-C9A4-4819-8956-F775DE70E93D-
+b9CE75D2A-3426-4D53-B3CE-853EB3643503
+

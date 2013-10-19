@@ -1,0 +1,4 @@
+dbfc88aa5e843333fc7a0fae13b762e4 62f906b53d26af32f56416784d92810e ffffffffffffffffffffffffffffffff 0 /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/Debug/libexpat.a
+0000000052514dab000000000000a4ad 21544cb72bd52595ad824093743ea7dc ffffffffffffffffffffffffffffffff 184536 /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/expat.build/Debug/expat.build/Objects-normal/i386/xmltok.o
+0000000052514dab0000000000007bb1 fcd18dc485234d079a4be229081acf02 ffffffffffffffffffffffffffffffff 42852 /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/expat.build/Debug/expat.build/Objects-normal/i386/xmlrole.o
+0000000052514dab000000000002f0e3 067949d9a17103f9cbb3ad146f9124e0 ffffffffffffffffffffffffffffffff 156660 /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/expat.build/Debug/expat.build/Objects-normal/i386/xmlparse.o

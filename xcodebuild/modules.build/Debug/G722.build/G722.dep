@@ -1,0 +1,4 @@
+7743d2ed4941697f3675aac60bdd75d3 db9f0cbe1cce86bc1b12279403f1c7f5 ffffffffffffffffffffffffffffffff 36056 /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/Debug/libG722.a
+000000005251456a0000000000002b96 602aaae482eaf25e84d3a8911df3184b ffffffffffffffffffffffffffffffff 13556 /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/modules.build/Debug/G722.build/Objects-normal/i386/g722_decode.o
+000000005251456a000000000000344b 2481b2af45bf13dc202fc647f28892a4 ffffffffffffffffffffffffffffffff 14192 /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/modules.build/Debug/G722.build/Objects-normal/i386/g722_encode.o
+000000005251456a0000000000000955 33e8caa6df17d90b9289c410e4a6e8bf ffffffffffffffffffffffffffffffff 7492 /Users/helloiampau/Develop/NodeRTC/node-rtc/third_party/trunk/xcodebuild/modules.build/Debug/G722.build/Objects-normal/i386/g722_interface.o
