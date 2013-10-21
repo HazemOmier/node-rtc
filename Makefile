@@ -3,48 +3,43 @@ ifeq ($(UNAME_S),Darwin)
 	NPM = npm_config_arch="ia32" npm
 	GYP = ./node_modules/.bin/node-gyp --arch=i386
 	NODE = arch --i386 node
+	GENERATORS = make
+	BUILD_CMD = make BUILDTYPE=Release libjingle_peerconnection libjingle_p2p libjingle_media libjingle_sound libjingle voice_engine video_engine_core webrtc_utility audio_conference_mixer audio_processing audio_processing_sse2 audio_device video_processing video_processing_sse2 video_render_module remote_bitrate_estimator rbe_components rtp_rtcp acm2 audio_coding_module NetEq webrtc_opus G711 iSAC iLBC CNG audioproc_debug_proto NetEq4 G722 PCM16B common_audio libsrtp opus protobuf_lite system_wrappers
+	ADDITIONAL_BUILD = export LDFLAGS=-L/usr/local/opt/openssl/lib; export CPPFLAGS=-I/usr/local/opt/openssl/include
 else
 	NPM = npm
 	GYP = ./node_modules/.bin/node-gyp
 	NODE = node
+	GENERATORS = ninja
+	BUILD_CMD = ninja -C out/Release peerconnection_client
 endif
 
 all: deps test
 
-check_os:
-ifeq ($(UNAME_S),Darwin)
-	@echo "Mac OS is currently not supported. Use Vagrant file to init a new virtual Linux environment"
-	@exit -1
-endif
-
-prepare_env: check_os
+prepare_env: 
 	mkdir -p third_party; cd third_party; if [ ! -d "depot_tools" ]; then git clone https://chromium.googlesource.com/chromium/tools/depot_tools.git; fi
-	cd third_party; ./depot_tools/gclient config http://webrtc.googlecode.com/svn/trunk/; ./depot_tools/gclient sync --force;
-	#cd third_party/trunk/; patch -N -p0 < ../../confs/buildall.patch; build/gyp_chromium -f make --depth=. webrtc/build/merge_libs.gyp; make merged_lib
+	cd third_party; ./depot_tools/gclient config http://webrtc.googlecode.com/svn/trunk/; GYP_GENERATORS=$(GENERATORS) ./depot_tools/gclient sync --force;
 
-build_deps: check_os
-	cd third_party/trunk; ninja -C out/Release peerconnection_client
+build_deps:
+	cd third_party/trunk; $(ADDITIONAL_BUILD); $(BUILD_CMD)
 
-	#cd third_party; ./depot_tools/gclient config --name trunk http://webrtc.googlecode.com/svn/stable/; GYP_GENERATORS=make ./depot_tools/gclient sync
-	#cd third_party/trunk; ./build/gyp_chromium all.gyp -f make --depth=./ -Dinclude_tests=0 -Dcomponent=static_library; make libjingle_peerconnection libjingle libjingle_p2p libjingle_media webrtc protobuf_lite rbe_components opus libsrtp
-
-deps: check_os
+deps:
 	$(NPM) install
 
-build: check_os
+build:
 	$(GYP) configure
 	./node_modules/.bin/node-gyp build -v
 
-test: check_os
+test:
 	$(NODE) ./node_modules/.bin/_mocha
 
-docs: check_os
+docs:
 	git submodule update --init
 	cd third_party/doxygen; ./configure; make
 	./third_party/doxygen/bin/doxygen ./confs/docs.conf
 	open docs/html/index.html
 
-clean: check_os
+clean:
 	rm -rf third_party
 	rm -rf docs
 	cd src; ../node_modules/.bin/node-gyp clean
