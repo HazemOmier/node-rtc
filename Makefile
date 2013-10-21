@@ -4,8 +4,7 @@ ifeq ($(UNAME_S),Darwin)
 	GYP = ./node_modules/.bin/node-gyp --arch=i386
 	NODE = arch --i386 node
 	GENERATORS = make
-	BUILD_CMD = make BUILDTYPE=Release libjingle_peerconnection libjingle_p2p libjingle_media libjingle_sound libjingle voice_engine video_engine_core webrtc_utility audio_conference_mixer audio_processing audio_processing_sse2 audio_device video_processing video_processing_sse2 video_render_module remote_bitrate_estimator rbe_components rtp_rtcp acm2 audio_coding_module NetEq webrtc_opus G711 iSAC iLBC CNG audioproc_debug_proto NetEq4 G722 PCM16B common_audio libsrtp opus protobuf_lite system_wrappers
-	ADDITIONAL_BUILD = export LDFLAGS=-L/usr/local/opt/openssl/lib; export CPPFLAGS=-I/usr/local/opt/openssl/include
+	BUILD_CMD = export LDFLAGS=-L/usr/local/opt/openssl/lib; export CPPFLAGS=-I/usr/local/opt/openssl/include; make BUILDTYPE=Release libjingle_peerconnection libjingle_p2p libjingle_media libjingle_sound libjingle voice_engine video_engine_core webrtc_utility audio_conference_mixer audio_processing audio_processing_sse2 audio_device video_processing video_processing_sse2 video_render_module remote_bitrate_estimator rbe_components rtp_rtcp acm2 audio_coding_module NetEq webrtc_opus G711 iSAC iLBC CNG audioproc_debug_proto NetEq4 G722 PCM16B common_audio libsrtp opus protobuf_lite system_wrappers
 else
 	NPM = npm
 	GYP = ./node_modules/.bin/node-gyp
@@ -21,7 +20,7 @@ prepare_env:
 	cd third_party; ./depot_tools/gclient config http://webrtc.googlecode.com/svn/trunk/; GYP_GENERATORS=$(GENERATORS) ./depot_tools/gclient sync --force;
 
 build_deps:
-	cd third_party/trunk; $(ADDITIONAL_BUILD); $(BUILD_CMD)
+	cd third_party/trunk; $(BUILD_CMD)
 
 deps:
 	$(NPM) install
