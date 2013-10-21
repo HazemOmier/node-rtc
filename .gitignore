@@ -7,3 +7,4 @@ third_party/.gclient
 third_party/.gclient_entries
 build/
 docs/
+.vagrant
