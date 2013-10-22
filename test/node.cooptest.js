@@ -6,7 +6,7 @@ wss.on('connection', function(ws) {
   var pc = new rtcModule.NodeRTCPeerconnection();
 
   ws.on('message', function(message) {
-    ws.send(message);
+    console.log('message');
   });
 });
 
