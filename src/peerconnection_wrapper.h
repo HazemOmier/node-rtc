@@ -46,6 +46,7 @@ class PeerconnectionWrapper :
       static v8::Handle<v8::Value> SetLocalDescription(const v8::Arguments& args);
       static v8::Handle<v8::Value> SetRemoteDescription(const v8::Arguments& args);
       static v8::Handle<v8::Value> AddIceCandidate(const v8::Arguments& args);
+      static v8::Handle<v8::Value> Close(const v8::Arguments& args);
 
     private:
       static void createSessionDescriptionCallbackHandler(uv_async_t *handle, int status);

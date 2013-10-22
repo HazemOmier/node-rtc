@@ -30,7 +30,8 @@ build:
 	./node_modules/.bin/node-gyp build -v
 
 test:
-	$(NODE) ./node_modules/.bin/_mocha
+	$(NODE) ./node_modules/.bin/_mocha test/*.test.js
+	./node_modules/.bin/karma  start confs/karma.conf.js --single-run
 
 docs:
 	git submodule update --init

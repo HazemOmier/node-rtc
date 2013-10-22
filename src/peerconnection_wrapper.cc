@@ -21,6 +21,7 @@ void PeerconnectionWrapper::Init(Handle<Object> exports) {
   tpl->PrototypeTemplate()->Set(String::NewSymbol("setLocalDescription"), FunctionTemplate::New(SetLocalDescription)->GetFunction());
   tpl->PrototypeTemplate()->Set(String::NewSymbol("setRemoteDescription"), FunctionTemplate::New(SetRemoteDescription)->GetFunction());
   tpl->PrototypeTemplate()->Set(String::NewSymbol("addIceCandidate"), FunctionTemplate::New(AddIceCandidate)->GetFunction());
+  tpl->PrototypeTemplate()->Set(String::NewSymbol("close"), FunctionTemplate::New(Close)->GetFunction());
 
   tpl->InstanceTemplate()->SetInternalFieldCount(1);
 
@@ -225,6 +226,16 @@ Handle<Value> PeerconnectionWrapper::SetRemoteDescription(const Arguments& args)
 
   talk_base::scoped_refptr<SetSessionDescriptionObserverImpl> obs = new talk_base::RefCountedObject<SetSessionDescriptionObserverImpl>(thisWrapper);
   thisWrapper->peerConnection->SetRemoteDescription(obs, description);
+
+  return scope.Close(Undefined());
+}
+
+
+v8::Handle<v8::Value> PeerconnectionWrapper::Close(const v8::Arguments& args) {
+  HandleScope scope;
+
+  PeerconnectionWrapper* thisWrapper = ObjectWrap::Unwrap<PeerconnectionWrapper>(args.This());
+  thisWrapper->peerConnection->Close();
 
   return scope.Close(Undefined());
 }
