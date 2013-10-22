@@ -31,6 +31,7 @@ build:
 
 test:
 	$(NODE) ./node_modules/.bin/_mocha test/*.test.js
+	$(NODE) ./test/node.cooptest.js &
 	./node_modules/.bin/karma  start confs/karma.conf.js --single-run
 
 docs:
