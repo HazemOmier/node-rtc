@@ -31,7 +31,7 @@ build:
 
 test:
 	$(NODE) ./node_modules/.bin/_mocha test/*.test.js
-	$(NODE) ./test/node.cooptest.js & SERVER_PID=$$!; ./node_modules/.bin/karma start confs/karma.conf.js --single-run; kill $$SERVER_PID
+	$(NODE) ./test/node.cooptest.js 2> /tmp/nodertc.log & SERVER_PID=$$!; ./node_modules/.bin/karma start confs/karma.conf.js --single-run; kill $$SERVER_PID
 
 docs:
 	git submodule update --init
