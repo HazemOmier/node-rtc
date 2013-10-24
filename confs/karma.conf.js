@@ -62,7 +62,7 @@ module.exports = function(config) {
         base: 'Chrome',
         flags: ['--no-sandbox']
       }
-    }
+    },
 
 
     // If browser does not capture in given timeout [ms], kill it
