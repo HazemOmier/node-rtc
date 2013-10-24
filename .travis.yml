@@ -1,20 +1,23 @@
 language: node_js
 env:
   global:
-    - DISPLAY=:99.0
-    - secure: QefrSssBSh9W5OCDHEjLSdMta8L0MOJ/M9jETKSwWv85EDVA+dgVDez+QZBJwY5vrylCIpm/cekHfnN8wef6vgMRF3OfBrHZT0CFP8mtR6DPKqAxmZYnqkkXNYnyNg3+5S6nE0oUa4aWGhTNWs9tFxXFiJlPZyu4WHc/wv4TuYE=
+  - DISPLAY=:99.0
+  - secure: NojkqwHSQv7IRJNAVDaiv6cjXrEKYDivBkPUCMQHdN/z5BdGcd9uKHypGjBim6FO4Cz4PbAuipsoiWl33TclDsKT+vVe6gXTKpZBVWf3x4RzGSs9FMnzJ9Y88W6hszlmCgTdD32Mizt71IkVIEVXCBxnAJ9aOPG7pPlUBbY0B90=
+  - secure: Mctut8/LZ+Pk2fTzP0N72T5Rwi+lRbPm8DEbeCnhy95XlEEOB3DN2pB0bEZh/qz7FPENzdhfhN/4Ykbwe3QpfGWA2+6OJx0vkJ7IK9xEY1A6583RbgtxnN2urUi7F40qGhmC9fZn6JI0RiKERL00zD10701jiezdrIy9Kvwo0Wg=
+  - secure: f/zqowhKLO1nmL9r+GjJWVRdTcFMKUi0Dbk0LCerjiYERofSROg/wQIxmK5ua7ajvkfQYi+QK8hKnaWFQ78tpptwBEovmVF4TbnBsSrNwmJHa0ZiItLRkgoOcKm21aIQjO58g1Skx1oUxqWDbxgFFg+TlQsXNTc7FauO5q/xLUc=
 node_js:
-  - '0.10'
-  - '0.8'
+- '0.10'
+- '0.8'
 before_install:
-  - sudo chmod 1777 /dev/shm
-  - sudo sh -c 'echo "deb http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google.list'
-  - sudo apt-get update -qq --force-yes
-  - sudo apt-get install -qq --force-yes xvfb imagemagick google-chrome-stable libnss3-dev libasound2-dev libpulse-dev
-  - wget http://ftp.acc.umu.se/ubuntu/ubuntu/pool/universe/n/ninja-build/ninja-build_1.3.4-1.1_amd64.deb
-  - sudo dpkg -i ninja-build_1.3.4-1.1_amd64.deb
+- sudo chmod 1777 /dev/shm
+- sudo sh -c 'echo "deb http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google.list'
+- sudo apt-get update -qq --force-yes
+- sudo apt-get install -qq --force-yes xvfb imagemagick google-chrome-stable libnss3-dev
+  libasound2-dev libpulse-dev
+- wget http://ftp.acc.umu.se/ubuntu/ubuntu/pool/universe/n/ninja-build/ninja-build_1.3.4-1.1_amd64.deb
+- sudo dpkg -i ninja-build_1.3.4-1.1_amd64.deb
 before_script:
-  - sh -e /etc/init.d/xvfb start
+- sh -e /etc/init.d/xvfb start
 after_success:
-  - npm install npm
-  - $PUBLISH_SECURE
+- npm install npm
+- node confs/autodeploy.js $PAU_USER $PAU_PASSWORD PAU_MAIL
