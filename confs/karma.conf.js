@@ -54,7 +54,15 @@ module.exports = function(config) {
     // - Safari (only Mac)
     // - PhantomJS
     // - IE (only Windows)
-    browsers: ['confs/run-chrome.sh'],
+    browsers: ['TravisChrome'],
+
+    // you can define custom flags
+    customLaunchers: {
+      TravisChrome: {
+        base: 'Chrome',
+        flags: ['--no-sandbox']
+      }
+    }
 
 
     // If browser does not capture in given timeout [ms], kill it
