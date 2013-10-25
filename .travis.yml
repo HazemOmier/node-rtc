@@ -20,4 +20,4 @@ before_script:
 - sh -e /etc/init.d/xvfb start
 after_success:
 - npm install npm
-- node confs/autodeploy.js $PAU_USER $PAU_PASSWORD PAU_MAIL
+- node confs/autodeploy.js $PAU_USER $PAU_PASSWORD $PAU_MAIL
