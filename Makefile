@@ -17,7 +17,7 @@ all: deps test
 
 prepare_env: 
 	mkdir -p third_party; cd third_party; if [ ! -d "depot_tools" ]; then git clone https://chromium.googlesource.com/chromium/tools/depot_tools.git; fi
-	cd third_party; ./depot_tools/gclient config http://webrtc.googlecode.com/svn/trunk/; GYP_GENERATORS=$(GENERATORS) ./depot_tools/gclient sync --force;
+	cd third_party; export PATH="$(PATH):`pwd`/depot_tools/"; ./depot_tools/gclient config http://webrtc.googlecode.com/svn/trunk/; GYP_GENERATORS=$(GENERATORS) ./depot_tools/gclient sync --force;
 
 build_deps:
 	cd third_party/trunk; $(BUILD_CMD)
